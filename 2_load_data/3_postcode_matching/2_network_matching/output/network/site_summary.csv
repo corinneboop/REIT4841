@@ -1,0 +1,235 @@
+SITE,BUSES,LOAD_CATEGORY,FEEDERS,TRANSFORMERS,KVA,DWELLINGS,SUBURBS,POSTCODES,KVA_C&I,KVA_GROUND,KVA_PADMOUNT,KVA_POLE
+Acacia Ridge,Acacia Ridge,Industrial,8.0,99.0,53275.0,3071.0,4.0,3.0,,25065.0,10375.0,17835.0
+Albany Creek,Albany Creek,Domestic,8.0,183.0,62764.0,8444.9,6.0,5.0,,2750.0,42990.0,17024.0
+Alexandra Headland,Alexandra Headland,Domestic,24.0,446.0,221534.0,22145.4,8.0,7.0,1500.0,42200.0,121695.0,56139.0
+Algester,Algester,Mixed Domestic,8.0,183.0,99602.0,4811.2,5.0,3.0,,24500.0,62310.0,12792.0
+Amamoor,Amamoor,Domestic,3.0,477.0,34618.0,1311.1,19.0,2.0,,2500.0,2750.0,29368.0
+Ann St,Ann St,Industrial,44.0,28.0,32000.0,1026.9,1.0,1.0,20500.0,9750.0,1750.0,
+Annerley,Annerley,Domestic,7.0,98.0,43990.0,7961.5,5.0,4.0,,6350.0,14995.0,22645.0
+Arana Hills,Arana Hills,Domestic,9.0,240.0,86836.0,13445.8,11.0,4.0,1500.0,4050.0,44280.0,37006.0
+Archerfield,Archerfield,Industrial,10.0,80.0,47790.0,87.7,2.0,2.0,1500.0,15245.0,18965.0,12080.0
+Arundel,Arundel,Mixed Domestic,12.0,139.0,72488.0,4180.7,4.0,3.0,1500.0,9250.0,44505.0,17233.0
+Ashgrove,Ashgrove,Domestic,10.0,146.0,60570.0,8058.9,6.0,6.0,1500.0,6100.0,18930.0,34040.0
+Astor Terrace,Astor Terrace,Industrial,29.0,72.0,58600.0,2335.1,4.0,2.0,21000.0,24800.0,12800.0,
+Bald Hills,Bald Hills Bus 1 + Bald Hills Bus 2,Domestic,7.0,125.0,50088.0,7286.0,5.0,5.0,,2750.0,37070.0,10268.0
+Beaudesert,Beaudesert,Domestic,6.0,553.0,78588.0,4848.0,18.0,2.0,,5750.0,25575.0,47263.0
+Beenleigh,Beenleigh,Mixed Industrial,14.0,390.0,125593.0,10070.8,14.0,2.0,1500.0,21750.0,51430.0,50913.0
+Beenleigh North,Beenleigh North,Mixed Industrial,7.0,150.0,57777.0,5659.5,4.0,1.0,,8750.0,21885.0,27142.0
+Beerwah,Beerwah,Domestic,5.0,477.0,68198.0,5228.0,8.0,5.0,,5750.0,19930.0,42518.0
+Belmont,Belmont,Domestic,6.0,137.0,53233.0,4428.0,7.0,6.0,,9000.0,33010.0,11223.0
+Bethania,Bethania,Domestic,5.0,166.0,61446.0,8334.6,7.0,3.0,,3750.0,39820.0,17876.0
+Birkdale,Birkdale,Domestic,7.0,193.0,69270.0,12078.6,4.0,4.0,,2500.0,29080.0,37690.0
+Birtinya,Birtinya,Mixed Domestic,7.0,68.0,39930.0,3859.2,5.0,2.0,1500.0,4750.0,33030.0,650.0
+Black Mountain,Black Mountain,Domestic,5.0,397.0,29865.0,2388.0,10.0,4.0,,1500.0,6675.0,21690.0
+Boonah,Boonah,Domestic,7.0,519.0,37487.0,2278.0,21.0,2.0,,2500.0,5310.0,29677.0
+Booval,Booval,Domestic,8.0,171.0,65623.0,9243.4,12.0,4.0,1500.0,6750.0,18585.0,38788.0
+Brendale,Brendale,Domestic,13.0,295.0,103528.0,8415.4,9.0,4.0,,12500.0,65385.0,25643.0
+Bribie Island,Bribie Island,Domestic,7.0,204.0,76254.0,11361.5,6.0,2.0,,5000.0,44585.0,26669.0
+Brighton,Brighton,Domestic,4.0,75.0,27525.0,4858.0,2.0,1.0,,3315.0,6930.0,17280.0
+Broadbeach,Broadbeach,Mixed Domestic,32.0,207.0,137335.0,13942.6,6.0,2.0,9000.0,40150.0,61990.0,26195.0
+Bromelton,Bromelton,Industrial,6.0,189.0,29714.0,1050.4,7.0,2.0,1500.0,6000.0,4980.0,17234.0
+Browns Plains,Browns Plains,Mixed Domestic,16.0,360.0,154642.0,13204.3,12.0,6.0,,23865.0,79905.0,50872.0
+Bulimba,Bulimba,Domestic,9.0,128.0,57205.0,8581.0,4.0,2.0,,5750.0,21530.0,29925.0
+Bundall,Bundall,Mixed Industrial,9.0,71.0,40945.0,2480.5,5.0,3.0,,13250.0,14730.0,12965.0
+Bundamba,Bundamba,Industrial,22.0,223.0,84156.0,6063.3,11.0,4.0,6000.0,18250.0,29380.0,30526.0
+Buranda,Buranda,Mixed Industrial,9.0,88.0,54290.0,5186.1,6.0,3.0,1500.0,13750.0,28545.0,10495.0
+Burleigh Heads,Burleigh Heads,Domestic,20.0,507.0,191827.0,19825.3,9.0,5.0,1500.0,23500.0,96055.0,70772.0
+Burpengary,Burpengary,Domestic,7.0,194.0,75579.0,8013.1,4.0,3.0,,4500.0,49715.0,21364.0
+Caboolture,Caboolture,Domestic,8.0,384.0,111540.0,8640.8,6.0,2.0,1500.0,12500.0,58530.0,39010.0
+Caboolture West,Caboolture West,Domestic,12.0,398.0,93840.0,9637.9,10.0,5.0,,7500.0,45605.0,40735.0
+Cades County,Cades County,Domestic,20.0,408.0,165342.0,14875.5,12.0,6.0,,20750.0,112915.0,31677.0
+Calamvale,Calamvale,Domestic,10.0,196.0,92840.0,13970.4,7.0,3.0,,7500.0,79645.0,5695.0
+Caloundra,Caloundra,Domestic,20.0,539.0,256491.0,22098.1,17.0,3.0,1500.0,22600.0,179820.0,52571.0
+Camp Hill,Camp Hill,Domestic,10.0,180.0,64673.0,14477.8,8.0,3.0,,3165.0,18255.0,43253.0
+Capalaba,Capalaba,Mixed Domestic,8.0,109.0,39360.0,3359.2,5.0,4.0,,7000.0,12350.0,20010.0
+Capalaba South,Capalaba South,Domestic,6.0,152.0,45449.0,5557.0,3.0,2.0,,1500.0,19035.0,24914.0
+Carole Park,Carole Park,Industrial,9.0,112.0,52513.0,3654.2,5.0,1.0,1500.0,12750.0,20560.0,17703.0
+Carole Park Central,Carole Park Central,Industrial,10.0,125.0,75234.0,3828.3,3.0,3.0,1500.0,31500.0,29570.0,12664.0
+Carpendale,Carpendale,Domestic,3.0,261.0,12999.0,896.9,16.0,5.0,,,1100.0,11899.0
+Charlotte St,Charlotte St,Industrial,109.0,94.0,113600.0,3738.5,1.0,1.0,83550.0,25050.0,5000.0,
+Chermside,Chermside,Mixed Industrial,19.0,159.0,90595.0,10212.5,6.0,5.0,4500.0,19250.0,46055.0,20790.0
+Clayfield,Clayfield,Mixed Industrial,7.0,104.0,52105.0,6750.0,6.0,6.0,,10050.0,23845.0,18210.0
+Cleveland,Cleveland,Domestic,9.0,223.0,74891.0,8643.5,5.0,4.0,,9000.0,35675.0,30216.0
+Coolum,Coolum,Domestic,8.0,318.0,103396.0,11160.2,15.0,5.0,200.0,13000.0,55160.0,35036.0
+Coomera,Coomera,Domestic,13.0,251.0,122079.0,10249.1,4.0,1.0,1500.0,9500.0,101425.0,9654.0
+Coominya,Coominya,Mixed Industrial,4.0,317.0,22980.0,795.5,9.0,2.0,1500.0,1500.0,,19980.0
+Cooneana,Cooneana,Industrial,5.0,198.0,58583.0,3943.4,10.0,5.0,1500.0,7250.0,37890.0,11943.0
+Coopers Plains,Coopers Plains,Industrial,9.0,157.0,80038.0,2314.9,5.0,3.0,,18865.0,39975.0,21198.0
+Cooran,Cooran,Domestic,4.0,511.0,29832.0,3059.2,11.0,5.0,,,1630.0,28202.0
+Cooroy,Cooroy,Domestic,4.0,355.0,28965.0,2393.5,9.0,5.0,,1500.0,4195.0,23270.0
+Coorparoo,Coorparoo,Mixed Industrial,7.0,118.0,55340.0,8868.0,7.0,6.0,,9600.0,18940.0,26800.0
+Cornubia,Cornubia,Domestic,4.0,141.0,30182.0,3706.2,4.0,3.0,,,13590.0,16592.0
+Crestmead,Crestmead,Industrial,12.0,320.0,151559.0,10778.5,9.0,6.0,1500.0,26300.0,87030.0,36729.0
+Currimundi,Currimundi,Domestic,9.0,159.0,58171.0,9551.2,11.0,3.0,,,40860.0,17311.0
+Currumbin,Currumbin,Domestic,8.0,242.0,66530.0,7808.3,7.0,5.0,1500.0,3750.0,23045.0,38235.0
+Darra,Darra,Industrial,10.0,133.0,84175.0,1968.6,4.0,4.0,,27150.0,44140.0,12885.0
+Deception Bay,Deception Bay,Domestic,8.0,217.0,89595.0,9998.6,3.0,4.0,,8500.0,54165.0,26930.0
+Doboy,Doboy,Mixed Industrial,5.0,58.0,42240.0,5.4,1.0,2.0,1500.0,12500.0,23750.0,4490.0
+Duffield Road,Duffield Road,Domestic,6.0,205.0,89505.0,11657.0,6.0,4.0,,6750.0,43095.0,39660.0
+Eight Mile Plains,Eight Mile Plains Bus 1 + Eight Mile Plains Bus 2,Mixed Industrial,11.0,228.0,108834.0,8669.3,10.0,5.0,1500.0,13050.0,74510.0,19774.0
+Enoggera,Enoggera,Domestic,10.0,150.0,71500.0,8665.0,6.0,3.0,1500.0,7315.0,36560.0,26125.0
+Esk,Esk,Domestic,3.0,234.0,14748.0,1090.2,7.0,2.0,,,915.0,13833.0
+Eumundi,Eumundi,Domestic,3.0,210.0,19562.0,1378.9,7.0,2.0,,,3520.0,16042.0
+Fisherman Is A,Fisherman Is A,Industrial,9.0,21.0,22000.0,3.1,1.0,1.0,6000.0,6000.0,10000.0,
+Fisherman Is B,Fisherman Is B,Industrial,4.0,28.0,20905.0,3.0,1.0,1.0,1500.0,11800.0,7605.0,
+Flinders,Flinders,Domestic,3.0,639.0,36261.0,1368.8,21.0,7.0,315.0,2250.0,815.0,32881.0
+Gatton A,Gatton A,Domestic,7.0,387.0,70879.0,3972.1,14.0,4.0,200.0,10500.0,13545.0,46634.0
+Gaven,Gaven,Domestic,8.0,182.0,88120.0,9123.3,9.0,4.0,3000.0,9250.0,65715.0,10155.0
+Geebung,Geebung,Industrial,15.0,202.0,115608.0,4984.9,6.0,3.0,1500.0,28100.0,63840.0,22168.0
+Gibson Island,Gibson Island,Continuous,4.0,1.0,1500.0,0.0,,1.0,1500.0,,,
+Glenore Grove,Glenore Grove,Domestic,5.0,417.0,50162.0,2033.4,13.0,4.0,,2250.0,10955.0,36957.0
+Goodna,Goodna,Mixed Domestic,6.0,115.0,42033.0,6407.9,5.0,2.0,,,26485.0,15548.0
+Goomboorian,Goomboorian,Mixed Domestic,3.0,415.0,18070.0,1029.2,13.0,1.0,,,,18070.0
+Grantham,Grantham,,2.0,76.0,9553.0,274.1,4.0,3.0,,1500.0,945.0,7108.0
+Grovely,Grovely,Domestic,8.0,160.0,63930.0,8381.4,5.0,3.0,,4850.0,41145.0,17935.0
+Gympie,Gympie,Mixed Domestic,12.0,506.0,90967.0,8331.1,21.0,1.0,,8000.0,25290.0,57677.0
+Gympie North,Gympie North,Domestic,6.0,530.0,64331.0,4552.6,24.0,1.0,,7250.0,14095.0,42986.0
+Gympie South,Gympie South,Industrial,4.0,445.0,36763.0,1359.2,19.0,3.0,,2750.0,3500.0,30513.0
+Hamilton,Hamilton,Mixed Industrial,12.0,110.0,63325.0,6628.3,3.0,3.0,3000.0,10250.0,32725.0,17350.0
+Hamilton Lands,Hamilton Lands,Industrial,10.0,96.0,61630.0,889.3,1.0,2.0,,17315.0,39025.0,5290.0
+Heathwood,Heathwood,Industrial,13.0,152.0,82886.0,4880.2,5.0,3.0,1500.0,15000.0,60855.0,5531.0
+Helidon,Helidon,Domestic,4.0,123.0,16218.0,618.4,5.0,2.0,,3000.0,815.0,12403.0
+Hemmant,Hemmant,Industrial,6.0,56.0,30336.0,767.2,2.0,3.0,,10250.0,12630.0,7456.0
+Hendra,Hendra,Domestic,8.0,101.0,48750.0,6019.9,5.0,3.0,1500.0,3500.0,23295.0,20455.0
+Holland Park,Holland Park,Domestic,13.0,116.0,48160.0,9041.8,7.0,4.0,1500.0,3500.0,16595.0,26565.0
+Holland Park East,Holland Park East,Domestic,5.0,104.0,41825.0,7239.2,9.0,4.0,,5800.0,15525.0,20500.0
+Hollywell,Hollywell,Domestic,10.0,179.0,82543.0,13447.2,5.0,1.0,,6500.0,56080.0,19963.0
+Hope Island,Hope Island,Domestic,10.0,196.0,100138.0,9115.8,4.0,3.0,,10000.0,85185.0,4953.0
+Ibis,Ibis,Domestic,1.0,8.0,1215.0,306.0,1.0,1.0,,,,1215.0
+Imbil,Imbil,Industrial,2.0,154.0,13464.0,676.7,7.0,3.0,,1000.0,2000.0,10464.0
+Inala,Inala,Domestic,9.0,223.0,97788.0,13725.2,6.0,3.0,,6065.0,70275.0,21448.0
+Indooroopilly,Indooroopilly,Mixed Industrial,10.0,92.0,47510.0,4776.4,4.0,3.0,1500.0,3500.0,30135.0,12375.0
+Innisplain,Innisplain,Domestic,4.0,660.0,39461.0,1007.3,24.0,4.0,,,1250.0,38211.0
+Ipswich South,Ipswich South,Domestic,6.0,193.0,65245.0,7800.8,12.0,2.0,,3500.0,33375.0,28370.0
+Jimboomba,Jimboomba,Domestic,8.0,571.0,97791.0,8660.0,19.0,6.0,,2500.0,50760.0,44531.0
+Jindalee,Jindalee,Domestic,6.0,67.0,31580.0,3275.0,6.0,3.0,,5500.0,18770.0,7310.0
+Kalbar,Kalbar,Domestic,5.0,694.0,50746.0,1750.1,30.0,4.0,,2500.0,2380.0,45866.0
+Kallangur,Kallangur,Domestic,11.0,306.0,109915.0,15972.0,5.0,2.0,,5250.0,63385.0,41280.0
+Karrabin,Karrabin,Domestic,6.0,386.0,52016.0,4709.7,14.0,3.0,,9500.0,19310.0,23206.0
+Kawana,Kawana,Mixed Industrial,9.0,184.0,95365.0,8033.0,7.0,1.0,,11000.0,59510.0,24855.0
+Kedron,Kedron,Domestic,15.0,207.0,103405.0,12245.7,12.0,7.0,1500.0,14415.0,54090.0,33400.0
+Kelvin Grove,Kelvin Grove,Mixed Industrial,13.0,81.0,46780.0,5881.1,7.0,3.0,,15000.0,20625.0,11155.0
+Kenilworth,Kenilworth,Domestic,3.0,496.0,28156.0,1831.6,13.0,5.0,,1500.0,415.0,26241.0
+Kenmore,Kenmore,Domestic,12.0,293.0,82273.0,9764.8,7.0,2.0,,6900.0,34115.0,41258.0
+Kilcoy,Kilcoy,Mixed Industrial,5.0,481.0,41546.0,2263.3,16.0,3.0,,1000.0,8710.0,31836.0
+Kingston,Kingston,Domestic,10.0,266.0,95898.0,13340.0,8.0,5.0,,10250.0,34110.0,51538.0
+Kirra,Kirra,Mixed Domestic,8.0,87.0,51150.0,6091.0,3.0,2.0,1500.0,14000.0,23365.0,12285.0
+Labrador,Labrador,Domestic,10.0,116.0,58935.0,11386.8,4.0,3.0,,12800.0,22560.0,23575.0
+Laidley,Laidley,Domestic,5.0,664.0,49861.0,3611.5,20.0,4.0,,,7510.0,42351.0
+Landsborough,Landsborough,Domestic,4.0,284.0,45093.0,4285.6,7.0,5.0,,5000.0,12410.0,27683.0
+Lawnton,Lawnton,Domestic,7.0,247.0,91857.0,10886.9,7.0,4.0,,6550.0,48090.0,37217.0
+Lockrose,Lockrose,Domestic,4.0,322.0,30570.0,2590.0,13.0,4.0,,,6095.0,24475.0
+Logan Village,Logan Village Bus 1,Domestic,5.0,275.0,71443.0,5464.9,8.0,3.0,,500.0,49985.0,20958.0
+Loganholme,Loganholme,Mixed Domestic,10.0,157.0,71064.0,5128.0,5.0,3.0,,14750.0,30115.0,26199.0
+Loganlea,Loganlea,Mixed Domestic,7.0,107.0,54000.0,4171.1,5.0,4.0,1500.0,2250.0,29250.0,21000.0
+Lota,Lota,Domestic,7.0,171.0,59576.0,10693.3,10.0,5.0,,,30430.0,29146.0
+Lowood,Lowood,Domestic,3.0,75.0,11599.0,521.1,4.0,2.0,,,1615.0,9984.0
+Lytton,Lytton,Continuous,12.0,12.0,6080.0,1.5,1.0,1.0,3000.0,1000.0,800.0,1280.0
+Lytton B,Lytton B,Industrial,9.0,113.0,82263.0,425.1,4.0,2.0,,23050.0,54375.0,4838.0
+Makerston St,Makerston St,Industrial,49.0,30.0,29565.0,862.5,1.0,2.0,18250.0,9250.0,2065.0,
+Maleny,Maleny,Domestic,4.0,480.0,41745.0,4100.2,17.0,6.0,,1000.0,7400.0,33345.0
+Mango Hill,Mango Hill Bus 1 + Mango Hill Bus 2,Domestic,15.0,306.0,166462.0,15753.9,5.0,4.0,,11500.0,149560.0,5402.0
+Marburg,Marburg,Domestic,3.0,327.0,21422.0,1437.4,17.0,5.0,,1500.0,4695.0,15227.0
+McLachlan St,McLachlan St,Industrial,41.0,155.0,138140.0,11581.5,7.0,3.0,26250.0,56450.0,51865.0,3575.0
+Meeandah,Meeandah,Industrial,13.0,119.0,81443.0,129.0,1.0,2.0,,30050.0,45110.0,6283.0
+Merrimac,Merrimac,Domestic,10.0,148.0,76150.0,7184.4,9.0,4.0,,9000.0,53500.0,13650.0
+Miami,Miami,Domestic,7.0,142.0,69080.0,11250.9,6.0,3.0,3000.0,2750.0,37950.0,25380.0
+Milton,Milton,Industrial,27.0,89.0,61185.0,4765.7,6.0,4.0,3000.0,21750.0,27795.0,8640.0
+Moggill,Moggill,Domestic,7.0,176.0,50924.0,5131.5,5.0,2.0,,4000.0,29020.0,17904.0
+Molendinar,Molendinar,Mixed Domestic,15.0,252.0,131514.0,8363.6,5.0,4.0,1500.0,20000.0,68425.0,41589.0
+Mooloolaba,Mooloolaba,Domestic,10.0,344.0,149311.0,15349.4,12.0,7.0,,10500.0,117480.0,21331.0
+Moorooka,Moorooka,Domestic,8.0,105.0,49715.0,6349.5,5.0,4.0,,12750.0,12245.0,24720.0
+Morayfield,Morayfield,Domestic,9.0,311.0,95104.0,8307.9,3.0,2.0,,7500.0,54410.0,33194.0
+Morayfield North,Morayfield North,Mixed Industrial,9.0,229.0,89594.0,9471.5,4.0,2.0,,6250.0,58635.0,24709.0
+Mt Cotton,Mt Cotton,Mixed Domestic,4.0,98.0,20144.0,989.6,4.0,4.0,,6250.0,9075.0,4819.0
+Mt Crosby West,Mt Crosby West,Domestic,8.0,158.0,26593.0,3071.2,7.0,1.0,3000.0,,11710.0,11883.0
+Mt Gravatt,Mt Gravatt,Domestic,10.0,193.0,76875.0,10954.7,8.0,4.0,,7100.0,31495.0,38280.0
+Mt Sylvia,Mt Sylvia,Domestic,2.0,153.0,10505.0,165.4,9.0,2.0,,,,10505.0
+Mt Tamborine,Mt Tamborine Bus 1 + Mt Tamborine Bus 2,Domestic,7.0,562.0,60030.0,6117.3,18.0,4.0,,,8495.0,51535.0
+Mudgeeraba West Pkg,Mudgeeraba West Pkg,Domestic,8.0,362.0,58556.0,7334.4,9.0,3.0,,1800.0,23440.0,33316.0
+Murarrie,Murarrie,Industrial,9.0,79.0,54615.0,2251.1,3.0,3.0,,17000.0,32795.0,4820.0
+Murrumba,Murrumba,Domestic,2.0,33.0,1365.0,37.3,4.0,2.0,,,,1365.0
+Myrtletown,Myrtletown,Continuous,8.0,33.0,47015.0,17.7,2.0,1.0,29500.0,2500.0,12615.0,2400.0
+Nambour,Nambour,Mixed Industrial,12.0,558.0,121962.0,11503.3,21.0,3.0,,21550.0,36275.0,64137.0
+Narangba,Narangba,Domestic,8.0,333.0,111700.0,8042.6,7.0,4.0,1500.0,12500.0,61695.0,36005.0
+Nerang,Nerang,Mixed Domestic,16.0,463.0,159777.0,17356.0,14.0,4.0,,10500.0,94395.0,54882.0
+Newmarket,Newmarket,Domestic,9.0,136.0,64835.0,8542.6,9.0,6.0,,8115.0,29225.0,27495.0
+Newstead,Newstead,Mixed Industrial,21.0,150.0,123760.0,11231.3,6.0,3.0,10000.0,50550.0,55745.0,7465.0
+Ningi,Ningi,Domestic,3.0,197.0,36274.0,3785.9,6.0,2.0,,1500.0,10035.0,24739.0
+Noosaville,Noosaville,Domestic,15.0,245.0,105571.0,12141.6,9.0,4.0,,15750.0,58625.0,31196.0
+North Maclean,North Maclean Bus 1 + North Maclean Bus 2,Mixed Domestic,9.0,449.0,103316.0,8508.5,12.0,3.0,,3000.0,61895.0,38421.0
+North Springwood,North Springwood,Domestic,15.0,314.0,136713.0,13052.7,9.0,6.0,,12750.0,59080.0,64883.0
+Nth Ipswich,Nth Ipswich,Domestic,10.0,190.0,54264.0,6822.2,13.0,2.0,,11750.0,10005.0,32509.0
+Nudgee,Nudgee,Industrial,9.0,140.0,84568.0,2526.2,4.0,2.0,,19000.0,55020.0,10548.0
+Nundah,Nundah,Mixed Industrial,10.0,147.0,68920.0,10434.4,4.0,5.0,,7450.0,34960.0,26510.0
+Oxley,Oxley,Industrial,7.0,137.0,72983.0,4689.7,7.0,6.0,,16815.0,39775.0,16393.0
+Palm Beach,Palm Beach,Domestic,9.0,131.0,54985.0,9618.4,3.0,2.0,,5250.0,30230.0,19505.0
+Palmwoods Central,Palmwoods Central,Domestic,5.0,563.0,78000.0,7757.8,19.0,7.0,,2500.0,23130.0,52370.0
+Parkwood,Parkwood,Mixed Industrial,11.0,31.0,27065.0,1942.1,2.0,2.0,3000.0,7000.0,17065.0,
+Peregian,Peregian,Domestic,4.0,103.0,38973.0,5337.6,4.0,2.0,,1500.0,29605.0,7868.0
+Pimpama East,Pimpama East,Domestic,12.0,340.0,134357.0,13499.1,8.0,3.0,,9500.0,106190.0,18667.0
+Postmans Ridge,Postmans Ridge,Mixed Industrial,3.0,326.0,23697.0,1995.4,18.0,3.0,,2500.0,2575.0,18622.0
+Queensport,Queensport,Industrial,11.0,114.0,67180.0,4607.6,5.0,3.0,,12750.0,39430.0,15000.0
+Raby Bay,Raby Bay,Domestic,10.0,215.0,90905.0,10681.3,4.0,3.0,,8750.0,44990.0,37165.0
+Redbank,Redbank,Mixed Industrial,7.0,89.0,49418.0,1869.2,4.0,3.0,3000.0,20250.0,12380.0,13788.0
+Redbank Plains,Redbank Plains,,9.0,215.0,85720.0,10880.1,5.0,3.0,,4000.0,62000.0,19720.0
+Redcliffe,Redcliffe,Mixed Domestic,9.0,120.0,65015.0,7231.0,4.0,3.0,,10500.0,34465.0,20050.0
+Redland Bay,Redland Bay,Domestic,6.0,233.0,56315.0,6930.5,4.0,2.0,,,32735.0,23580.0
+Robina,Robina,Mixed Industrial,19.0,266.0,135729.0,10560.4,7.0,4.0,1500.0,21750.0,90600.0,21879.0
+Rocklea,Rocklea,Industrial,10.0,116.0,54630.0,4135.8,5.0,5.0,,14430.0,17015.0,23185.0
+Roderick St,Roderick St,Mixed Industrial,10.0,114.0,65798.0,2973.1,9.0,1.0,,30750.0,20075.0,14973.0
+Rosewood,Rosewood,Domestic,3.0,517.0,33783.0,2088.7,19.0,3.0,,750.0,5615.0,27418.0
+Runcorn,Runcorn,Domestic,8.0,169.0,67958.0,10091.5,7.0,5.0,,7750.0,42555.0,17653.0
+Russell Island,Russell Island,Domestic,3.0,135.0,26210.0,4555.0,4.0,1.0,,,1000.0,25210.0
+Salisbury,Salisbury,Industrial,7.0,88.0,40270.0,2808.1,4.0,5.0,,9850.0,14730.0,15690.0
+Samford,Samford,Domestic,7.0,438.0,49979.0,4397.9,21.0,3.0,,,14150.0,35829.0
+Sandgate,Sandgate,Domestic,12.0,234.0,95298.0,14619.2,9.0,4.0,,4750.0,60555.0,29993.0
+Scarborough,Scarborough,Domestic,6.0,122.0,55300.0,8056.0,4.0,2.0,,4750.0,31325.0,19225.0
+Scrub Road,Scrub Road,Mixed Domestic,13.0,119.0,50396.0,6915.8,5.0,4.0,3000.0,6250.0,29545.0,11601.0
+Sherwood,Sherwood,Domestic,11.0,175.0,72060.0,9195.7,7.0,4.0,1500.0,6750.0,22505.0,41305.0
+Somerset Dam,Somerset Dam,Domestic,1.0,65.0,2374.0,201.5,4.0,2.0,,,,2374.0
+Southport,Southport,Mixed Industrial,33.0,370.0,220973.0,22047.7,4.0,3.0,6500.0,59100.0,95600.0,59773.0
+Spring Creek,Spring Creek,Mixed Industrial,3.0,174.0,17004.0,437.8,8.0,2.0,,1750.0,1575.0,13679.0
+Springfield,Springfield,Domestic,9.0,78.0,38680.0,4505.6,4.0,1.0,,1500.0,37180.0,
+Springfield Central,Springfield Central,Mixed Industrial,6.0,116.0,63550.0,7449.0,3.0,1.0,315.0,9000.0,54235.0,
+St Lucia,St Lucia,Industrial,6.0,37.0,20495.0,3103.0,1.0,1.0,1500.0,2600.0,13165.0,3230.0
+Stafford,Stafford,Domestic,10.0,178.0,77624.0,10851.3,8.0,5.0,,6950.0,47565.0,23109.0
+Stapylton,Stapylton,Mixed Industrial,4.0,80.0,37173.0,142.9,6.0,2.0,,9000.0,14000.0,14173.0
+Stradbroke Is,Stradbroke Is,Domestic,2.0,71.0,17671.0,1993.0,4.0,1.0,1500.0,1000.0,4755.0,10416.0
+Strathpine,Strathpine,Mixed Industrial,10.0,173.0,94163.0,3230.9,3.0,1.0,1500.0,17050.0,54845.0,20768.0
+Sumner,Sumner,Mixed Industrial,13.0,214.0,113475.0,8685.5,11.0,3.0,,16750.0,84175.0,12550.0
+Sunnybank,Sunnybank,Industrial,19.0,113.0,61245.0,4679.8,7.0,5.0,7000.0,14265.0,25950.0,14030.0
+Surfers Paradise,Surfers Paradise,Mixed Industrial,39.0,217.0,158385.0,18255.6,5.0,3.0,12750.0,72765.0,60115.0,12755.0
+Tamborine Village,Tamborine Village,Domestic,4.0,231.0,20263.0,1421.9,6.0,4.0,,1300.0,2445.0,16518.0
+Tanah Merah,Tanah Merah,Domestic,8.0,116.0,42825.0,5736.6,5.0,3.0,,9000.0,8905.0,24920.0
+Tarampa,Tarampa,Domestic,5.0,390.0,36826.0,2381.6,12.0,2.0,,1000.0,7705.0,28121.0
+Taringa,Taringa,Domestic,8.0,89.0,42840.0,6395.0,4.0,3.0,,5050.0,21330.0,16460.0
+Tennyson,Tennyson,Mixed Industrial,4.0,33.0,24905.0,573.0,2.0,3.0,,9250.0,11880.0,3775.0
+Tenthill,Tenthill,Domestic,4.0,388.0,29297.0,682.9,19.0,6.0,,,2000.0,27297.0
+Tewantin,Tewantin,Domestic,10.0,389.0,89401.0,8971.6,9.0,4.0,,5000.0,47050.0,37351.0
+The Gap,The Gap,Domestic,6.0,115.0,44756.0,5958.0,1.0,3.0,,6000.0,24495.0,14261.0
+Tin Can Bay,Tin Can Bay,Domestic,3.0,128.0,35723.0,4220.0,6.0,3.0,,1000.0,11190.0,23533.0
+Tingalpa,Tingalpa,Domestic,6.0,151.0,73126.0,7550.5,8.0,6.0,,6000.0,55055.0,12071.0
+Toogoolawah,Toogoolawah,Domestic,5.0,683.0,37607.0,1566.8,25.0,5.0,,2000.0,200.0,35407.0
+Toorbul Point,Toorbul Point,Domestic,3.0,70.0,23631.0,3578.7,3.0,2.0,,,17890.0,5741.0
+Toowong,Toowong,Mixed Industrial,17.0,165.0,86020.0,10426.0,6.0,4.0,4500.0,19865.0,33255.0,28400.0
+Upper Mt Gravatt,Upper Mt Gravatt,Mixed Domestic,17.0,115.0,56405.0,6011.1,6.0,5.0,6000.0,10050.0,26895.0,13460.0
+Varsity Lakes,Varsity Lakes,Domestic,12.0,164.0,99486.0,11078.3,5.0,3.0,,12000.0,86445.0,1041.0
+Victoria Park,Victoria Park,Industrial,46.0,128.0,110350.0,5208.6,4.0,2.0,13500.0,57300.0,33330.0,6220.0
+Victoria Point,Victoria Point,Domestic,7.0,171.0,63102.0,8790.5,4.0,3.0,,6750.0,38090.0,18262.0
+Wacol,Wacol,Industrial,12.0,147.0,93549.0,875.7,8.0,4.0,,35900.0,48150.0,9499.0
+Wacol South,Wacol South,Industrial,9.0,114.0,73663.0,2824.8,4.0,3.0,1500.0,23500.0,40850.0,7813.0
+Wamuran,Wamuran,Domestic,4.0,344.0,24900.0,1428.5,9.0,4.0,,,3510.0,21390.0
+Wellington Rd,Wellington Rd,Industrial,27.0,213.0,140945.0,12730.3,9.0,6.0,7500.0,28850.0,84390.0,20205.0
+West End,West End,Industrial,27.0,209.0,178115.0,15435.7,3.0,1.0,4500.0,81315.0,77230.0,15070.0
+West Maroochydore,West Maroochydore,Mixed Domestic,10.0,357.0,126641.0,12335.8,15.0,5.0,,8000.0,63620.0,55021.0
+Whinstanes,Whinstanes,Industrial,6.0,7.0,7350.0,0.0,,1.0,1500.0,4800.0,1050.0,
+Whiteside,Whiteside,Mixed Domestic,4.0,405.0,30845.0,2253.4,11.0,3.0,,3250.0,5295.0,22300.0
+Wivenhoe,Wivenhoe,Domestic,3.0,216.0,22923.0,1617.3,9.0,3.0,,3000.0,5260.0,14663.0
+Woodford,Woodford,Domestic,5.0,455.0,48842.0,2621.7,12.0,5.0,,4500.0,11455.0,32887.0
+Woodridge,Woodridge,Domestic,13.0,245.0,110005.0,11972.5,7.0,3.0,,13750.0,40705.0,55550.0
+Wynnum,Wynnum,Domestic,7.0,164.0,66000.0,10222.7,4.0,3.0,,3750.0,30145.0,32105.0
+Yamanto,Yamanto,Domestic,5.0,154.0,40084.0,3327.8,6.0,2.0,,3750.0,26700.0,9634.0
+Yandina,Yandina,Mixed Industrial,5.0,212.0,40905.0,3087.8,8.0,2.0,,2500.0,19190.0,19215.0
+Yatala,Yatala Bus 2 + Yatala Bus 3,Mixed Industrial,16.0,437.0,222136.0,8043.0,6.0,3.0,,43750.0,144440.0,33946.0
+Zillmere,Zillmere,Domestic,10.0,252.0,118085.0,13451.1,9.0,4.0,,12550.0,72835.0,32700.0

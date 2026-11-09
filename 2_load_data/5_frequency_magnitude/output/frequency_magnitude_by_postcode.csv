@@ -1,0 +1,200 @@
+POSTCODE,DAYS_USED,DAYS_WITH_REVERSE,PCT_DAYS_WITH_REVERSE,ANNUAL_REVERSE_MWh,P75_PCT_CEG,P90_PCT_CEG,STATUS_DETAIL,MAIN_REVERSE_SITE,ANALYSED,FREQ_CLASS,MAG_CLASS
+4124,365,342,93.699,10826.963,425.821,498.324,above capacity: energy,North Maclean,True,frequent,above
+4125,365,343,93.973,2541.45,346.701,442.567,above capacity: energy,North Maclean,True,frequent,above
+4280,365,342,93.699,11400.889,270.948,326.183,above capacity: energy,North Maclean,True,frequent,above
+4303,364,1,0.275,21.718,150.03,150.03,rare reverse flow,Bundamba,False,,
+4007,362,1,0.276,19.318,120.321,120.321,rare reverse flow,Hamilton,False,,
+4010,364,1,0.275,0.422,120.321,120.321,rare reverse flow,Hamilton,False,,
+4563,363,307,84.573,1878.69,86.701,107.368,above capacity: energy,Black Mountain,True,frequent,above
+4207,364,332,91.209,5194.64,86.734,103.616,above capacity: energy,Logan Village,True,frequent,above
+4352,359,327,91.086,640.815,89.96,102.565,above capacity: peaks only,Postmans Ridge,True,frequent,above
+4350,359,327,91.086,1045.868,84.4,97.339,above capacity: peaks only,Postmans Ridge,True,frequent,approaching
+4116,365,310,84.932,3073.451,70.653,90.664,above capacity: peaks only,Calamvale,True,frequent,approaching
+4115,365,314,86.027,2623.829,66.469,85.398,above capacity: peaks only,Calamvale,True,frequent,approaching
+4300,365,348,95.342,13678.377,71.898,82.865,above capacity: peaks only,Springfield Central,True,frequent,approaching
+4133,365,327,89.589,1586.672,67.47,81.196,above capacity: peaks only,Bethania,True,frequent,approaching
+4285,362,326,90.055,2428.358,69.589,80.011,above capacity: peaks only,Jimboomba,True,frequent,approaching
+4270,365,327,89.589,739.523,69.786,78.611,above capacity: peaks only,Tamborine Village,True,frequent,approaching
+4344,359,327,91.086,22.778,62.257,78.229,above capacity: peaks only,Helidon,True,frequent,approaching
+4557,365,268,73.425,900.123,51.465,68.952,near capacity,Mooloolaba,True,frequent,approaching
+4341,365,351,96.164,3963.919,63.993,68.82,above capacity: peaks only,Lockrose,True,frequent,approaching
+4552,281,226,80.427,1540.39,52.935,67.737,near capacity,Maleny,True,frequent,approaching
+4343,358,344,96.089,175.142,55.894,65.871,near capacity,Lockrose,True,frequent,approaching
+4342,365,351,96.164,528.495,59.736,65.392,above capacity: peaks only,Lockrose,True,frequent,approaching
+4556,365,290,79.452,3168.782,47.608,64.693,near capacity,Mooloolaba,True,frequent,approaching
+4568,361,305,84.488,742.797,49.892,61.744,above capacity: peaks only,Cooran,True,frequent,approaching
+4179,365,218,59.726,1781.822,49.784,61.526,near capacity,Lota,True,frequent,approaching
+4507,362,328,90.608,7659.987,50.495,59.152,near capacity,Bribie Island,True,frequent,approaching
+4213,365,301,82.466,3910.453,47.252,59.057,near capacity,Mudgeeraba West Pkg,True,frequent,approaching
+4109,364,314,86.264,1546.448,49.489,58.658,above capacity: peaks only,Calamvale,True,frequent,approaching
+4311,362,349,96.409,3016.257,52.183,58.563,above capacity: peaks only,Tarampa,True,frequent,approaching
+4158,365,300,82.192,354.226,42.17,58.127,near capacity,Birkdale,True,frequent,approaching
+4506,365,304,83.288,1491.08,48.547,57.518,near capacity,Morayfield,True,frequent,approaching
+4306,357,340,95.238,5461.469,46.582,56.476,above capacity: peaks only,Cooneana,True,frequent,approaching
+4159,365,300,82.192,2041.464,41.967,55.095,near capacity,Birkdale,True,frequent,approaching
+4154,365,218,59.726,969.142,44.735,54.566,near capacity,Lota,True,frequent,approaching
+4515,362,264,72.928,18.239,44.846,54.336,near capacity,Kilcoy,True,frequent,approaching
+4580,365,321,87.945,1593.713,44.78,54.178,near capacity,Tin Can Bay,True,frequent,approaching
+4581,365,321,87.945,379.983,44.78,54.178,near capacity,Tin Can Bay,True,frequent,approaching
+4227,364,299,82.143,179.773,42.994,53.229,near capacity,Mudgeeraba West Pkg,True,frequent,approaching
+4035,362,316,87.293,4575.204,39.522,50.53,near capacity,Albany Creek,True,frequent,approaching
+4212,365,291,79.726,3659.67,39.153,49.305,spare capacity,Hope Island,True,frequent,low
+4553,281,256,91.103,1821.18,33.499,48.8,spare capacity,Mooloolaba,True,frequent,low
+4505,363,309,85.124,5833.515,39.002,48.747,spare capacity,Morayfield,True,frequent,low
+4160,364,299,82.143,1390.106,37.523,47.882,spare capacity,Birkdale,True,frequent,low
+4346,365,262,71.781,135.659,34.037,47.655,spare capacity,Marburg,True,frequent,low
+4165,363,335,92.287,8436.442,42.562,47.348,spare capacity,Redland Bay,True,frequent,low
+4512,360,300,83.333,594.156,38.009,46.311,spare capacity,Wamuran,True,frequent,low
+4573,364,309,84.89,3432.397,41.669,46.16,spare capacity,Peregian,True,frequent,low
+4161,364,302,82.967,1417.982,34.786,44.443,spare capacity,Birkdale,True,frequent,low
+4575,365,323,88.493,1324.43,34.465,43.352,spare capacity,Currimundi,True,frequent,low
+4102,359,33,9.192,8.294,18.907,43.18,spare capacity,Annerley,True,rare,low
+4511,358,329,91.899,3825.448,36.616,43.07,spare capacity,Toorbul Point,True,frequent,low
+4561,353,258,73.088,1093.854,30.854,42.781,spare capacity,Yandina,True,frequent,low
+4037,365,302,82.74,558.209,35.076,41.457,spare capacity,Albany Creek,True,frequent,low
+4214,365,281,76.986,1117.035,32.537,40.795,spare capacity,Gaven,True,frequent,low
+4104,359,35,9.749,21.123,18.278,40.419,spare capacity,Annerley,True,rare,low
+4510,359,308,85.794,5445.035,32.621,39.864,spare capacity,Caboolture West,True,frequent,low
+4550,365,239,65.479,503.293,29.826,39.754,spare capacity,Landsborough,True,frequent,low
+4120,345,36,10.435,5.892,17.963,39.038,spare capacity,Annerley,True,occasional,low
+4130,364,336,92.308,555.77,30.871,38.727,spare capacity,Cornubia,True,frequent,low
+4215,365,2,0.548,2.609,35.137,38.268,rare reverse flow,Surfers Paradise,False,,
+4554,281,232,82.562,215.651,26.663,37.602,spare capacity,Palmwoods Central,True,frequent,low
+4514,361,278,77.008,674.914,23.791,37.58,spare capacity,Woodford,True,frequent,low
+4521,360,301,83.611,589.533,29.798,37.568,spare capacity,Whiteside,True,frequent,low
+4503,365,281,76.986,2787.456,27.876,37.138,spare capacity,Kallangur,True,frequent,low
+4018,361,315,87.258,918.242,27.112,36.81,spare capacity,Sandgate,True,frequent,low
+4502,365,272,74.521,592.113,25.568,36.09,spare capacity,Kallangur,True,frequent,low
+4304,364,298,81.868,674.961,26.83,34.93,spare capacity,Cooneana,True,frequent,low
+4103,360,39,10.833,78.821,16.986,34.897,spare capacity,Annerley,True,occasional,low
+4036,361,315,87.258,1714.734,28.17,34.43,spare capacity,Bald Hills,True,frequent,low
+4034,361,315,87.258,1286.33,27.911,34.124,spare capacity,Bald Hills,True,frequent,low
+4164,365,273,74.795,1933.248,26.722,33.941,spare capacity,Cleveland,True,frequent,low
+4520,365,319,87.397,3955.732,25.174,33.372,spare capacity,Samford,True,frequent,low
+4070,365,274,75.068,2206.72,22.982,32.364,spare capacity,Moggill,True,frequent,low
+4555,365,290,79.452,1004.944,22.676,32.263,spare capacity,Palmwoods Central,True,frequent,low
+4210,365,294,80.548,899.321,25.62,32.251,spare capacity,Gaven,True,frequent,low
+4208,364,285,78.297,1540.351,24.335,31.603,spare capacity,Pimpama East,True,frequent,low
+4504,362,307,84.807,3652.564,25.279,31.573,spare capacity,Burpengary,True,frequent,low
+4209,365,287,78.63,6379.208,26.303,31.479,spare capacity,Pimpama East,True,frequent,low
+4211,365,313,85.753,2640.777,26.592,31.091,spare capacity,Gaven,True,frequent,low
+4155,365,328,89.863,97.13,24.14,30.77,spare capacity,Belmont,True,frequent,low
+4017,361,318,88.089,4672.677,22.877,30.678,spare capacity,Brighton,True,frequent,low
+4551,364,322,88.462,9225.846,27.337,30.641,spare capacity,Caloundra,True,frequent,low
+4053,363,301,82.92,849.669,24.919,30.586,spare capacity,Arana Hills,True,frequent,low
+4156,365,328,89.863,1422.379,23.809,30.528,spare capacity,Belmont,True,frequent,low
+4112,365,277,75.89,274.274,24.148,30.292,spare capacity,Runcorn,True,frequent,low
+4069,363,272,74.931,2083.463,20.139,30.26,spare capacity,Kenmore,True,frequent,low
+4118,365,133,36.438,566.035,22.689,30.228,spare capacity,Browns Plains,True,occasional,low
+4559,365,290,79.452,550.519,22.587,30.152,spare capacity,Palmwoods Central,True,frequent,low
+4113,365,291,79.726,1749.613,23.541,29.961,spare capacity,Runcorn,True,frequent,low
+4163,364,272,74.725,750.092,24.815,29.908,spare capacity,Cleveland,True,frequent,low
+4516,365,276,75.616,505.034,21.84,29.856,spare capacity,Caboolture,True,frequent,low
+4501,365,261,71.507,547.021,22.4,29.602,spare capacity,Lawnton,True,frequent,low
+4055,365,317,86.849,949.391,23.31,29.531,spare capacity,Arana Hills,True,frequent,low
+4117,365,287,78.63,317.562,22.294,29.266,spare capacity,Crestmead,True,frequent,low
+4562,360,322,89.444,767.641,23.524,28.869,spare capacity,Cooroy,True,frequent,low
+4560,357,290,81.232,863.062,24.009,28.544,spare capacity,Palmwoods Central,True,frequent,low
+4054,365,162,44.384,338.186,22.674,28.319,spare capacity,Arana Hills,True,occasional,low
+4216,365,247,67.671,1752.015,20.309,28.11,spare capacity,Hollywell,True,frequent,low
+4184,361,348,96.399,3580.928,22.911,27.39,spare capacity,Russell Island,True,frequent,low
+4509,364,208,57.143,1862.736,20.51,26.873,spare capacity,Mango Hill,True,frequent,low
+4500,364,309,84.89,2551.945,19.923,26.228,spare capacity,Lawnton,True,frequent,low
+4275,361,282,78.116,547.917,20.947,25.99,spare capacity,Mt Tamborine,True,frequent,low
+4123,365,328,89.863,1751.317,21.34,25.93,spare capacity,Belmont,True,frequent,low
+4312,234,205,87.607,264.72,13.619,25.752,spare capacity,Esk,True,frequent,low
+4205,365,277,75.89,644.922,19.27,25.693,spare capacity,Bethania,True,frequent,low
+4152,362,326,90.055,2101.488,20.66,24.601,spare capacity,Belmont,True,frequent,low
+4122,361,324,89.751,1120.587,21.466,24.456,spare capacity,Belmont,True,frequent,low
+4110,365,200,54.795,986.268,17.897,24.334,spare capacity,Algester,True,frequent,low
+4305,361,316,87.535,2695.516,18.922,24.213,spare capacity,Ipswich South,True,frequent,low
+4022,363,221,60.882,304.238,17.467,24.199,spare capacity,Mango Hill,True,frequent,low
+4178,364,218,59.89,683.351,19.811,23.987,spare capacity,Wynnum,True,frequent,low
+4519,365,279,76.438,749.156,18.349,23.725,spare capacity,Beerwah,True,frequent,low
+4132,365,131,35.89,359.668,16.71,23.286,spare capacity,Crestmead,True,occasional,low
+4340,364,305,83.791,698.106,16.748,22.892,spare capacity,Rosewood,True,frequent,low
+4566,365,131,35.89,95.092,15.885,22.566,spare capacity,Tewantin,True,occasional,low
+4570,358,326,91.061,2142.741,18.589,22.445,spare capacity,Gympie,True,frequent,low
+4272,364,239,65.659,902.586,16.985,21.874,spare capacity,Mt Tamborine,True,frequent,low
+4508,362,306,84.53,915.161,18.487,21.093,spare capacity,Deception Bay,True,frequent,low
+4574,356,150,42.135,47.904,14.506,21.082,spare capacity,Kenilworth,True,occasional,low
+4157,364,273,75.0,968.783,15.707,19.639,spare capacity,Capalaba South,True,frequent,low
+4019,363,172,47.383,590.435,12.947,18.646,spare capacity,Duffield Road,True,occasional,low
+4170,360,177,49.167,428.155,14.45,18.365,spare capacity,Camp Hill,True,occasional,low
+4068,364,108,29.67,50.373,12.849,17.809,spare capacity,Sherwood,True,occasional,low
+4075,364,110,30.22,388.582,12.837,17.769,spare capacity,Sherwood,True,occasional,low
+4569,358,283,79.05,218.697,12.187,17.415,spare capacity,Cooran,True,frequent,low
+4571,363,287,79.063,146.815,12.154,17.359,spare capacity,Cooran,True,frequent,low
+4000,364,1,0.275,9.07,17.019,17.019,rare reverse flow,Makerston St,False,,
+4565,363,296,81.543,749.559,11.391,16.967,spare capacity,Tewantin,True,frequent,low
+4517,365,182,49.863,47.536,12.164,16.734,spare capacity,Beerwah,True,occasional,low
+4518,365,182,49.863,421.714,12.164,16.734,spare capacity,Beerwah,True,occasional,low
+4021,363,258,71.074,359.534,11.231,16.612,spare capacity,Duffield Road,True,frequent,low
+4314,365,154,42.192,63.905,12.494,16.42,spare capacity,Toogoolawah,True,occasional,low
+4020,363,258,71.074,1435.903,11.733,16.106,spare capacity,Scarborough,True,frequent,low
+4114,365,131,35.89,27.812,13.253,16.028,spare capacity,Kingston,True,occasional,low
+4174,364,111,30.495,42.892,12.345,15.647,spare capacity,Wynnum,True,occasional,low
+4061,365,183,50.137,844.199,11.59,15.056,spare capacity,The Gap,True,frequent,low
+4131,365,159,43.562,86.632,10.508,14.599,spare capacity,Kingston,True,occasional,low
+4153,365,186,50.959,132.766,10.654,14.012,spare capacity,Tingalpa,True,frequent,low
+4173,365,187,51.233,273.704,10.646,14.005,spare capacity,Tingalpa,True,frequent,low
+4564,365,151,41.37,197.042,11.135,13.786,spare capacity,Coolum,True,occasional,low
+4108,364,21,5.769,0.643,7.295,13.699,spare capacity,Coopers Plains,True,rare,low
+4313,365,253,69.315,61.819,9.339,13.282,spare capacity,Toogoolawah,True,frequent,low
+4128,364,185,50.824,574.864,10.556,13.279,spare capacity,Tanah Merah,True,frequent,low
+4307,365,285,78.082,178.168,9.677,13.13,spare capacity,Flinders,True,frequent,low
+4558,365,65,17.808,53.299,8.083,13.026,spare capacity,West Maroochydore,True,occasional,low
+4078,365,68,18.63,81.842,10.072,12.802,spare capacity,Heathwood,True,occasional,low
+4309,365,255,69.863,26.694,8.862,12.102,spare capacity,Flinders,True,frequent,low
+4111,359,60,16.713,7.751,9.04,11.745,spare capacity,Salisbury,True,occasional,low
+4107,359,60,16.713,71.479,9.04,11.738,spare capacity,Salisbury,True,occasional,low
+4151,347,169,48.703,13.708,9.008,10.508,spare capacity,Holland Park East,True,occasional,low
+4077,364,51,14.011,53.141,7.33,10.182,spare capacity,Inala,True,occasional,low
+4359,359,112,31.198,26.182,7.071,9.9,spare capacity,Tenthill,True,occasional,low
+4127,365,151,41.37,154.543,7.804,9.852,spare capacity,Tanah Merah,True,occasional,low
+4105,364,61,16.758,13.745,7.985,9.587,spare capacity,Salisbury,True,occasional,low
+4073,364,134,36.813,272.589,6.049,9.491,spare capacity,Sumner,True,occasional,low
+4074,364,134,36.813,571.732,6.038,9.491,spare capacity,Sumner,True,occasional,low
+4121,341,107,31.378,83.263,6.975,9.374,spare capacity,Salisbury,True,occasional,low
+4065,365,67,18.356,48.406,7.011,9.174,spare capacity,Ashgrove,True,occasional,low
+4064,365,67,18.356,22.572,7.011,9.174,spare capacity,Ashgrove,True,occasional,low
+4287,362,43,11.878,5.434,5.553,9.015,spare capacity,Innisplain,True,occasional,low
+4217,363,85,23.416,91.4,7.03,8.943,spare capacity,Merrimac,True,occasional,low
+4310,362,254,70.166,91.046,7.401,8.868,spare capacity,Boonah,True,frequent,low
+4060,365,67,18.356,96.476,6.879,8.778,spare capacity,Ashgrove,True,occasional,low
+4218,365,83,22.74,88.082,6.897,8.69,spare capacity,Merrimac,True,occasional,low
+4347,361,205,56.787,13.065,5.884,8.467,spare capacity,Tenthill,True,frequent,low
+4129,365,24,6.575,26.555,6.632,8.39,spare capacity,Loganholme,True,rare,low
+4119,365,48,13.151,60.499,6.062,8.074,spare capacity,North Springwood,True,occasional,low
+4059,365,67,18.356,10.46,6.458,7.668,spare capacity,Ashgrove,True,occasional,low
+4076,364,134,36.813,36.525,5.636,7.574,spare capacity,Sumner,True,occasional,low
+4226,364,109,29.945,98.685,5.563,7.506,spare capacity,Varsity Lakes,True,occasional,low
+4228,365,30,8.219,17.672,5.157,7.116,spare capacity,Burleigh Heads,True,rare,low
+4220,365,50,13.699,58.682,2.625,7.055,spare capacity,Burleigh Heads,True,occasional,low
+4221,365,77,21.096,99.473,5.763,6.713,spare capacity,Palm Beach,True,occasional,low
+4223,365,78,21.37,25.97,4.241,6.642,spare capacity,Palm Beach,True,occasional,low
+4006,365,31,8.493,0.411,4.907,5.948,spare capacity,Newmarket,True,rare,low
+4030,363,29,7.989,6.831,4.266,5.65,spare capacity,Kedron,True,rare,low
+4011,364,13,3.571,0.344,2.799,5.515,spare capacity,Kedron,True,rare,low
+4051,365,68,18.63,65.074,4.06,5.328,spare capacity,Enoggera,True,occasional,low
+4183,361,26,7.202,3.974,3.365,4.375,spare capacity,Stradbroke Is,True,rare,low
+4171,365,32,8.767,27.825,3.333,4.333,spare capacity,Bulimba,True,rare,low
+4012,362,12,3.315,0.246,2.589,3.429,spare capacity,Kedron,True,rare,low
+4031,363,86,23.691,5.404,2.589,3.429,spare capacity,Kedron,True,occasional,low
+4009,363,82,22.59,94.744,2.512,3.139,spare capacity,Whinstanes,True,occasional,low
+4224,365,17,4.658,1.535,2.207,2.91,spare capacity,Currumbin,True,rare,low
+4013,364,4,1.099,0.042,2.259,2.829,rare reverse flow,Nudgee,False,,
+4106,364,13,3.571,2.565,1.575,2.384,spare capacity,Rocklea,True,rare,low
+4014,364,4,1.099,0.435,2.09,2.357,rare reverse flow,Nudgee,False,,
+4005,365,0,0.0,0.0,,,no reverse flow,,False,,
+4008,361,0,0.0,0.0,,,no reverse flow,,False,,
+4032,365,87,23.836,30.817,,,no published capacity,Stafford,True,occasional,
+4066,365,0,0.0,0.0,,,no reverse flow,,False,,
+4067,365,0,0.0,0.0,,,no reverse flow,,False,,
+4101,357,0,0.0,0.0,,,no reverse flow,,False,,
+4169,364,0,0.0,0.0,,,no reverse flow,,False,,
+4172,364,0,0.0,0.0,,,no reverse flow,,False,,
+4225,365,0,0.0,0.0,,,no reverse flow,,False,,
+4301,365,327,89.589,5741.282,,,no published capacity,Redbank Plains,True,frequent,
+4567,365,0,0.0,0.0,,,no reverse flow,,False,,
+4572,365,0,0.0,0.0,,,no reverse flow,,False,,

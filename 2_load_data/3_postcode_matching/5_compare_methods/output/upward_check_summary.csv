@@ -1,0 +1,8 @@
+METHOD,SITES,MEDIAN_RATIO,MEDIAN_ABS_ERROR_%,PCT_WITHIN_25%,SITES_GIVEN_NO_POSTCODE
+mb_equal,200.0,1.024,22.824,52.5,0.0
+mb_kva,200.0,0.999,14.072,66.0,0.0
+mb_kva_utilisation,200.0,1.001,13.669,70.0,0.0
+voronoi_equal,194.0,1.049,32.881,36.0,0.0
+voronoi_equal (many-to-one),194.0,0.538,100.0,17.5,84.0
+voronoi_kva,194.0,1.004,14.741,63.5,0.0
+voronoi_weighted,194.0,1.003,13.726,68.5,0.0

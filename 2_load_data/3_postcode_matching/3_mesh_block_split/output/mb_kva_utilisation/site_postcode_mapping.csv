@@ -1,0 +1,765 @@
+SITE,BUSES,LOAD_CATEGORY,POSTCODE,SHARE,SOLAR_SHARE,POSTCODE_FRACTION,TRANSFORMERS,KVA,WEIGHT,BUSINESS_FRACTION,OTHER_FRACTION,DWELLINGS_GIVEN,SUBURBS,SITES_IN_POSTCODE
+Acacia Ridge,Acacia Ridge,Industrial,4108,0.012483,0.046743,0.010134,3,1315.0,121.066389,0.739148,0.0,99.0,Coopers Plains,8
+Acacia Ridge,Acacia Ridge,Industrial,4109,0.198323,0.949669,0.145842,48,16255.0,1923.377355,0.321634,0.0,2968.0,"Sunnybank, Sunnybank Hills",8
+Acacia Ridge,Acacia Ridge,Industrial,4110,0.789194,0.003588,0.225592,48,35705.0,7653.767456,1.0,0.0,4.0,Acacia Ridge,4
+Albany Creek,Albany Creek,Domestic,4035,0.87591,0.851064,0.709918,128,54561.0,5535.531361,0.250942,0.124597,7189.8155,"Albany Creek, Bridgeman Downs",6
+Albany Creek,Albany Creek,Domestic,4037,0.059931,0.083572,0.247626,21,3939.0,378.751201,0.0,0.289206,646.5438,Eatons Hill,2
+Albany Creek,Albany Creek,Domestic,4053,0.01416,0.01354,0.005291,2,1000.0,89.486038,0.0,0.0,201.0,McDowall,7
+Albany Creek,Albany Creek,Domestic,4055,0.023472,0.024899,0.023535,9,1558.0,148.336015,0.0,0.0,234.7369,Bunya,4
+Albany Creek,Albany Creek,Domestic,4520,0.026527,0.026925,0.031287,23,1706.0,167.64292,0.0,0.0,172.7563,Draper,5
+Alexandra Headland,Alexandra Headland,Domestic,4556,0.144069,0.338877,0.194826,104,38313.0,4165.517226,0.490283,0.0,4887.3107,Buderim,4
+Alexandra Headland,Alexandra Headland,Domestic,4557,0.206484,0.215973,0.693144,81,42075.0,5970.161393,0.590664,0.0,4821.0,"Mooloolaba, Mountain Creek",2
+Alexandra Headland,Alexandra Headland,Domestic,4558,0.561693,0.349256,0.874759,214,121465.0,16240.47245,0.639195,0.057872,9334.0,Maroochydore,2
+Alexandra Headland,Alexandra Headland,Domestic,4560,0.002234,0.003963,0.003629,4,678.0,64.580697,0.0,0.68952,61.0777,Bli Bli,9
+Alexandra Headland,Alexandra Headland,Domestic,4564,0.008691,0.026406,0.053246,8,2805.0,251.277562,0.0,0.009975,517.0,"Pacific Paradise, Twin Waters",3
+Alexandra Headland,Alexandra Headland,Domestic,4572,0.076612,0.065526,1.0,34,16135.0,2215.105521,0.552991,0.020199,2525.0,Alexandra Headland,1
+Alexandra Headland,Alexandra Headland,Domestic,4575,0.000218,0.0,0.000402,1,63.0,6.31607,0.0,1.0,0.0,,5
+Algester,Algester,Mixed Domestic,4109,0.058275,0.147633,0.060461,18,7620.0,797.359154,0.174668,0.208763,1179.4519,Sunnybank Hills,8
+Algester,Algester,Mixed Domestic,4110,0.87163,0.558108,0.351522,138,81402.0,11926.251976,0.843755,0.074863,1590.4203,"Acacia Ridge, Pallara, Willawong",4
+Algester,Algester,Mixed Domestic,4115,0.070095,0.29426,0.185474,27,10580.0,959.092836,0.02939,0.046651,2041.2927,Algester,3
+Amamoor,Amamoor,Domestic,4569,0.020893,0.026623,0.144639,15,810.0,81.206616,0.0,1.0,53.2332,Cooran,3
+Amamoor,Amamoor,Domestic,4570,0.979107,0.973377,0.129936,462,33808.0,3805.535093,0.182987,0.784372,1257.8241,"Amamoor, Amamoor Creek, Bollier, Calico Creek, Coles Creek, Dagun, Gilldora, Imbil, Kandanga, Kandanga Creek, Kybong, Lagoon Pocket, Langshaw, Melawondi, Mooloo, Traveston, Tuchekoi, Upper Kandanga",9
+Ann St,Ann St,Industrial,4000,1.0,1.0,0.1299,28,32000.0,11627.086328,0.99038,0.0,1026.859,Brisbane City,7
+Annerley,Annerley,Domestic,4102,0.175327,0.073171,0.065557,12,8330.0,943.416513,0.316506,0.0,757.0,Woolloongabba,4
+Annerley,Annerley,Domestic,4103,0.484271,0.696731,0.847207,61,23995.0,2605.803704,0.263564,0.0,5598.0,"Annerley, Fairfield",4
+Annerley,Annerley,Domestic,4104,0.321211,0.183457,0.621213,21,10635.0,1728.400742,0.664617,0.058005,1166.5,Yeronga,2
+Annerley,Annerley,Domestic,4120,0.019191,0.046641,0.022377,4,1030.0,103.262734,0.0,0.0,440.0,Greenslopes,4
+Arana Hills,Arana Hills,Domestic,4035,0.005005,0.015039,0.00606,2,525.0,47.249396,0.0,0.0,140.6923,"Albany Creek, Bridgeman Downs",6
+Arana Hills,Arana Hills,Domestic,4053,0.382129,0.35667,0.213309,93,37065.0,3607.745881,0.195396,0.035467,5863.0803,"Everton Hills, Everton Park, McDowall, Mitchelton",7
+Arana Hills,Arana Hills,Domestic,4054,0.257549,0.178932,0.513692,50,20160.0,2431.564986,0.429531,0.062777,2751.0,"Arana Hills, Keperra",2
+Arana Hills,Arana Hills,Domestic,4055,0.355318,0.449358,0.532251,95,29086.0,3354.615877,0.245811,0.05891,4691.0503,"Bunya, Ferny Grove, Ferny Hills",4
+Archerfield,Archerfield,Industrial,4106,0.891022,0.713224,0.433803,71,42410.0,6945.688116,1.0,0.0,43.3186,Rocklea,5
+Archerfield,Archerfield,Industrial,4108,0.108978,0.286776,0.07111,9,5380.0,849.508232,0.903817,0.037175,44.3412,Archerfield,8
+Arundel,Arundel,Mixed Domestic,4212,0.075193,0.0,0.035953,3,1840.0,671.279844,0.996266,0.003734,0.0,,4
+Arundel,Arundel,Mixed Domestic,4214,0.764743,0.894403,0.279207,112,59343.0,6827.165783,0.688593,0.06268,3460.6667,"Arundel, Parkwood",9
+Arundel,Arundel,Mixed Domestic,4216,0.160064,0.105597,0.094247,24,11305.0,1428.957999,0.819934,0.057882,720.0,"Biggera Waters, Coombabah",4
+Ashgrove,Ashgrove,Domestic,4051,0.117416,0.001282,0.077442,7,4100.0,874.325968,0.732662,0.0,12.4464,Enoggera,5
+Ashgrove,Ashgrove,Domestic,4059,0.091714,0.038707,0.075898,9,4225.0,682.936637,0.71007,0.0,562.5,Red Hill,4
+Ashgrove,Ashgrove,Domestic,4060,0.47707,0.506602,0.896376,74,31670.0,3552.44001,0.366982,0.05013,3979.0,Ashgrove,3
+Ashgrove,Ashgrove,Domestic,4061,0.036227,0.05102,0.064087,7,2825.0,269.759301,0.248794,0.0,324.0,The Gap,2
+Ashgrove,Ashgrove,Domestic,4064,0.127926,0.127967,0.101908,18,6920.0,952.58563,0.470189,0.0,1187.0,Paddington,4
+Ashgrove,Ashgrove,Domestic,4065,0.149646,0.274422,0.514689,31,10830.0,1114.319337,0.203713,0.02834,1994.0,"Bardon, Paddington",2
+Astor Terrace,Astor Terrace,Industrial,4000,0.953166,0.962117,0.181261,69,55350.0,16224.360078,0.953118,0.0,2218.3142,"Brisbane City, Spring Hill",7
+Astor Terrace,Astor Terrace,Industrial,4006,0.046834,0.037883,0.012113,3,3250.0,797.185932,0.803558,0.0,116.7667,"Bowen Hills, Fortitude Valley",7
+Bald Hills,Bald Hills Bus 1 + Bald Hills Bus 2,Domestic,4017,0.223382,0.272964,0.113686,26,10550.0,1142.075517,0.283071,0.06692,2142.0,Bracken Ridge,3
+Bald Hills,Bald Hills Bus 1 + Bald Hills Bus 2,Domestic,4018,0.070011,0.065146,0.102679,8,4000.0,357.944152,0.0,0.125,681.0,Fitzgibbon,3
+Bald Hills,Bald Hills Bus 1 + Bald Hills Bus 2,Domestic,4034,0.200003,0.196107,0.039574,28,11315.0,1022.549729,0.075439,0.019609,1671.9126,Carseldine,7
+Bald Hills,Bald Hills Bus 1 + Bald Hills Bus 2,Domestic,4035,0.112408,0.121488,0.073704,16,6190.0,574.702829,0.0,0.0,672.1019,Bridgeman Downs,6
+Bald Hills,Bald Hills Bus 1 + Bald Hills Bus 2,Domestic,4036,0.394196,0.344295,0.901836,47,18033.0,2015.394634,0.377741,0.065124,2119.0,Bald Hills,2
+Beaudesert,Beaudesert,Domestic,4275,0.001429,0.001316,0.004974,4,123.0,12.331375,0.0,1.0,6.037,"Biddaddaba, Sarabah",4
+Beaudesert,Beaudesert,Domestic,4285,0.998571,0.998684,0.492891,549,78465.0,8616.266864,0.322368,0.35539,4841.9209,"Allenview, Beaudesert, Birnam, Cainbable, Cedar Vale, Cryna, Darlington, Gleneagle, Josephville, Kerry, Mundoolun, Nindooinbah, Tabragalba, Veresdale, Veresdale Scrub, Woodhill",6
+Beenleigh,Beenleigh,Mixed Industrial,4207,0.999615,0.999414,0.297369,389,125530.0,16399.188871,0.626834,0.070299,10065.6228,"Alberton, Bahrs Scrub, Bannockburn, Beenleigh, Belivah, Cedar Creek, Eagleby, Luscombe, Mount Warren Park, Stapylton, Windaroo, Wolffdene, Yatala",10
+Beenleigh,Beenleigh,Mixed Industrial,4270,0.000385,0.000586,0.004136,1,63.0,6.31607,0.0,1.0,5.2117,Tamborine,3
+Beenleigh North,Beenleigh North,Mixed Industrial,4207,1.0,1.0,0.12905,150,57777.0,7116.798912,0.551822,0.090318,5659.4727,"Bahrs Scrub, Beenleigh, Eagleby, Holmview",10
+Beerwah,Beerwah,Domestic,4516,0.003618,0.000406,0.015526,5,276.0,27.670402,0.0,1.0,1.4789,Elimbah,3
+Beerwah,Beerwah,Domestic,4517,0.093537,0.050521,1.0,47,7189.0,715.349259,0.0,0.767173,412.0,Beerburrum,1
+Beerwah,Beerwah,Domestic,4518,0.396154,0.448203,1.0,182,24481.0,3029.685208,0.363523,0.335878,2115.0,Glass House Mountains,1
+Beerwah,Beerwah,Domestic,4519,0.502744,0.494223,0.650292,237,35951.0,3844.857545,0.304634,0.359712,2657.1833,"Beerwah, Coochin Creek, Crohamhurst, Peachester",4
+Beerwah,Beerwah,Domestic,4552,0.003946,0.006647,0.006228,6,301.0,30.17678,0.0,1.0,42.3868,Booroobin,6
+Belmont,Belmont,Domestic,4122,0.26164,0.179481,0.084445,29,15755.0,1723.164353,0.709091,0.029963,1150.1411,"Mansfield, Wishart",5
+Belmont,Belmont,Domestic,4123,0.396916,0.222149,0.289535,32,16270.0,2614.094488,0.727961,0.103726,787.7882,Rochedale,3
+Belmont,Belmont,Domestic,4152,0.195732,0.268847,0.098262,24,12155.0,1289.092856,0.384756,0.217278,1525.5,Carindale,6
+Belmont,Belmont,Domestic,4153,0.00172,0.0,0.013455,3,113.0,11.328824,0.0,1.0,0.0,,3
+Belmont,Belmont,Domestic,4155,0.005526,0.021641,0.049107,4,363.0,36.392595,0.0,0.0,35.6622,Chandler,3
+Belmont,Belmont,Domestic,4156,0.138465,0.307882,0.754107,45,8577.0,911.933712,0.183633,0.356007,928.9511,"Burbank, Mackenzie",2
+Bethania,Bethania,Domestic,4133,0.220085,0.259007,0.191983,37,15481.0,1408.55141,0.157179,0.068015,2106.3132,Waterford,5
+Bethania,Bethania,Domestic,4205,0.412704,0.262554,1.0,60,23660.0,2641.32184,0.557642,0.030365,2822.0,Bethania,1
+Bethania,Bethania,Domestic,4207,0.367211,0.478438,0.042616,69,22305.0,2350.166422,0.20634,0.206976,3406.3174,"Bahrs Scrub, Beenleigh, Buccan, Edens Landing, Holmview",10
+Birkdale,Birkdale,Domestic,4158,0.037681,0.047149,0.416011,9,2660.0,266.678517,0.0,0.075188,875.0,Thorneside,2
+Birkdale,Birkdale,Domestic,4159,0.407439,0.465998,0.940396,86,30275.0,2883.540613,0.131062,0.061015,5442.0,Birkdale,3
+Birkdale,Birkdale,Domestic,4160,0.273355,0.275074,0.384884,52,20655.0,1934.594152,0.120822,0.125073,3033.0,Wellington Point,2
+Birkdale,Birkdale,Domestic,4161,0.281525,0.211779,0.470236,46,15680.0,1992.418593,0.383192,0.038633,2728.6198,Alexandra Hills,4
+Birtinya,Birtinya,Mixed Domestic,4551,0.267454,0.529576,0.039769,30,13235.0,1333.142223,0.223828,0.141908,1938.1769,"Currimundi, Little Mountain, Meridan Plains",4
+Birtinya,Birtinya,Mixed Domestic,4575,0.732546,0.470424,0.232317,38,26695.0,3651.424133,0.569532,0.024507,1921.0,"Birtinya, Wurtulla",5
+Black Mountain,Black Mountain,Domestic,4562,0.021939,0.01972,0.02018,23,698.0,69.978047,0.0,1.0,41.3369,Belli Park,8
+Black Mountain,Black Mountain,Domestic,4563,0.793425,0.80723,0.482758,263,23239.0,2530.764695,0.36137,0.344545,1938.3545,"Black Mountain, Carters Ridge, Cooroy, Lake Macdonald, Ridgewood",4
+Black Mountain,Black Mountain,Domestic,4568,0.129254,0.149289,0.250554,64,4166.0,412.278148,0.0,0.628917,355.6131,"Federal, Pomona",3
+Black Mountain,Black Mountain,Domestic,4570,0.055382,0.023761,0.006032,47,1762.0,176.649454,0.0,1.0,52.6678,"Bollier, Tuchekoi",9
+Boonah,Boonah,Domestic,4309,0.01042,0.011477,0.008623,13,431.0,43.20994,0.0,1.0,22.0075,"Charlwood, Moogerah",3
+Boonah,Boonah,Domestic,4310,0.98958,0.988523,0.794316,506,37056.0,4103.594846,0.281137,0.538255,2256.0371,"Allandale, Boonah, Bunburra, Bunjurgen, Burnett Creek, Cannon Creek, Carneys Creek, Coochin, Coulson, Croftby, Dugandan, Frenches Creek, Hoya, Kents Pocket, Milford, Mount Alford, Mount French, Templin, Wallaces Creek",5
+Booval,Booval,Domestic,4303,0.08262,0.0,0.140502,4,1763.0,666.952452,1.0,0.0,0.0,,4
+Booval,Booval,Domestic,4304,0.551784,0.435964,0.340739,80,33320.0,4454.307681,0.51318,0.0258,3833.8497,"Booval, Bundamba, Ebbw Vale, North Booval, Silkstone",3
+Booval,Booval,Domestic,4305,0.337883,0.548136,0.082029,82,28040.0,2727.584706,0.042133,0.040159,5336.5887,"Basin Pocket, East Ipswich, Eastern Heights, Flinders View, Newtown, Raceview",9
+Booval,Booval,Domestic,4306,0.027713,0.0159,0.008868,5,2500.0,223.715095,0.0,0.0,73.0012,Ripley,15
+Brendale,Brendale,Domestic,4035,0.044207,0.057559,0.067488,13,5605.0,526.230352,0.0,0.230063,505.7739,Albany Creek,6
+Brendale,Brendale,Domestic,4037,0.096674,0.235303,0.752374,39,12572.0,1150.778021,0.071002,0.238773,1893.4562,Eatons Hill,2
+Brendale,Brendale,Domestic,4500,0.858041,0.704944,0.36593,240,85223.0,10213.863977,0.610434,0.060648,6001.4894,"Bray Park, Brendale, Cashmere, Clear Mountain, Strathpine, Warner",4
+Brendale,Brendale,Domestic,4520,0.001078,0.002194,0.002395,3,128.0,12.83265,0.0,0.0,14.6421,Draper,5
+Bribie Island,Bribie Island,Domestic,4507,0.947963,0.996774,1.0,202,74454.0,7611.501376,0.234431,0.052125,11332.0,"Banksia Beach, Bellara, Bongaree, White Patch, Woorim",1
+Bribie Island,Bribie Island,Domestic,4511,0.052037,0.003226,0.117693,1,1500.0,417.818323,1.0,0.0,29.5238,Sandstone Point,3
+Brighton,Brighton,Domestic,4017,1.0,1.0,0.326097,75,27525.0,3275.924544,0.318824,0.037206,4858.0,"Brighton, Sandgate",3
+Broadbeach,Broadbeach,Mixed Domestic,4217,0.18175,0.162684,0.084594,46,27580.0,4216.686737,0.661554,0.046812,3004.6143,Surfers Paradise,6
+Broadbeach,Broadbeach,Mixed Domestic,4218,0.81825,0.837316,0.741636,161,109755.0,18983.850584,0.715887,0.01796,10896.0,"Broadbeach, Broadbeach Waters, Mermaid Beach, Mermaid Waters",3
+Bromelton,Bromelton,Industrial,4285,0.999441,0.998319,0.256437,188,29689.0,4482.788823,0.515719,0.341668,1047.8995,"Allenview, Beaudesert, Bromelton, Gleneagle, Josephville, Kooralbyn",6
+Bromelton,Bromelton,Industrial,4310,0.000559,0.001681,0.000485,1,25.0,2.506377,0.0,1.0,2.5,Wyaralong,5
+Browns Plains,Browns Plains,Mixed Domestic,4115,0.09157,0.0,0.334652,17,13000.0,1730.497025,1.0,0.0,0.0,,3
+Browns Plains,Browns Plains,Mixed Domestic,4116,0.049625,0.090212,0.141037,27,10370.0,937.823888,0.129093,0.274345,1532.0,"Calamvale, Drewvale",3
+Browns Plains,Browns Plains,Mixed Domestic,4117,0.099732,0.002991,0.350149,21,15730.0,1884.733306,0.369476,0.535565,12.6084,"Berrinba, Karawatha",5
+Browns Plains,Browns Plains,Mixed Domestic,4118,0.542887,0.496783,0.771949,187,78959.0,10259.507498,0.617664,0.02935,7536.7039,"Browns Plains, Forestdale, Heritage Park, Hillcrest, Regents Park",3
+Browns Plains,Browns Plains,Mixed Domestic,4124,0.101394,0.345018,0.228314,62,18410.0,1916.145769,0.138587,0.010464,3212.6849,"Boronia Heights, Greenbank",3
+Browns Plains,Browns Plains,Mixed Domestic,4125,0.114792,0.064996,0.317148,46,18173.0,2169.340396,0.498765,0.229524,910.3213,Park Ridge,6
+Bulimba,Bulimba,Domestic,4170,0.412466,0.213214,0.190818,33,17165.0,2692.741894,0.819985,0.0,1721.0,Morningside,7
+Bulimba,Bulimba,Domestic,4171,0.587534,0.786786,0.975895,95,40040.0,3835.662719,0.217952,0.030566,6860.0,"Balmoral, Bulimba, Hawthorne",2
+Bundall,Bundall,Mixed Industrial,4214,0.010638,0.253529,0.002745,1,750.0,67.114528,0.0,1.0,234.0,Ashmore,9
+Bundall,Bundall,Mixed Industrial,4215,0.094804,0.11497,0.015616,12,5345.0,598.086035,0.316677,0.10309,320.5088,Southport,6
+Bundall,Bundall,Mixed Industrial,4217,0.894558,0.631502,0.113218,58,34850.0,5643.464426,0.857086,0.016811,1926.0,"Benowa, Bundall, Surfers Paradise",6
+Bundamba,Bundamba,Industrial,4303,0.205074,0.068242,0.576103,39,16369.0,2734.71471,0.795307,0.00231,834.3357,"Dinmore, Riverview",4
+Bundamba,Bundamba,Industrial,4304,0.598238,0.387055,0.610264,96,46281.0,7977.672597,0.827546,0.016165,2972.5,"Bundamba, Ebbw Vale, North Booval",3
+Bundamba,Bundamba,Industrial,4305,0.053365,0.016113,0.021402,11,4565.0,711.638843,0.587121,0.161489,137.0,"North Tivoli, Tivoli",9
+Bundamba,Bundamba,Industrial,4306,0.143323,0.52859,0.075761,77,16941.0,1911.257985,0.218609,0.033901,2119.4445,"Barellan Point, Chuwar, Karalee, Karana Downs",15
+Buranda,Buranda,Mixed Industrial,4101,0.132059,0.272071,0.027682,21,9175.0,1066.66145,0.366722,0.041947,2038.0888,"Highgate Hill, South Brisbane",4
+Buranda,Buranda,Mixed Industrial,4102,0.82006,0.50751,0.460278,57,41005.0,6623.74011,0.712004,0.044785,2354.0,"Dutton Park, Woolloongabba",4
+Buranda,Buranda,Mixed Industrial,4103,0.047881,0.220419,0.125739,10,4110.0,386.741132,0.173539,0.0,794.0,"Annerley, Fairfield",4
+Burleigh Heads,Burleigh Heads,Domestic,4220,0.701942,0.477232,0.7694,234,122618.0,16058.504928,0.726461,0.021626,9868.0,"Burleigh Heads, Burleigh Waters",3
+Burleigh Heads,Burleigh Heads,Domestic,4221,0.130468,0.203143,0.35025,68,28858.0,2984.73836,0.194256,0.04049,4967.6,"Elanora, Palm Beach",3
+Burleigh Heads,Burleigh Heads,Domestic,4223,0.00138,0.000618,0.005327,1,315.0,31.580351,0.0,1.0,10.082,Currumbin Valley,3
+Burleigh Heads,Burleigh Heads,Domestic,4227,0.081244,0.153708,0.241864,52,20340.0,1858.645341,0.113476,0.077613,3295.0,"Reedy Creek, Varsity Lakes",4
+Burleigh Heads,Burleigh Heads,Domestic,4228,0.084965,0.165299,0.964674,152,19696.0,1943.770775,0.0,0.316923,1684.6304,"Tallebudgera, Tallebudgera Valley",2
+Burpengary,Burpengary,Domestic,4504,0.298872,0.460249,0.171307,42,22945.0,2344.384736,0.339455,0.137802,3124.795,Narangba,3
+Burpengary,Burpengary,Domestic,4505,0.644966,0.497123,0.486844,130,48206.0,5059.180915,0.317704,0.022715,4287.6667,"Burpengary, Burpengary East",3
+Burpengary,Burpengary,Domestic,4508,0.056162,0.042629,0.082332,22,4428.0,440.537252,0.0,0.187749,600.6262,Deception Bay,2
+Caboolture,Caboolture,Domestic,4510,0.880641,0.771465,0.428921,267,95448.0,11686.960277,0.536528,0.053706,7343.2468,"Beachmere, Caboolture, Donnybrook, Meldale, Toorbul",6
+Caboolture,Caboolture,Domestic,4516,0.119359,0.228535,0.888788,117,16092.0,1584.012972,0.0,0.413179,1297.511,Elimbah,3
+Caboolture West,Caboolture West,Domestic,4506,0.013132,0.009882,0.011577,19,1377.0,134.658998,0.0,0.851098,101.0502,Moorina,4
+Caboolture West,Caboolture West,Domestic,4510,0.922345,0.919588,0.347106,323,85810.0,9457.721583,0.345655,0.0844,9080.2512,"Bellmere, Caboolture, Caboolture South, Moodlu, Rocksberg, Upper Caboolture",6
+Caboolture West,Caboolture West,Domestic,4512,0.045789,0.050118,0.166841,41,4737.0,469.523799,0.0,0.627123,330.9153,Wamuran,3
+Caboolture West,Caboolture West,Domestic,4516,0.016631,0.01783,0.095686,13,1701.0,170.533894,0.0,0.941211,105.0101,Elimbah,3
+Caboolture West,Caboolture West,Domestic,4521,0.002102,0.002582,0.008973,2,215.0,21.554843,0.0,0.0,20.6806,Ocean View,4
+Cades County,Cades County,Domestic,4207,0.003525,0.002545,0.001218,6,704.0,67.187329,0.0,1.0,39.0639,Cedar Creek,10
+Cades County,Cades County,Domestic,4209,0.130591,0.150521,0.088755,63,23612.0,2489.061215,0.351959,0.074446,2657.3239,"Coomera, Upper Coomera",5
+Cades County,Cades County,Domestic,4210,0.513392,0.446495,0.892206,205,78318.0,9785.21533,0.568425,0.084566,5726.0395,"Guanaba, Maudsland, Oxenford, Wongawallan",3
+Cades County,Cades County,Domestic,4211,0.044502,0.083547,0.034889,21,9468.0,848.201482,0.131876,0.213957,1636.5857,"Gaven, Mount Nathan, Pacific Pines",8
+Cades County,Cades County,Domestic,4212,0.30367,0.312722,0.309996,108,52385.0,5787.925117,0.472322,0.069238,4739.0,Helensvale,4
+Cades County,Cades County,Domestic,4272,0.004319,0.004169,0.031719,5,855.0,82.325846,0.0,0.0,77.4886,Tamborine Mountain,2
+Calamvale,Calamvale,Domestic,4109,0.190363,0.127716,0.141273,29,14420.0,1863.113256,0.508554,0.0,1919.7423,Sunnybank Hills,8
+Calamvale,Calamvale,Domestic,4115,0.253541,0.376779,0.479874,58,27730.0,2481.44783,0.063109,0.027047,4917.7073,"Algester, Parkinson",3
+Calamvale,Calamvale,Domestic,4116,0.556096,0.495506,0.818497,109,50690.0,5442.598705,0.308403,0.032884,7074.0,"Calamvale, Drewvale, Stretton",3
+Caloundra,Caloundra,Domestic,4519,0.007093,0.002231,0.033947,18,2002.0,200.710673,0.0,1.0,40.6103,Coochin Creek,4
+Caloundra,Caloundra,Domestic,4550,0.000996,0.0,0.013198,1,315.0,28.188102,0.0,1.0,0.0,,2
+Caloundra,Caloundra,Domestic,4551,0.991911,0.997769,0.837326,520,254174.0,28068.705211,0.442351,0.078716,22057.5149,"Aroona, Baringa, Battery Hill, Bells Creek, Caloundra, Caloundra West, Currimundi, Dicky Beach, Golden Beach, Kings Beach, Little Mountain, Meridan Plains, Moffat Beach, Nirimba, Pelican Waters, Shelly Beach",4
+Camp Hill,Camp Hill,Domestic,4151,0.004609,0.003146,0.005203,1,315.0,31.580351,0.0,0.0,80.0,Coorparoo,5
+Camp Hill,Camp Hill,Domestic,4152,0.687769,0.673977,0.359196,118,44123.0,4712.244289,0.237673,0.030439,9657.7659,"Camp Hill, Carina, Carina Heights",6
+Camp Hill,Camp Hill,Domestic,4170,0.307622,0.322876,0.149358,61,20235.0,2107.672683,0.156559,0.045593,4740.0736,"Cannon Hill, Morningside, Norman Park, Seven Hills",7
+Capalaba,Capalaba,Mixed Domestic,4154,0.009172,0.012196,0.01475,4,463.0,46.418103,0.0,0.0,35.9996,"Gumdale, Ransome",3
+Capalaba,Capalaba,Mixed Domestic,4155,0.126758,0.242659,0.865666,34,6399.0,641.532266,0.0,0.0,360.3378,Chandler,3
+Capalaba,Capalaba,Mixed Domestic,4157,0.834198,0.698459,0.398338,66,30990.0,4221.940557,0.700438,0.011873,2769.8405,Capalaba,4
+Capalaba,Capalaba,Mixed Domestic,4159,0.029872,0.046686,0.049305,5,1508.0,151.184663,0.0,0.459549,193.0,Birkdale,3
+Capalaba South,Capalaba South,Domestic,4157,0.868561,0.789525,0.378514,129,39229.0,4011.830184,0.487324,0.06303,4253.037,"Capalaba, Sheldon",4
+Capalaba South,Capalaba South,Domestic,4161,0.131439,0.210475,0.143286,23,6220.0,607.10997,0.115594,0.052018,1304.0,Alexandra Hills,4
+Carole Park,Carole Park,Industrial,4300,1.0,1.0,0.21712,112,52513.0,7806.689758,0.743674,0.035179,3654.2022,"Bellbird Park, Camira, Gailes, Goodna, Springfield",7
+Carole Park Central,Carole Park Central,Industrial,4078,0.067765,0.431437,0.159328,27,9931.0,903.342511,0.074296,0.096938,1995.9608,"Ellen Grove, Forest Lake",4
+Carole Park Central,Carole Park Central,Industrial,4124,0.048054,0.0,0.076328,1,1500.0,640.585366,1.0,0.0,0.0,,3
+Carole Park Central,Carole Park Central,Industrial,4300,0.884181,0.568563,0.327808,97,63803.0,11786.574766,0.929858,0.007358,1832.301,Camira,7
+Carpendale,Carpendale,Domestic,4343,0.000776,4.3e-05,7.3e-05,1,10.0,1.002551,0.0,1.0,0.4985,,9
+Carpendale,Carpendale,Domestic,4344,0.825302,0.027416,0.336186,196,10738.0,1065.770021,0.0,0.680584,403.0157,"Carpendale, Flagstone Creek, Helidon, Helidon Spa, Iredale, Lilydale, Rockmount, Stockyard, Upper Flagstone",5
+Carpendale,Carpendale,Domestic,4347,0.082836,0.003046,0.048473,27,1067.0,106.972172,0.0,1.0,33.2235,"Ma Ma Creek, Veradilla",5
+Carpendale,Carpendale,Domestic,4350,0.006832,0.85541,0.190065,2,88.0,8.822447,0.0,0.0,144.0,Middle Ridge,2
+Carpendale,Carpendale,Domestic,4352,0.084254,0.114084,0.039818,35,1096.0,108.802665,0.0,0.476384,226.1193,"Derrymore, Preston, Silver Ridge",2
+Charlotte St,Charlotte St,Industrial,4000,1.0,1.0,0.481582,94,113600.0,43105.601043,0.995329,0.003633,3738.4971,Brisbane City,7
+Chermside,Chermside,Mixed Industrial,4012,0.05894,0.189937,0.113592,25,8070.0,795.058751,0.056276,0.02522,1859.0922,Wavell Heights,4
+Chermside,Chermside,Mixed Industrial,4014,0.00209,0.012349,0.001943,1,315.0,28.188102,0.0,0.0,40.0,Virginia,4
+Chermside,Chermside,Mixed Industrial,4031,0.062591,0.08269,0.116682,10,6130.0,844.307698,0.609978,0.0,680.5501,Kedron,4
+Chermside,Chermside,Mixed Industrial,4032,0.836338,0.578167,0.897889,108,70390.0,11281.649421,0.663437,0.019876,6770.2218,"Chermside, Chermside West",3
+Chermside,Chermside,Mixed Industrial,4034,0.040042,0.136857,0.020904,15,5690.0,540.136556,0.207091,0.0,862.6319,Geebung,7
+Clayfield,Clayfield,Mixed Industrial,4006,0.061544,0.0,0.00632,4,2015.0,415.96255,1.0,0.0,0.0,,7
+Clayfield,Clayfield,Mixed Industrial,4007,0.062858,0.044517,0.040117,5,3065.0,424.84611,0.807676,0.0,354.0,Ascot,4
+Clayfield,Clayfield,Mixed Industrial,4010,0.387201,0.209731,0.734298,35,19570.0,2617.019817,0.645622,0.022264,1903.0,Albion,2
+Clayfield,Clayfield,Mixed Industrial,4011,0.195792,0.466995,0.255719,30,12380.0,1323.322103,0.263947,0.033811,2456.0,Clayfield,4
+Clayfield,Clayfield,Mixed Industrial,4030,0.14249,0.278757,0.121949,26,10075.0,963.063071,0.215106,0.079251,2037.0,"Lutwyche, Windsor, Wooloowin",4
+Clayfield,Clayfield,Mixed Industrial,4031,0.150116,0.0,0.140217,4,5000.0,1014.608722,1.0,0.0,0.0,,4
+Cleveland,Cleveland,Domestic,4157,0.118272,0.083457,0.097402,39,7771.0,1032.356647,0.491404,0.048556,726.5361,"Capalaba, Sheldon",4
+Cleveland,Cleveland,Domestic,4161,0.074239,0.086783,0.152938,25,6723.0,648.007672,0.048735,0.261864,868.9091,Alexandra Hills,4
+Cleveland,Cleveland,Domestic,4163,0.472474,0.202126,0.403058,63,28850.0,4124.054823,0.715622,0.028992,2171.1456,Cleveland,2
+Cleveland,Cleveland,Domestic,4164,0.335014,0.627634,0.669447,96,31547.0,2924.21274,0.022158,0.253326,4876.8919,Thornlands,3
+Coolum,Coolum,Domestic,4560,0.004454,0.003463,0.003042,4,540.0,54.137744,0.0,0.814815,35.6741,Bli Bli,9
+Coolum,Coolum,Domestic,4561,0.096862,0.101094,0.189582,72,8681.0,1177.372415,0.427418,0.289018,544.5235,"Maroochy River, Valdora, Yandina Creek",4
+Coolum,Coolum,Domestic,4562,0.000495,0.000793,0.001735,3,60.0,6.015305,0.0,1.0,5.7915,Verrierdale,8
+Coolum,Coolum,Domestic,4564,0.137837,0.174504,0.355023,44,14238.0,1675.418204,0.328644,0.026808,2284.1779,"Marcoola, Mudjimba, Pacific Paradise, Twin Waters",3
+Coolum,Coolum,Domestic,4573,0.760352,0.720147,0.693095,195,79877.0,9242.146732,0.491012,0.129871,8290.0,"Coolum Beach, Mount Coolum, Peregian Beach, Peregian Springs, Point Arkwright, Yaroomba",3
+Coomera,Coomera,Domestic,4209,1.0,1.0,0.47535,251,122079.0,13330.752027,0.519103,0.055713,10249.1323,"Coomera, Pimpama, Upper Coomera, Willow Vale",5
+Coominya,Coominya,Mixed Industrial,4311,0.89236,0.799144,0.281572,267,19693.0,2731.961764,0.387415,0.491631,611.7462,"Atkinsons Dam, Buaraba, Churchable, Clarendon, Coominya, Lake Wivenhoe, Wivenhoe Hill",10
+Coominya,Coominya,Mixed Industrial,4312,0.10764,0.200856,0.162363,50,3287.0,329.538453,0.0,0.332218,183.7582,"Moombra, Mount Hallen",7
+Cooneana,Cooneana,Industrial,4301,0.077773,0.092658,0.034504,18,4638.0,563.701527,0.434807,0.145916,467.9394,"Collingwood Park, Redbank Plains",4
+Cooneana,Cooneana,Industrial,4303,0.109578,0.0,0.167313,6,3113.0,794.220029,1.0,0.0,0.0,,4
+Cooneana,Cooneana,Industrial,4304,0.08837,0.172338,0.048996,22,6711.0,640.504721,0.069856,0.060732,1055.6503,"Blackstone, Bundamba, Silkstone",3
+Cooneana,Cooneana,Industrial,4305,0.028097,0.019304,0.006124,8,2085.0,203.647323,0.68493,0.012307,130.9113,"Flinders View, Raceview",9
+Cooneana,Cooneana,Industrial,4306,0.696182,0.7157,0.200019,144,42036.0,5045.939407,0.558075,0.145833,2288.8791,"Ripley, South Ripley, White Rock",15
+Coopers Plains,Coopers Plains,Industrial,4077,0.003797,0.007851,0.002655,2,415.0,41.605859,0.0,0.0,63.7252,Durack,6
+Coopers Plains,Coopers Plains,Industrial,4108,0.451658,0.031442,0.414256,66,35255.0,4948.89533,0.988194,0.005425,131.7859,"Archerfield, Coopers Plains",8
+Coopers Plains,Coopers Plains,Industrial,4110,0.544545,0.960707,0.175866,89,44368.0,5966.672169,0.732628,0.075754,2119.4237,"Acacia Ridge, Coopers Plains, Willawong",4
+Cooran,Cooran,Domestic,4563,0.023637,0.035801,0.013406,7,701.0,70.278812,0.0,0.985735,92.8375,"Black Mountain, Cooroy",4
+Cooran,Cooran,Domestic,4565,0.223903,0.196716,0.148163,145,6651.0,665.719642,0.0,0.858439,666.0,"Boreen Point, Cootharaba, Ringtail Creek",4
+Cooran,Cooran,Domestic,4568,0.377669,0.459251,0.682425,135,11331.0,1122.90594,0.25189,0.271685,1181.3869,"Federal, Pinbarren, Pomona",3
+Cooran,Cooran,Domestic,4569,0.149785,0.184477,0.79322,78,4476.0,445.349496,0.0,0.413312,683.2875,Cooran,3
+Cooran,Cooran,Domestic,4571,0.225007,0.123755,0.994782,146,6673.0,669.002159,0.0,0.934063,435.6599,"Como, Kin Kin",2
+Cooroy,Cooroy,Domestic,4560,0.00202,0.0,0.000355,1,63.0,6.31607,0.0,1.0,0.0,,9
+Cooroy,Cooroy,Domestic,4562,0.222773,0.29859,0.200831,141,7048.0,696.421068,0.0,0.730729,647.9759,"Belli Park, Doonan, Eerwah Vale, Eumundi",8
+Cooroy,Cooroy,Domestic,4563,0.736723,0.698945,0.43933,208,20654.0,2303.104762,0.266791,0.409522,1737.4876,"Cooroy, Cooroy Mountain, Lake Macdonald, Tinbeerwah",4
+Cooroy,Cooroy,Domestic,4565,0.003207,0.002465,0.002231,1,100.0,10.025508,0.0,1.0,8.0,Ringtail Creek,4
+Cooroy,Cooroy,Domestic,4568,0.035277,0.0,0.067021,4,1100.0,110.28059,0.0,1.0,0.0,,3
+Coorparoo,Coorparoo,Mixed Industrial,4102,0.09894,0.031614,0.04851,9,4410.0,698.091579,0.686837,0.0,365.5,Woolloongabba,4
+Coorparoo,Coorparoo,Mixed Industrial,4120,0.129956,0.095673,0.198697,18,8860.0,916.937076,0.43102,0.130393,1008.6,"Greenslopes, Stones Corner",4
+Coorparoo,Coorparoo,Mixed Industrial,4151,0.660859,0.755754,0.768175,81,36925.0,4662.846781,0.601173,0.01075,6651.0,Coorparoo,5
+Coorparoo,Coorparoo,Mixed Industrial,4152,0.01158,0.04496,0.006228,2,815.0,81.707891,0.0,0.0,223.0,Camp Hill,6
+Coorparoo,Coorparoo,Mixed Industrial,4169,0.07998,0.018485,0.056688,5,3015.0,564.32025,0.796354,0.0,348.0,East Brisbane,2
+Coorparoo,Coorparoo,Mixed Industrial,4170,0.018685,0.053513,0.009342,3,1315.0,131.835432,0.0,0.0,271.9264,Norman Park,7
+Cornubia,Cornubia,Domestic,4128,0.147228,0.228207,0.060818,15,4508.0,423.950394,0.074491,0.309215,841.0,Shailer Park,3
+Cornubia,Cornubia,Domestic,4130,0.666503,0.550392,0.665454,108,19796.0,1919.227653,0.119333,0.42299,1975.1162,"Carbrook, Cornubia",4
+Cornubia,Cornubia,Domestic,4165,0.186269,0.221401,0.041803,18,5878.0,536.36952,0.125127,0.267743,890.055,Mount Cotton,4
+Crestmead,Crestmead,Industrial,4114,0.002192,0.002069,0.003723,3,425.0,42.60841,0.0,0.0,52.9202,Kingston,5
+Crestmead,Crestmead,Industrial,4117,0.060221,0.229648,0.217456,23,12991.0,1170.492979,0.655235,0.093582,779.2268,Berrinba,5
+Crestmead,Crestmead,Industrial,4118,0.142773,0.26659,0.208799,58,23545.0,2775.021099,0.2932,0.143687,3255.2961,"Browns Plains, Heritage Park, Regents Park",3
+Crestmead,Crestmead,Industrial,4125,0.161303,0.204592,0.458349,67,31676.0,3135.17486,0.133268,0.231155,2306.3565,Park Ridge,6
+Crestmead,Crestmead,Industrial,4132,0.556308,0.201108,0.800755,123,66395.0,10812.725494,0.839877,0.0,3197.8361,"Crestmead, Marsden",2
+Crestmead,Crestmead,Industrial,4133,0.077202,0.095992,0.204522,46,16527.0,1500.549219,0.021046,0.0,1186.8435,Logan Reserve,5
+Currimundi,Currimundi,Domestic,4551,0.763641,0.759698,0.12283,117,44718.0,4117.490013,0.116026,0.119319,7131.3083,"Aroona, Battery Hill, Caloundra West, Currimundi, Dicky Beach, Little Mountain, Meridan Plains",4
+Currimundi,Currimundi,Domestic,4553,0.026087,0.018127,0.032165,10,1403.0,140.657879,0.0,0.142552,92.8712,"Glenview, Palmview",5
+Currimundi,Currimundi,Domestic,4575,0.210272,0.222175,0.072135,32,12050.0,1133.767331,0.09866,0.078928,2327.0,"Bokarina, Wurtulla",5
+Currumbin,Currumbin,Domestic,4221,0.006621,0.000623,0.005882,1,500.0,50.127541,0.0,1.0,6.0,Palm Beach,3
+Currumbin,Currumbin,Domestic,4223,0.694826,0.733727,0.887364,191,47515.0,5260.227822,0.435937,0.140265,4715.918,"Currumbin, Currumbin Valley, Currumbin Waters",3
+Currumbin,Currumbin,Domestic,4224,0.193742,0.244885,0.90163,38,15390.0,1466.73472,0.166147,0.021531,3003.0,Tugun,2
+Currumbin,Currumbin,Domestic,4225,0.095408,0.0,0.085732,3,2315.0,722.293257,1.0,0.0,0.0,,2
+Currumbin,Currumbin,Domestic,4228,0.009402,0.020766,0.035326,8,710.0,71.181108,0.0,0.225352,83.3696,"Tallebudgera, Tallebudgera Valley",2
+Darra,Darra,Industrial,4074,0.044922,0.000407,0.052179,7,4315.0,575.191764,1.0,0.0,2.6825,Sumner,4
+Darra,Darra,Industrial,4075,0.006381,0.008887,0.008022,2,815.0,81.707891,0.0,0.0,77.3814,Oxley,5
+Darra,Darra,Industrial,4076,0.629709,0.953062,0.235298,88,53635.0,8062.92249,0.843933,0.067926,1504.0,Darra,5
+Darra,Darra,Industrial,4077,0.318988,0.037644,0.260602,36,25410.0,4084.389939,0.91493,0.006901,384.568,Richlands,6
+Deception Bay,Deception Bay,Domestic,4022,0.143637,0.115279,0.415917,26,12585.0,1424.093881,0.496236,0.114049,1185.2,Rothwell,3
+Deception Bay,Deception Bay,Domestic,4504,0.190909,0.0,0.138307,25,14545.0,1892.767921,1.0,0.0,0.0,,3
+Deception Bay,Deception Bay,Domestic,4508,0.495257,0.677985,0.917668,141,48890.0,4910.234207,0.235568,0.135055,7262.3738,Deception Bay,2
+Deception Bay,Deception Bay,Domestic,4509,0.170197,0.206737,0.10747,25,13575.0,1687.421741,0.545257,0.07663,1551.0,North Lakes,2
+Doboy,Doboy,Mixed Industrial,4172,0.744519,1.0,0.38792,51,35290.0,4986.669481,1.0,0.0,5.3575,Murarrie,5
+Doboy,Doboy,Mixed Industrial,4174,0.255481,0.0,0.153553,7,6950.0,1711.173959,1.0,0.0,0.0,,4
+Duffield Road,Duffield Road,Domestic,4019,0.616791,0.587056,0.824218,126,55610.0,5990.701808,0.474073,0.011966,7291.0,"Clontarf, Margate, Woody Point",2
+Duffield Road,Duffield Road,Domestic,4020,0.067395,0.08156,0.060018,15,7315.0,654.590367,0.0,0.205058,835.0,Newport,3
+Duffield Road,Duffield Road,Domestic,4021,0.252756,0.299408,0.482456,57,22965.0,2454.941797,0.299606,0.154556,3237.0,Kippa-Ring,4
+Duffield Road,Duffield Road,Domestic,4022,0.063058,0.031976,0.178875,7,3615.0,612.465815,0.711412,0.127869,294.0,Rothwell,3
+Eight Mile Plains,Eight Mile Plains Bus 1 + Eight Mile Plains Bus 2,Mixed Industrial,4109,0.015311,0.044466,0.015007,6,2060.0,197.910233,0.0,0.454785,394.0,"Macgregor, Sunnybank",8
+Eight Mile Plains,Eight Mile Plains Bus 1 + Eight Mile Plains Bus 2,Mixed Industrial,4113,0.543074,0.447994,0.569916,100,60905.0,7019.591464,0.631205,0.013093,4619.9235,"Eight Mile Plains, Runcorn",4
+Eight Mile Plains,Eight Mile Plains Bus 1 + Eight Mile Plains Bus 2,Mixed Industrial,4122,0.118535,0.047891,0.075084,12,8565.0,1532.138933,0.794703,0.0,579.0857,"Upper Mount Gravatt, Wishart",5
+Eight Mile Plains,Eight Mile Plains Bus 1 + Eight Mile Plains Bus 2,Mixed Industrial,4123,0.300074,0.433118,0.429597,86,34338.0,3878.656237,0.261431,0.290567,2898.2024,"Rochedale, Rochedale South",3
+Eight Mile Plains,Eight Mile Plains Bus 1 + Eight Mile Plains Bus 2,Mixed Industrial,4156,0.023005,0.026531,0.245893,24,2966.0,297.356572,0.0,1.0,151.0489,Burbank,2
+Enoggera,Enoggera,Domestic,4051,0.708891,0.737345,0.53803,113,52260.0,6074.428485,0.459696,0.036829,6540.5536,"Alderley, Enoggera, Gaythorne",5
+Enoggera,Enoggera,Domestic,4053,0.271146,0.193665,0.137374,32,17480.0,2323.426696,0.661402,0.013592,1629.4795,"Everton Park, Mitchelton",7
+Enoggera,Enoggera,Domestic,4060,0.019963,0.06899,0.043164,5,1760.0,171.064422,0.0,0.0,495.0,Ashgrove,3
+Esk,Esk,Domestic,4312,0.863137,0.93028,0.624593,167,12743.0,1267.696828,0.159052,0.444317,1004.5747,"Coal Creek, Esk, Mount Hallen, Murrumba, Redbank Creek",7
+Esk,Esk,Domestic,4313,0.136863,0.06972,0.075821,67,2005.0,201.011438,0.0,1.0,85.6149,"Biarra, Ottaba",2
+Eumundi,Eumundi,Domestic,4561,0.28344,0.280804,0.087779,58,5539.0,545.13615,0.057931,0.74538,308.1841,"Ninderry, North Arm, Yandina Creek",4
+Eumundi,Eumundi,Domestic,4562,0.71656,0.719196,0.397425,152,14023.0,1378.14672,0.156593,0.46725,1070.6825,"Doonan, Eerwah Vale, Eumundi, Verrierdale",8
+Fisherman Is A,Fisherman Is A,Industrial,4178,1.0,1.0,0.196811,21,22000.0,5128.475133,1.0,0.0,3.1128,Port Of Brisbane,7
+Fisherman Is B,Fisherman Is B,Industrial,4178,1.0,1.0,0.176836,28,20905.0,4607.964158,1.0,0.0,3.0125,Port Of Brisbane,7
+Flinders,Flinders,Domestic,4285,0.000243,0.0,5.7e-05,1,10.0,1.002551,0.0,1.0,0.0,,6
+Flinders,Flinders,Domestic,4305,0.024684,0.020804,0.003066,27,1017.0,101.959418,0.0,1.0,52.0,Limestone Ridges,9
+Flinders,Flinders,Domestic,4306,0.394785,0.425141,0.064641,168,12352.0,1630.727547,0.384324,0.515087,501.1414,"Goolman, Peak Crossing, Purga, Washpool",15
+Flinders,Flinders,Domestic,4307,0.465754,0.421183,0.890693,302,18163.0,1923.875621,0.069923,0.829503,561.0248,"Coleyville, Harrisville, Mutdapilly, Radford, Silverdale, Warrill View, Wilsons Plains",3
+Flinders,Flinders,Domestic,4309,0.039634,0.035715,0.03267,39,1633.0,163.716548,0.0,1.0,60.6174,"Milora, Munbilla",3
+Flinders,Flinders,Domestic,4310,0.050532,0.068821,0.040403,68,2082.0,208.73108,0.0,1.0,139.0295,"Anthony, Blantyre, Milbong, Woolooman",5
+Flinders,Flinders,Domestic,4340,0.024368,0.028337,0.025673,34,1004.0,100.656102,0.0,1.0,54.9398,"Mount Forbes, Mount Walker, Rosevale",7
+Gatton A,Gatton A,Domestic,4341,0.003245,0.001186,0.003445,4,288.0,28.873463,0.0,1.0,4.8322,Laidley North,6
+Gatton A,Gatton A,Domestic,4342,0.02542,0.049479,0.079428,24,2256.0,226.175464,0.0,0.587766,216.5566,"Forest Hill, Glen Cairn",5
+Gatton A,Gatton A,Domestic,4343,0.963019,0.947975,0.623721,353,67597.0,8568.486319,0.482795,0.229184,3745.6128,"Adare, College View, Gatton, Lake Clarendon, Lawes, Lower Tenthill, Placid Hills, Ringwood, Vinegar Hill, Woodlands",9
+Gatton A,Gatton A,Domestic,4347,0.008316,0.00136,0.033527,6,738.0,73.98825,0.0,1.0,5.0886,Grantham,5
+Gaven,Gaven,Domestic,4210,0.067471,0.150411,0.066173,16,6518.0,725.743078,0.287856,0.162143,999.1403,"Maudsland, Oxenford",3
+Gaven,Gaven,Domestic,4211,0.433233,0.48284,0.191679,91,38477.0,4660.023757,0.517193,0.044341,4899.1822,"Gaven, Nerang, Pacific Pines",8
+Gaven,Gaven,Domestic,4212,0.161687,0.043443,0.093148,27,16130.0,1739.168077,0.755597,0.064317,341.0,Helensvale,4
+Gaven,Gaven,Domestic,4214,0.337609,0.323307,0.148513,48,26995.0,3631.447477,0.590366,0.019499,2884.0,"Arundel, Molendinar, Parkwood",9
+Geebung,Geebung,Industrial,4013,0.006112,0.0,0.017633,2,1000.0,100.255081,1.0,0.0,0.0,,3
+Geebung,Geebung,Industrial,4014,0.371885,0.615662,0.420447,90,48120.0,6100.013783,0.783115,0.023487,2250.782,"Banyo, Nudgee, Virginia",4
+Geebung,Geebung,Industrial,4034,0.622003,0.384338,0.394861,110,66488.0,10202.689724,0.897798,0.007544,2734.1344,"Boondall, Geebung, Zillmere",7
+Gibson Island,Gibson Island,Continuous,4172,1.0,1.0,0.049832,1,1500.0,640.585366,1.0,0.0,0.0,,5
+Glenore Grove,Glenore Grove,Domestic,4340,0.001982,0.003129,0.002685,6,105.0,10.526784,0.0,1.0,8.6779,"Grandchester, Woolshed",7
+Glenore Grove,Glenore Grove,Domestic,4341,0.501104,0.692101,0.317623,185,25061.0,2661.953425,0.207384,0.19445,1380.3987,"Hatton Vale, Plainland, Regency Downs, Summerholm",6
+Glenore Grove,Glenore Grove,Domestic,4342,0.339142,0.262763,0.63268,173,17970.0,1801.583814,0.0,0.846188,563.0897,"Crowley Vale, Forest Hill, Glenore Grove, Lockrose",5
+Glenore Grove,Glenore Grove,Domestic,4343,0.157772,0.042007,0.061008,53,7026.0,838.110053,0.249262,0.750738,81.2666,"College View, Lake Clarendon, Morton Vale",9
+Goodna,Goodna,Mixed Domestic,4300,0.642352,0.723639,0.070188,71,26975.0,2523.676271,0.105456,0.054573,4339.9254,"Bellbird Park, Goodna",7
+Goodna,Goodna,Mixed Domestic,4301,0.357648,0.276361,0.086008,44,15058.0,1405.127449,0.10043,0.066173,2068.0,"Collingwood Park, Redbank, Redbank Plains",4
+Goomboorian,Goomboorian,Mixed Domestic,4570,1.0,1.0,0.061856,415,18070.0,1811.609322,0.0,0.996514,1029.2171,"Anderleigh, Canina, Coondoo, Downsfield, Goomboorian, Greens Creek, Kia Ora, Neerdie, North Deep Creek, Ross Creek, Veteran, Wilsons Pocket, Wolvi",9
+Grantham,Grantham,,4343,0.004126,0.009657,0.000365,2,50.0,5.012754,0.0,0.0,2.7721,Ringwood,9
+Grantham,Grantham,,4344,0.002063,0.021831,0.000791,1,25.0,2.506377,0.0,1.0,8.0,Seventeen Mile,5
+Grantham,Grantham,,4347,0.993811,0.968512,0.547157,73,9478.0,1207.476617,0.346026,0.452672,263.3185,"Grantham, Veradilla",5
+Grovely,Grovely,Domestic,4053,0.274665,0.266341,0.110932,47,17700.0,1876.213727,0.254145,0.0,2709.5205,Mitchelton,7
+Grovely,Grovely,Domestic,4054,0.336988,0.304158,0.486308,52,21110.0,2301.940733,0.460772,0.045401,2894.0,Keperra,2
+Grovely,Grovely,Domestic,4055,0.388347,0.429501,0.420894,61,25120.0,2652.769367,0.331541,0.1595,2774.8405,"Ferny Grove, Upper Kedron",4
+Gympie,Gympie,Mixed Domestic,4570,1.0,1.0,0.350791,506,90967.0,10273.878622,0.333622,0.174971,8331.1435,"Araluen, Calico Creek, Canina, Cedar Pocket, East Deep Creek, Gilldora, Greens Creek, Gympie, Jones Hill, Lagoon Pocket, Langshaw, Long Flat, McIntosh Creek, Monkland, Mooloo, North Deep Creek, Pie Creek, Southside, Veteran, Victory Heights, Wolvi",9
+Gympie North,Gympie North,Domestic,4570,1.0,1.0,0.259164,530,64331.0,7590.325864,0.360838,0.272235,4552.6065,"Anderleigh, Araluen, Banks Pocket, Bells Bridge, Chatsworth, Corella, Curra, Fishermans Pocket, Glastonbury, Gympie, Langshaw, Marys Creek, Nahrunda, North Deep Creek, Pie Creek, Scrubby Creek, Southside, Tamaree, The Palms, Two Mile, Upper Glastonbury, Widgee, Widgee Crossing North, Widgee Crossing South",9
+Gympie South,Gympie South,Industrial,4569,0.008431,0.011239,0.062141,5,348.0,34.888768,0.0,1.0,23.4793,Cooran,3
+Gympie South,Gympie South,Industrial,4570,0.990721,0.987582,0.139986,438,36380.0,4099.886996,0.347384,0.515654,1333.3325,"Beenaam Valley, Cedar Pocket, East Deep Creek, Glanmire, Greens Creek, Jones Hill, Kybong, Lagoon Pocket, Long Flat, Monkland, Mothar Mountain, Neusa Vale, Tandur, The Dawn, Traveston, Wolvi, Woondum",9
+Gympie South,Gympie South,Industrial,4571,0.000848,0.001179,0.005218,2,35.0,3.508928,0.0,1.0,2.3401,Kin Kin,2
+Hamilton,Hamilton,Mixed Industrial,4007,0.83416,0.978516,0.693468,96,53445.0,7344.041501,0.547973,0.023738,6466.3058,"Ascot, Hamilton",4
+Hamilton,Hamilton,Mixed Industrial,4009,0.058282,0.0,0.039944,4,2565.0,513.120953,1.0,0.0,0.0,,4
+Hamilton,Hamilton,Mixed Industrial,4010,0.107558,0.021484,0.265702,10,7315.0,946.956404,0.763754,0.094499,162.0,Albion,2
+Hamilton Lands,Hamilton Lands,Industrial,4007,0.2194,1.0,0.183254,24,17830.0,1940.713027,0.389503,0.0,889.3318,Hamilton,4
+Hamilton Lands,Hamilton Lands,Industrial,4009,0.7806,0.0,0.537515,72,43800.0,6904.845158,0.983356,0.016644,0.0,,4
+Heathwood,Heathwood,Industrial,4078,0.201713,0.268666,0.384909,32,18025.0,2182.318174,0.52643,0.112764,2450.0,Forest Lake,4
+Heathwood,Heathwood,Industrial,4110,0.774638,0.691041,0.24702,107,62275.0,8380.766721,0.745296,0.052247,2134.156,"Heathwood, Larapinta, Pallara",4
+Heathwood,Heathwood,Industrial,4118,0.02365,0.040293,0.019252,13,2586.0,255.867392,0.0,0.0,296.0,Forestdale,3
+Helidon,Helidon,Domestic,4344,0.911672,0.959027,0.618876,111,14322.0,1961.947908,0.425922,0.081198,599.4181,"Carpendale, Helidon, Helidon Spa, Iredale",5
+Helidon,Helidon,Domestic,4347,0.088328,0.040973,0.086135,12,1896.0,190.083634,0.0,1.0,19.0004,Grantham,5
+Hemmant,Hemmant,Industrial,4172,0.057252,0.0,0.021079,4,3025.0,270.964491,0.99075,0.00925,0.0,,5
+Hemmant,Hemmant,Industrial,4173,0.028715,0.005976,0.026894,5,1463.0,135.904141,0.0,0.147538,11.0,Tingalpa,3
+Hemmant,Hemmant,Industrial,4174,0.914032,0.994024,0.388189,47,25848.0,4325.933789,0.88197,0.0,756.2488,Hemmant,4
+Hendra,Hendra,Domestic,4007,0.153145,0.068991,0.083161,12,7495.0,880.703155,0.417884,0.101607,594.3624,Ascot,4
+Hendra,Hendra,Domestic,4011,0.65554,0.829279,0.728491,78,34875.0,3769.871282,0.477022,0.011869,4725.0,"Clayfield, Hendra",4
+Hendra,Hendra,Domestic,4012,0.191316,0.10173,0.157191,11,6380.0,1100.215293,0.663571,0.0,692.5,Nundah,4
+Holland Park,Holland Park,Domestic,4103,0.005479,0.015215,0.010268,1,315.0,31.580351,0.0,0.0,185.0,Annerley,4
+Holland Park,Holland Park,Domestic,4120,0.489069,0.232054,0.610844,38,19175.0,2818.894175,0.635812,0.009524,3312.8437,"Greenslopes, Holland Park, Stones Corner",4
+Holland Park,Holland Park,Domestic,4121,0.409405,0.686946,0.441386,66,22740.0,2359.72703,0.11466,0.0,4760.0,"Holland Park, Holland Park West, Tarragindi",6
+Holland Park,Holland Park,Domestic,4151,0.096046,0.065785,0.091201,11,5930.0,553.590267,0.0,0.147596,784.0,Coorparoo,5
+Holland Park East,Holland Park East,Domestic,4121,0.315548,0.430503,0.298661,35,12600.0,1596.695363,0.41773,0.019779,2835.0,"Holland Park, Holland Park West",6
+Holland Park East,Holland Park East,Domestic,4122,0.48222,0.419078,0.119577,42,19095.0,2440.066048,0.484265,0.011002,3021.125,"Mansfield, Mount Gravatt, Mount Gravatt East",5
+Holland Park East,Holland Park East,Domestic,4151,0.108348,0.085555,0.09032,16,4935.0,548.245967,0.15242,0.128006,969.0,Coorparoo,5
+Holland Park East,Holland Park East,Domestic,4152,0.093884,0.064864,0.036212,11,5195.0,475.056713,0.094185,0.188369,414.0521,"Camp Hill, Carina Heights, Carindale",6
+Hollywell,Hollywell,Domestic,4216,1.0,1.0,0.582403,179,82543.0,8830.315262,0.258195,0.05713,13447.1667,"Biggera Waters, Coombabah, Hollywell, Paradise Point, Runaway Bay",4
+Hope Island,Hope Island,Domestic,4209,0.039061,0.0537,0.015189,11,4760.0,425.95354,0.0,0.171218,565.0,Coomera,5
+Hope Island,Hope Island,Domestic,4212,0.96036,0.945812,0.560903,184,95315.0,10472.617432,0.296437,0.046663,8542.0,"Helensvale, Hope Island",4
+Hope Island,Hope Island,Domestic,4216,0.000579,0.000488,0.000417,1,63.0,6.31607,0.0,0.0,8.8333,Paradise Point,4
+Ibis,Ibis,Domestic,4184,1.0,1.0,0.041642,8,1215.0,121.809924,0.0,0.0,305.9665,Russell Island,3
+Imbil,Imbil,Industrial,4562,0.001664,0.004354,0.000723,1,25.0,2.506377,0.0,1.0,2.7778,Belli Park,8
+Imbil,Imbil,Industrial,4570,0.926734,0.978981,0.047672,132,12363.0,1396.205952,0.199502,0.525032,660.3889,"Bella Creek, Bollier, Brooloo, Imbil, Lake Borumba",9
+Imbil,Imbil,Industrial,4574,0.071602,0.016665,0.055683,21,1076.0,107.874468,0.0,1.0,13.5504,Moy Pocket,2
+Inala,Inala,Domestic,4075,0.013623,0.000171,0.013547,4,1430.0,137.980245,0.228876,0.217977,2.0994,Oxley,5
+Inala,Inala,Domestic,4077,0.862418,0.761582,0.557319,189,82328.0,8734.811696,0.28723,0.046931,10969.0937,"Doolandella, Durack, Inala, Richlands",6
+Inala,Inala,Domestic,4078,0.123959,0.238247,0.221438,30,14030.0,1255.489111,0.213828,0.358517,2754.0,Forest Lake,4
+Indooroopilly,Indooroopilly,Mixed Industrial,4066,0.016115,0.006211,0.005979,1,1000.0,89.486038,1.0,0.0,48.0,Toowong,6
+Indooroopilly,Indooroopilly,Mixed Industrial,4068,0.938165,0.840226,0.524683,83,43735.0,5209.45732,0.490322,0.020713,4380.0,"Indooroopilly, Taringa",4
+Indooroopilly,Indooroopilly,Mixed Industrial,4069,0.045719,0.153563,0.020412,8,2775.0,253.869813,0.0,0.222067,348.3747,Chapel Hill,5
+Innisplain,Innisplain,Domestic,4275,0.03221,0.0143,0.051228,5,1401.0,126.996065,0.93053,0.06947,12.0,O'Reilly,4
+Innisplain,Innisplain,Domestic,4285,0.591226,0.582234,0.133346,389,23251.0,2331.030899,0.0,0.998925,516.5469,"Chinghee Creek, Christmas Creek, Darlington, Hillview, Innisplain, Josephville, Knapp Creek, Kooralbyn, Lamington, Laravale, Mount Gipps, Oaky Creek, Tabooba, Tamrookum, Tamrookum Creek",6
+Innisplain,Innisplain,Domestic,4287,0.272792,0.323333,1.0,202,10728.0,1075.536514,0.0,0.961316,378.0,"Barney View, Mount Barney, Mount Lindesay, Palen Creek, Rathdowney, Running Creek",1
+Innisplain,Innisplain,Domestic,4310,0.103772,0.080134,0.079196,64,4081.0,409.140987,0.0,1.0,100.7544,"Coochin, Maroon",5
+Ipswich South,Ipswich South,Domestic,4305,0.794565,0.811571,0.162628,135,50029.0,5407.605217,0.349256,0.079789,7030.9469,"Churchill, Eastern Heights, Flinders View, Ipswich, Leichhardt, One Mile, Raceview, West Ipswich, Yamanto",9
+Ipswich South,Ipswich South,Domestic,4306,0.205435,0.188429,0.055422,58,15216.0,1398.137379,0.0,0.090166,769.8355,"Amberley, Ripley, South Ripley",15
+Jimboomba,Jimboomba,Domestic,4125,0.015643,0.013785,0.02219,14,1514.0,151.786193,0.0,0.165786,160.8533,Munruben,6
+Jimboomba,Jimboomba,Domestic,4133,0.01678,0.016078,0.022191,20,1624.0,162.814252,0.0,0.131158,205.7718,Chambers Flat,5
+Jimboomba,Jimboomba,Domestic,4207,0.149167,0.125705,0.026246,55,15914.0,1447.385017,0.0,0.231214,1408.4735,"Logan Village, Yarrabilba",10
+Jimboomba,Jimboomba,Domestic,4270,0.034191,0.043106,0.217273,36,3343.0,331.760489,0.0,0.082498,426.6326,Tamborine,3
+Jimboomba,Jimboomba,Domestic,4280,0.603822,0.59927,0.646349,301,57410.0,5858.968654,0.246856,0.118809,4348.1078,"Flagstone, Glenlogan, Jimboomba, Riverbend, South Maclean, Stockleigh",2
+Jimboomba,Jimboomba,Domestic,4285,0.180397,0.202057,0.100132,145,17986.0,1750.419582,0.0,0.273856,2110.1319,"Allenview, Cedar Grove, Cedar Vale, Kagaru, Mundoolun, Undullah, Veresdale, Woodhill",6
+Jindalee,Jindalee,Domestic,4069,0.008006,0.026406,0.002539,1,315.0,31.580351,0.0,0.0,81.0,Kenmore,5
+Jindalee,Jindalee,Domestic,4073,0.291721,0.134713,0.24567,9,6445.0,1150.700544,0.831409,0.0,416.0,Sinnamon Park,3
+Jindalee,Jindalee,Domestic,4074,0.700272,0.838881,0.250576,57,24820.0,2762.2372,0.477914,0.025406,2778.0,"Jamboree Heights, Jindalee, Mount Ommaney, Westlake",4
+Kalbar,Kalbar,Domestic,4307,0.042231,0.026827,0.107683,28,2320.0,232.591789,0.0,1.0,36.1124,Silverdale,3
+Kalbar,Kalbar,Domestic,4309,0.872288,0.8345,0.958707,538,43730.0,4804.250557,0.144947,0.70614,1431.3751,"Aratula, Charlwood, Clumber, Fassifern, Fassifern Valley, Frazerview, Kalbar, Kents Lagoon, Kulgun, Milora, Moogerah, Morwincha, Mount Edwards, Munbilla, Obum Obum, Tarome, Teviotville",3
+Kalbar,Kalbar,Domestic,4310,0.080293,0.132095,0.0856,116,4411.0,442.225164,0.0,1.0,269.679,"Anthony, Blantyre, Coulson, Hoya, Milbong, Mount Alford, Mount French, Roadvale, Templin, Wyaralong",5
+Kalbar,Kalbar,Domestic,4340,0.005188,0.006579,0.007288,12,285.0,28.572698,0.0,1.0,12.8907,"Moorang, Rosevale",7
+Kallangur,Kallangur,Domestic,4502,0.186095,0.177214,0.668004,59,18975.0,2097.838661,0.352384,0.009558,2437.0164,Petrie,2
+Kallangur,Kallangur,Domestic,4503,0.813905,0.822786,0.577414,247,90940.0,9175.127744,0.204591,0.061663,13534.9675,"Griffin, Kallangur, Kurwongbah, Murrumba Downs",5
+Karrabin,Karrabin,Domestic,4305,0.456095,0.422961,0.09191,60,23951.0,3056.142197,0.512476,0.023425,2859.1204,"Brassall, Wulkuraka",9
+Karrabin,Karrabin,Domestic,4306,0.537562,0.571668,0.142783,320,27641.0,3602.027173,0.400846,0.304997,1822.3788,"Blacksoil, Borallon, Fernvale, Haigslea, Ironbark, Karrabin, Muirlea, Pine Mountain, Thagoona, Walloon, Wanora",15
+Karrabin,Karrabin,Domestic,4340,0.006344,0.005371,0.010842,6,424.0,42.508155,0.0,0.0,28.1622,Rosewood,7
+Kawana,Kawana,Mixed Industrial,4575,1.0,1.0,0.6923,184,95365.0,10881.1552,0.56887,0.042872,8033.0,"Birtinya, Bokarina, Buddina, Minyama, Parrearra, Warana, Wurtulla",5
+Kedron,Kedron,Domestic,4006,0.003483,0.000304,0.00068,1,500.0,44.743019,0.0,0.0,11.0,Bowen Hills,7
+Kedron,Kedron,Domestic,4011,0.002459,0.008814,0.006103,1,315.0,31.580351,0.0,0.0,98.0,Clayfield,4
+Kedron,Kedron,Domestic,4012,0.032705,0.035608,0.060019,11,4405.0,420.085547,0.266273,0.23494,473.0,Wavell Heights,4
+Kedron,Kedron,Domestic,4030,0.354048,0.285794,0.575846,67,38180.0,4547.618035,0.419526,0.017221,4415.1667,"Kalinga, Lutwyche, Windsor, Wooloowin",4
+Kedron,Kedron,Domestic,4031,0.413705,0.497918,0.734372,90,40210.0,5313.897764,0.561429,0.005052,5561.4499,"Gordon Park, Kedron",4
+Kedron,Kedron,Domestic,4051,0.011884,0.025775,0.01352,4,1630.0,152.646739,0.0,0.0,265.0491,Grange,5
+Kedron,Kedron,Domestic,4053,0.181715,0.145787,0.138003,33,18165.0,2334.067506,0.813768,0.01353,1422.0,"Stafford, Stafford Heights",7
+Kelvin Grove,Kelvin Grove,Mixed Industrial,4051,0.013585,0.069876,0.008594,4,1000.0,97.024368,0.0,0.0,299.0,Newmarket,5
+Kelvin Grove,Kelvin Grove,Mixed Industrial,4059,0.917543,0.701625,0.728294,65,40605.0,6553.25639,0.716091,0.006828,4493.1014,"Kelvin Grove, Red Hill",4
+Kelvin Grove,Kelvin Grove,Mixed Industrial,4064,0.068872,0.228499,0.052623,12,5175.0,491.897438,0.390451,0.0,934.0,Paddington,4
+Kenilworth,Kenilworth,Domestic,4552,0.256279,0.290641,0.163206,163,7888.0,790.812083,0.0,0.94929,550.953,"Cambroon, Conondale, Curramore, Reesville",6
+Kenilworth,Kenilworth,Domestic,4560,0.079803,0.215414,0.013836,21,2467.0,246.252382,0.0,0.381475,431.5218,Mapleton,9
+Kenilworth,Kenilworth,Domestic,4562,0.045226,0.069621,0.040244,48,1392.0,139.555073,0.0,1.0,98.9048,Belli Park,8
+Kenilworth,Kenilworth,Domestic,4570,0.025829,0.058462,0.002721,22,795.0,79.70279,0.0,0.324528,87.8196,Brooloo,9
+Kenilworth,Kenilworth,Domestic,4574,0.592863,0.365862,0.944317,242,15614.0,1829.426294,0.24565,0.704417,662.4496,"Coolabine, Gheerulla, Kenilworth, Kidaman Creek, Moy Pocket, Obi Obi",2
+Kenmore,Kenmore,Domestic,4066,0.002751,0.0,0.001675,3,250.0,25.06377,0.0,1.0,0.0,,6
+Kenmore,Kenmore,Domestic,4069,0.997249,1.0,0.730533,290,82023.0,9086.040849,0.253386,0.147864,9764.7708,"Brookfield, Chapel Hill, Fig Tree Pocket, Kenmore, Kenmore Hills, Pullenvale, Upper Brookfield",5
+Kilcoy,Kilcoy,Mixed Industrial,4314,0.001486,0.004324,0.00426,1,63.0,6.31607,0.0,1.0,3.6346,Harlin,2
+Kilcoy,Kilcoy,Mixed Industrial,4514,0.127723,0.187301,0.100252,107,5414.0,542.781011,0.0,0.914481,349.9505,"Mount Archer, Neurum, Stony Creek, Villeneuve",3
+Kilcoy,Kilcoy,Mixed Industrial,4515,0.870791,0.808375,0.986082,373,36069.0,3700.592631,0.171771,0.609367,1909.7367,"Glenfern, Hazeldean, Jimna, Kilcoy, Kingaham, Mount Kilcoy, Royston, Sandy Creek, Sheep Station Creek, Winya, Woolmar",3
+Kingston,Kingston,Domestic,4114,0.293879,0.061666,0.28437,50,24080.0,3254.538208,0.802641,0.019135,1364.0798,Kingston,5
+Kingston,Kingston,Domestic,4125,0.002545,0.000406,0.004121,1,315.0,28.188102,0.0,0.0,3.9623,Park Ridge,6
+Kingston,Kingston,Domestic,4131,0.218556,0.161564,0.352756,46,17605.0,2420.376659,0.487104,0.143002,2392.6667,Loganlea,3
+Kingston,Kingston,Domestic,4132,0.242943,0.417618,0.199245,83,25635.0,2690.445871,0.159951,0.0,5743.1639,"Crestmead, Marsden",2
+Kingston,Kingston,Domestic,4133,0.242077,0.358745,0.365396,86,28263.0,2680.858175,0.18755,0.055503,3836.0882,"Logan Reserve, Waterford, Waterford West",5
+Kirra,Kirra,Mixed Domestic,4224,0.020352,0.126109,0.09837,4,1630.0,160.023534,0.17615,0.0,257.0,Tugun,2
+Kirra,Kirra,Mixed Domestic,4225,0.979648,0.873891,0.914268,83,49520.0,7702.674464,0.629086,0.039635,5834.0,"Bilinga, Coolangatta",2
+Labrador,Labrador,Domestic,4214,0.023343,0.044783,0.007587,6,1915.0,185.527055,0.1447,0.0,233.3333,Arundel,9
+Labrador,Labrador,Domestic,4215,0.360595,0.363494,0.074828,52,24730.0,2865.90106,0.348529,0.075347,5720.454,Labrador,6
+Labrador,Labrador,Domestic,4216,0.616062,0.591723,0.322934,58,32290.0,4896.273469,0.630146,0.012593,5433.0,"Biggera Waters, Runaway Bay",4
+Laidley,Laidley,Domestic,4340,0.080645,0.051451,0.101159,115,3956.0,396.609102,0.0,0.892821,252.9588,"Calvert, Grandchester, Lower Mount Walker, Mount Mort",7
+Laidley,Laidley,Domestic,4341,0.86678,0.92735,0.508632,502,43326.0,4262.776142,0.010496,0.533428,3278.7729,"Blenheim, Laidley, Laidley Creek West, Laidley Heights, Laidley North, Laidley South, Mount Berryman, Mulgowie, Plainland, Summerholm, Thornton, Townson",6
+Laidley,Laidley,Domestic,4342,0.049761,0.019121,0.085942,43,2441.0,244.722654,0.0,1.0,72.6377,"Forest Hill, Glen Cairn",5
+Laidley,Laidley,Domestic,4343,0.002813,0.002077,0.001007,4,138.0,13.835201,0.0,1.0,7.1238,"Rockside, Ropeley",9
+Landsborough,Landsborough,Domestic,4519,0.33087,0.192017,0.295397,43,11499.0,1746.534959,0.583815,0.153929,930.4406,Beerwah,4
+Landsborough,Landsborough,Domestic,4550,0.399283,0.371672,0.986802,135,19001.0,2107.660552,0.410042,0.226678,1938.0,"Landsborough, Mount Mellum",2
+Landsborough,Landsborough,Domestic,4551,0.000475,0.0,7.5e-05,1,25.0,2.506377,0.0,1.0,0.0,,4
+Landsborough,Landsborough,Domestic,4552,0.0147,0.00622,0.016014,18,774.0,77.597433,0.0,1.0,35.7465,Bald Knob,6
+Landsborough,Landsborough,Domestic,4553,0.254671,0.430091,0.307411,87,13794.0,1344.311573,0.06078,0.360465,1381.3708,"Glenview, Mooloolah Valley, Palmview",5
+Lawnton,Lawnton,Domestic,4500,0.529687,0.729477,0.187095,147,50194.0,5222.207564,0.262054,0.062041,7414.9075,"Bray Park, Cashmere, Joyner, Strathpine, Warner",4
+Lawnton,Lawnton,Domestic,4501,0.360431,0.19909,1.0,80,32913.0,3553.504749,0.545453,0.079456,2523.0,Lawnton,1
+Lawnton,Lawnton,Domestic,4502,0.105752,0.071433,0.331996,17,8310.0,1042.617973,0.443654,0.180489,948.9836,Petrie,2
+Lawnton,Lawnton,Domestic,4503,0.00413,0.0,0.002563,3,440.0,40.719987,0.0,1.0,0.0,,5
+Lockrose,Lockrose,Domestic,4311,0.334979,0.244896,0.103546,161,10021.0,1004.656171,0.0,0.618501,664.1461,"Atkinsons Dam, Brightview, Churchable, Lockyer Waters, Mount Tarampa, Prenzlau",10
+Lockrose,Lockrose,Domestic,4341,0.461647,0.660095,0.165204,102,14465.0,1384.552433,0.032316,0.29712,1671.2647,"Hatton Vale, Kensington Grove, Kentville, Regency Downs",6
+Lockrose,Lockrose,Domestic,4342,0.1888,0.080515,0.198852,50,5648.0,566.2407,0.0,0.736544,219.0244,"Glenore Grove, Lockrose",5
+Lockrose,Lockrose,Domestic,4343,0.014574,0.014494,0.003182,9,436.0,43.711216,0.0,0.396789,35.5949,Morton Vale,9
+Logan Village,Logan Village Bus 1,Domestic,4125,0.025469,0.031946,0.024997,8,1793.0,170.980591,0.0,0.360607,177.1849,"Park Ridge, Park Ridge South",6
+Logan Village,Logan Village Bus 1,Domestic,4133,0.235958,0.17458,0.215907,82,15704.0,1584.075491,0.087921,0.138776,1061.9833,"Chambers Flat, Logan Reserve, Waterford",5
+Logan Village,Logan Village Bus 1,Domestic,4207,0.738573,0.793474,0.08991,185,53946.0,4958.322293,0.068132,0.25765,4225.7605,"Buccan, Logan Village, Yarrabilba",10
+Loganholme,Loganholme,Mixed Domestic,4128,0.353502,0.257203,0.47821,30,18970.0,3333.524708,0.796503,0.008456,1432.0,"Shailer Park, Tanah Merah",3
+Loganholme,Loganholme,Mixed Domestic,4129,0.56447,0.520903,1.0,97,44083.0,5322.948458,0.663022,0.045238,2455.0,Loganholme,1
+Loganholme,Loganholme,Mixed Domestic,4130,0.082028,0.221894,0.268206,30,8011.0,773.528588,0.098669,0.038882,1203.0,Cornubia,4
+Loganlea,Loganlea,Mixed Domestic,4114,0.244025,0.383809,0.127722,35,13515.0,1461.742668,0.382587,0.0,2053.5,"Kingston, Logan Central",5
+Loganlea,Loganlea,Mixed Domestic,4117,0.01364,0.0,0.01518,2,815.0,81.707891,1.0,0.0,0.0,,5
+Loganlea,Loganlea,Mixed Domestic,4127,0.067144,0.192314,0.029678,9,3230.0,402.200103,0.457523,0.0,599.3129,Slacks Creek,4
+Loganlea,Loganlea,Mixed Domestic,4131,0.675191,0.423877,0.589461,61,36440.0,4044.485507,0.722743,0.045954,1518.3333,"Loganlea, Meadowbrook",3
+Lota,Lota,Domestic,4154,0.201358,0.272143,0.361186,42,12201.0,1136.682984,0.0,0.039363,1918.0004,"Gumdale, Ransome, Wakerley",3
+Lota,Lota,Domestic,4158,0.066316,0.053999,0.583989,13,3820.0,374.359176,0.257438,0.0,847.0,Thorneside,2
+Lota,Lota,Domestic,4159,0.005594,0.004255,0.010299,1,315.0,31.580351,0.0,0.0,42.0,Birkdale,3
+Lota,Lota,Domestic,4178,0.040837,0.035536,0.008847,6,2380.0,230.530311,0.291131,0.0,372.0,"Wynnum, Wynnum West",7
+Lota,Lota,Domestic,4179,0.685895,0.634068,0.881642,109,40860.0,3871.941915,0.08089,0.057726,7514.3099,"Lota, Manly, Manly West",3
+Lowood,Lowood,Domestic,4306,0.130847,0.080986,0.005941,12,1495.0,149.881347,0.0,1.0,33.8864,"Vernor, Wivenhoe Pocket",15
+Lowood,Lowood,Domestic,4311,0.869153,0.919014,0.102611,63,10104.0,995.585338,0.03172,0.417702,487.199,"Lowood, Patrick Estate",10
+Lytton,Lytton,Continuous,4178,1.0,1.0,0.067528,12,6080.0,1759.631614,1.0,0.0,1.523,Lytton,7
+Lytton B,Lytton B,Industrial,4174,0.385869,0.015566,0.407595,44,29125.0,4542.189852,1.0,0.0,2.7512,Hemmant,4
+Lytton B,Lytton B,Industrial,4178,0.614131,0.984434,0.277426,69,53138.0,7229.122439,0.966708,0.00845,422.3517,"Lytton, Wynnum, Wynnum West",7
+Makerston St,Makerston St,Industrial,4000,0.93931,1.0,0.110767,29,28065.0,9914.538242,0.981362,0.014125,862.5194,Brisbane City,7
+Makerston St,Makerston St,Industrial,4101,0.06069,0.0,0.016624,1,1500.0,640.585366,1.0,0.0,0.0,,4
+Maleny,Maleny,Domestic,4514,0.034076,0.028148,0.026961,33,1456.0,145.971399,0.0,1.0,80.0,Bellthorpe,3
+Maleny,Maleny,Domestic,4515,0.000585,0.001107,0.000668,1,25.0,2.506377,0.0,1.0,3.9796,Sandy Creek,3
+Maleny,Maleny,Domestic,4552,0.915653,0.875051,0.809503,409,38141.0,3922.428607,0.181002,0.477023,3774.0973,"Bald Knob, Balmoral Ridge, Booroobin, Conondale, Curramore, Elaman Creek, Maleny, North Maleny, Reesville, Witta, Wootha",6
+Maleny,Maleny,Domestic,4553,0.036369,0.086803,0.035627,24,1554.0,155.796397,0.0,0.63964,209.2258,"Diamond Valley, Mooloolah Valley",5
+Maleny,Maleny,Domestic,4554,0.009268,0.00818,0.065967,7,396.0,39.701012,0.0,1.0,29.6829,Eudlo,3
+Maleny,Maleny,Domestic,4560,0.004049,0.000711,0.000975,6,173.0,17.344129,0.0,1.0,3.2427,Montville,9
+Mango Hill,Mango Hill Bus 1 + Mango Hill Bus 2,Domestic,4021,0.005283,0.0,0.017783,2,1010.0,90.488589,1.0,0.0,0.0,,4
+Mango Hill,Mango Hill Bus 1 + Mango Hill Bus 2,Domestic,4022,0.081001,0.075611,0.405207,34,15310.0,1387.423245,0.296878,0.059792,1516.8,Rothwell,3
+Mango Hill,Mango Hill Bus 1 + Mango Hill Bus 2,Domestic,4503,0.09555,0.114737,0.102997,40,18185.0,1636.618822,0.054677,0.275531,2385.1419,"Griffin, Murrumba Downs",5
+Mango Hill,Mango Hill Bus 1 + Mango Hill Bus 2,Domestic,4509,0.818166,0.809651,0.89253,230,131957.0,14013.85293,0.39141,0.071507,11852.0,"Mango Hill, North Lakes",2
+Marburg,Marburg,Domestic,4306,0.643322,0.617415,0.060298,172,12942.0,1521.160803,0.274671,0.520111,810.0906,"Fairney View, Fernvale, Glamorgan Vale, Haigslea, Lark Hill, Mount Marrow, Vernor, Walloon, Wanora",15
+Marburg,Marburg,Domestic,4311,0.05902,0.033556,0.014383,25,1392.0,139.555073,0.0,1.0,55.7821,"Minden, Prenzlau",10
+Marburg,Marburg,Domestic,4340,0.0887,0.07309,0.053495,67,2092.0,209.73363,0.0,0.98805,157.7339,"Ashwell, Rosewood, Tallegalla, The Bluff",7
+Marburg,Marburg,Domestic,4341,0.000424,0.000521,0.00012,1,10.0,1.002551,0.0,1.0,0.8081,Hatton Vale,6
+Marburg,Marburg,Domestic,4346,0.208534,0.275418,1.0,62,4986.0,493.087339,0.0,0.657574,413.0,Marburg,1
+McLachlan St,McLachlan St,Industrial,4000,0.137312,0.124885,0.048988,15,15500.0,4384.871068,0.959184,0.0,1192.241,"Brisbane City, Spring Hill",7
+McLachlan St,McLachlan St,Industrial,4005,0.113419,0.501808,0.399028,45,28590.0,3621.894966,0.542673,0.012353,5625.0,"New Farm, Teneriffe",2
+McLachlan St,McLachlan St,Industrial,4006,0.749269,0.373308,0.363561,95,94050.0,23926.979358,0.942554,0.00374,4764.2667,"Bowen Hills, Fortitude Valley, Newstead",7
+Meeandah,Meeandah,Industrial,4008,0.742552,1.0,0.397648,83,58548.0,9680.585287,0.986543,0.006933,129.0,Pinkenba,2
+Meeandah,Meeandah,Industrial,4009,0.257448,0.0,0.261277,36,22895.0,3356.326297,0.988614,0.011386,0.0,,4
+Merrimac,Merrimac,Domestic,4211,0.119731,0.104955,0.042663,18,8095.0,1037.216696,0.6846,0.083251,398.0247,Carrara,8
+Merrimac,Merrimac,Domestic,4217,0.23954,0.219062,0.04163,39,20710.0,2075.107093,0.149451,0.0,2413.3857,"Benowa, Bundall, Surfers Paradise",6
+Merrimac,Merrimac,Domestic,4218,0.318244,0.366769,0.107704,55,26925.0,2756.91511,0.248929,0.129348,2847.0,"Broadbeach Waters, Mermaid Waters",3
+Merrimac,Merrimac,Domestic,4226,0.322485,0.309214,0.127678,36,20420.0,2793.655928,0.555685,0.155455,1526.0,"Clear Island Waters, Merrimac, Robina",5
+Miami,Miami,Domestic,4218,0.482807,0.401076,0.15066,69,34475.0,3856.487647,0.301988,0.059796,5869.0,"Mermaid Beach, Mermaid Waters",3
+Miami,Miami,Domestic,4220,0.513832,0.587329,0.196647,72,34305.0,4104.306637,0.37259,0.104858,5274.0,"Burleigh Heads, Burleigh Waters, Miami",3
+Miami,Miami,Domestic,4226,0.003361,0.011595,0.001227,1,300.0,26.845811,0.0,0.0,107.875,Robina,5
+Milton,Milton,Industrial,4000,0.138175,0.049675,0.016507,11,8000.0,1477.510868,0.799518,0.030283,528.8889,"Petrie Terrace, Spring Hill",7
+Milton,Milton,Industrial,4059,0.045894,0.027114,0.054539,3,2315.0,490.749444,0.942561,0.0,164.0986,Red Hill,4
+Milton,Milton,Industrial,4064,0.733497,0.777271,0.839075,65,44755.0,7843.290916,0.816826,0.003594,3002.7,"Milton, Paddington",4
+Milton,Milton,Industrial,4066,0.082433,0.14594,0.058895,10,6115.0,881.453514,0.553012,0.0,1070.0,Auchenflower,6
+Moggill,Moggill,Domestic,4069,0.394474,0.216041,0.174631,67,17962.0,2171.98616,0.450634,0.052659,1203.524,"Pinjarra Hills, Pullenvale",5
+Moggill,Moggill,Domestic,4070,0.605526,0.783959,0.960926,109,32962.0,3334.047833,0.181761,0.155005,3928.0,"Anstead, Bellbowrie, Moggill",2
+Molendinar,Molendinar,Mixed Domestic,4211,0.060525,0.059129,0.041087,16,6568.0,998.902744,0.557703,0.227758,483.0,Carrara,8
+Molendinar,Molendinar,Mixed Domestic,4214,0.681448,0.872956,0.459949,188,92711.0,11246.678499,0.746212,0.016336,6269.0,"Ashmore, Molendinar",9
+Molendinar,Molendinar,Mixed Domestic,4215,0.086202,2.6e-05,0.037146,11,9500.0,1422.680414,0.96855,0.0,0.5714,Southport,6
+Molendinar,Molendinar,Mixed Domestic,4217,0.171826,0.067889,0.056892,37,22735.0,2835.825407,0.561194,0.009467,1611.0,Benowa,6
+Mooloolaba,Mooloolaba,Domestic,4553,0.137311,0.160928,0.489084,43,20668.0,2138.772752,0.195354,0.047137,1350.5799,Palmview,5
+Mooloolaba,Mooloolaba,Domestic,4554,0.002336,0.004487,0.06047,3,363.0,36.392595,0.0,1.0,56.697,Ilkley,3
+Mooloolaba,Mooloolaba,Domestic,4555,0.029837,0.002058,0.119141,16,4931.0,464.742937,0.0,1.0,22.8552,"Chevallum, Palmwoods",2
+Mooloolaba,Mooloolaba,Domestic,4556,0.657316,0.635849,0.478863,227,96594.0,10238.416065,0.443958,0.08024,9443.3854,"Buderim, Forest Glen, Mons, Sippy Downs, Tanawha",4
+Mooloolaba,Mooloolaba,Domestic,4557,0.169683,0.189498,0.306856,53,26155.0,2642.996259,0.329575,0.098295,4356.0,Mountain Creek,2
+Mooloolaba,Mooloolaba,Domestic,4559,0.000644,0.000826,0.00344,1,100.0,10.025508,0.0,1.0,10.9155,Woombye,4
+Mooloolaba,Mooloolaba,Domestic,4575,0.002873,0.006353,0.002847,1,500.0,44.743019,0.0,0.0,109.0,Parrearra,5
+Moorooka,Moorooka,Domestic,4103,0.007246,0.035839,0.016787,2,515.0,51.631367,0.0,0.0,317.0,Annerley,4
+Moorooka,Moorooka,Domestic,4104,0.147905,0.303369,0.378787,26,10915.0,1053.900301,0.270056,0.084909,2123.5,Yeronga,2
+Moorooka,Moorooka,Domestic,4105,0.755134,0.449312,0.588519,61,32685.0,5380.720032,0.854668,0.011738,2843.0,"Moorooka, Yeerongpilly",4
+Moorooka,Moorooka,Domestic,4121,0.089715,0.21148,0.119575,16,5600.0,639.266194,0.217864,0.104987,1066.0,Tarragindi,6
+Morayfield,Morayfield,Domestic,4505,0.512775,0.697061,0.507549,183,53335.0,5274.346384,0.110654,0.131507,5426.3333,"Burpengary, Burpengary East",3
+Morayfield,Morayfield,Domestic,4506,0.487225,0.302939,0.430852,128,41769.0,5011.547727,0.445604,0.111508,2881.5432,Morayfield,4
+Morayfield North,Morayfield North,Mixed Industrial,4506,0.671632,0.690292,0.54653,159,60849.0,6357.083564,0.396759,0.014135,6608.4568,Morayfield,4
+Morayfield North,Morayfield North,Mixed Industrial,4510,0.328368,0.309708,0.114068,70,28745.0,3108.042755,0.499225,0.010161,2863.0656,"Caboolture, Caboolture South, Upper Caboolture",6
+Mt Cotton,Mt Cotton,Mixed Domestic,4130,0.033431,0.014695,0.035194,8,1093.0,101.502021,0.809371,0.190629,12.9011,Cornubia,4
+Mt Cotton,Mt Cotton,Mixed Domestic,4157,0.438966,0.062974,0.125745,21,5291.0,1332.756739,0.940498,0.044457,69.5864,Sheldon,4
+Mt Cotton,Mt Cotton,Mixed Domestic,4164,0.00208,0.002574,0.001446,1,63.0,6.31607,0.0,1.0,2.5387,Thornlands,3
+Mt Cotton,Mt Cotton,Mixed Domestic,4165,0.525522,0.919756,0.124352,68,13697.0,1595.549881,0.361594,0.353776,904.5642,Mount Cotton,4
+Mt Crosby West,Mt Crosby West,Domestic,4306,1.0,1.0,0.139547,158,26593.0,3520.383368,0.395044,0.102921,3071.2301,"Chuwar, Karalee, Karana Downs, Kholo, Lake Manchester, Mount Crosby, Pine Mountain",15
+Mt Gravatt,Mt Gravatt,Domestic,4109,0.017896,0.060685,0.011716,5,1575.0,154.509505,0.0,0.0,497.8966,Macgregor,8
+Mt Gravatt,Mt Gravatt,Domestic,4111,0.07178,0.0,0.314929,4,2700.0,619.731324,1.0,0.0,0.0,,4
+Mt Gravatt,Mt Gravatt,Domestic,4121,0.045338,0.06228,0.073219,12,3985.0,391.439717,0.171456,0.0,637.0,"Holland Park West, Tarragindi",6
+Mt Gravatt,Mt Gravatt,Domestic,4122,0.864986,0.877035,0.365981,172,68615.0,7468.120132,0.39574,0.035719,9819.8116,"Mansfield, Mount Gravatt, Mount Gravatt East, Upper Mount Gravatt, Wishart",5
+Mt Sylvia,Mt Sylvia,Domestic,4343,0.978486,0.830026,0.075014,150,10279.0,1030.521982,0.0,1.0,158.7299,"Black Duck Creek, Caffey, East Haldon, Junction View, Lefthand Branch, Mount Sylvia, Upper Tenthill, Woodbine",9
+Mt Sylvia,Mt Sylvia,Domestic,4359,0.021514,0.169974,0.186623,3,226.0,22.657648,0.0,1.0,6.7034,West Haldon,2
+Mt Tamborine,Mt Tamborine Bus 1 + Mt Tamborine Bus 2,Domestic,4210,0.077019,0.074459,0.041621,49,4587.0,456.47781,0.0,0.916981,346.8202,"Guanaba, Maudsland",3
+Mt Tamborine,Mt Tamborine Bus 1 + Mt Tamborine Bus 2,Domestic,4211,0.152393,0.12134,0.037151,86,9218.0,903.205551,0.0,0.581081,863.3089,"Beechmont, Binna Burra, Clagiraba, Mount Nathan",8
+Mt Tamborine,Mt Tamborine Bus 1 + Mt Tamborine Bus 2,Domestic,4272,0.424032,0.508595,0.968281,147,25318.0,2513.166281,0.0,0.064665,3433.5114,Tamborine Mountain,2
+Mt Tamborine,Mt Tamborine Bus 1 + Mt Tamborine Bus 2,Domestic,4275,0.346556,0.295606,0.82854,280,20907.0,2053.979873,0.024405,0.679104,1452.673,"Benobble, Biddaddaba, Boyland, Canungra, Ferny Glen, Flying Fox, Illinbah, Sarabah, Witheren, Wonglepong",4
+Mudgeeraba West Pkg,Mudgeeraba West Pkg,Domestic,4211,0.0447,0.011887,0.01092,53,2648.0,265.475456,0.0,0.811178,110.0,"Natural Bridge, Numinbah Valley",8
+Mudgeeraba West Pkg,Mudgeeraba West Pkg,Domestic,4213,0.91846,0.952346,0.576042,303,53463.0,5454.764192,0.156534,0.134477,6793.3841,"Austinville, Bonogin, Mudgeeraba, Neranwood, Springbrook, Tallai",3
+Mudgeeraba West Pkg,Mudgeeraba West Pkg,Domestic,4227,0.03684,0.035767,0.028471,6,2445.0,218.793363,0.0,0.0,431.0,Reedy Creek,4
+Murarrie,Murarrie,Industrial,4170,0.202952,0.143487,0.117259,11,8380.0,1654.710171,0.826631,0.0,521.5,Cannon Hill,7
+Murarrie,Murarrie,Industrial,4172,0.679767,0.796153,0.431141,53,37765.0,5542.274478,0.84441,0.042027,1546.5714,Murarrie,5
+Murarrie,Murarrie,Industrial,4173,0.117281,0.06036,0.189224,15,8470.0,956.213784,0.880878,0.0,183.0,Tingalpa,3
+Murrumba,Murrumba,Domestic,4311,0.230769,0.0,0.003255,1,315.0,31.580351,0.0,1.0,0.0,,10
+Murrumba,Murrumba,Domestic,4312,0.769231,1.0,0.051865,32,1050.0,105.267836,0.0,0.97619,37.3255,"Esk, Glen Esk, Moombra, Murrumba",7
+Myrtletown,Myrtletown,Continuous,4008,1.0,1.0,0.602352,33,47015.0,14664.02129,1.0,0.0,17.7087,"Brisbane Airport, Pinkenba",2
+Nambour,Nambour,Mixed Industrial,4559,0.027192,0.050697,0.146299,39,4354.0,426.333879,0.0,0.473643,495.6236,"Diddillibah, Kiels Mountain, Woombye",4
+Nambour,Nambour,Mixed Industrial,4560,0.921475,0.924772,0.811779,482,112256.0,14447.650243,0.459711,0.15535,10857.0948,"Bli Bli, Burnside, Coes Creek, Cooloolabin, Dulong, Flaxton, Highworth, Image Flat, Kiamba, Kulangoor, Kureelpa, Mapleton, Nambour, Parklands, Perwillowen, Rosemount",9
+Nambour,Nambour,Mixed Industrial,4561,0.051333,0.024531,0.129596,37,5352.0,804.838638,0.756848,0.205782,150.5664,"Maroochy River, Yandina",4
+Narangba,Narangba,Domestic,4503,0.273002,0.33769,0.227695,114,33615.0,3618.081517,0.230551,0.16553,4092.4004,"Dakabin, Kallangur, Kurwongbah",5
+Narangba,Narangba,Domestic,4504,0.712911,0.635328,0.690387,194,76189.0,9448.157137,0.70555,0.025261,3730.205,Narangba,3
+Narangba,Narangba,Domestic,4505,0.004396,0.015686,0.005607,4,615.0,58.264626,0.0,0.0,117.0,Burpengary,3
+Narangba,Narangba,Domestic,4506,0.00969,0.011296,0.011041,21,1281.0,128.426759,0.0,0.765808,102.9498,"Moorina, Morayfield",4
+Nerang,Nerang,Mixed Domestic,4211,0.919907,0.891864,0.63848,412,145312.0,15522.47072,0.438596,0.110255,15801.3012,"Advancetown, Beechmont, Carrara, Clagiraba, Gilston, Highland Park, Lower Beechmont, Mount Nathan, Nerang",8
+Nerang,Nerang,Mixed Domestic,4213,0.071582,0.090659,0.127555,46,12925.0,1207.867687,0.023337,0.314082,1238.1492,"Tallai, Worongary",3
+Nerang,Nerang,Mixed Domestic,4214,0.003988,0.011556,0.002752,3,725.0,67.300412,0.037242,0.0,180.0,"Ashmore, Molendinar",9
+Nerang,Nerang,Mixed Domestic,4226,0.004523,0.00592,0.003488,2,815.0,76.32337,0.0,0.0,136.5,Merrimac,5
+Newmarket,Newmarket,Domestic,4006,0.049632,0.009595,0.005756,3,2000.0,378.80063,0.735335,0.0,259.3067,Herston,7
+Newmarket,Newmarket,Domestic,4030,0.189339,0.124308,0.182982,26,12430.0,1445.061401,0.598762,0.019507,1434.0,"Lutwyche, Windsor",4
+Newmarket,Newmarket,Domestic,4051,0.536115,0.68684,0.362414,78,35485.0,4091.701467,0.404708,0.035582,5273.9509,"Alderley, Grange, Newmarket, Wilston",5
+Newmarket,Newmarket,Domestic,4053,0.026967,0.0,0.012169,4,2300.0,205.817887,1.0,0.0,0.0,,7
+Newmarket,Newmarket,Domestic,4059,0.166552,0.087482,0.141269,17,10230.0,1271.149019,0.570426,0.0,1005.3,Kelvin Grove,4
+Newmarket,Newmarket,Domestic,4060,0.031395,0.091774,0.06046,8,2390.0,239.609645,0.0,0.0,570.0,Ashgrove,3
+Newstead,Newstead,Mixed Industrial,4005,0.226458,0.388154,0.600972,38,30180.0,5454.896755,0.800389,0.008202,4455.0,"New Farm, Teneriffe",2
+Newstead,Newstead,Mixed Industrial,4006,0.734454,0.449094,0.268814,96,85505.0,17691.409838,0.894553,0.0,5868.4697,"Bowen Hills, Fortitude Valley, Newstead",7
+Newstead,Newstead,Mixed Industrial,4030,0.039088,0.162752,0.119224,16,8075.0,941.543363,0.497361,0.081062,907.8333,Windsor,4
+Ningi,Ningi,Domestic,4510,0.724639,0.812572,0.100955,158,28278.0,2750.745428,0.068978,0.374406,3108.0934,"Beachmere, Caboolture, Donnybrook, Meldale, Toorbul",6
+Ningi,Ningi,Domestic,4511,0.275361,0.187428,0.294437,39,7996.0,1045.275746,0.399721,0.143869,677.8235,Ningi,3
+Noosaville,Noosaville,Domestic,4565,0.007267,0.017974,0.020639,5,925.0,92.73595,0.0,0.135135,202.875,"Noosa North Shore, Tewantin",4
+Noosaville,Noosaville,Domestic,4566,0.254335,0.424711,0.441099,79,31791.0,3245.510169,0.305752,0.060388,4200.2703,Noosaville,2
+Noosaville,Noosaville,Domestic,4567,0.71966,0.52481,1.0,151,70470.0,9183.414395,0.49067,0.045994,7352.0,"Castaways Beach, Noosa Heads, Sunrise Beach, Sunshine Beach",1
+Noosaville,Noosaville,Domestic,4573,0.018738,0.032504,0.017931,10,2385.0,239.108369,0.0,0.09434,386.5,"Marcus Beach, Peregian Beach",3
+North Maclean,North Maclean Bus 1 + North Maclean Bus 2,Mixed Domestic,4124,0.570672,0.556409,0.695358,251,58849.0,5835.853381,0.106131,0.09147,4582.3151,"Boronia Heights, Greenbank, Lyons, New Beith",3
+North Maclean,North Maclean Bus 1 + North Maclean Bus 2,Mixed Domestic,4125,0.115846,0.108768,0.173194,70,11931.0,1184.674346,0.065115,0.06103,1347.3217,"Munruben, Park Ridge, Park Ridge South",6
+North Maclean,North Maclean Bus 1 + North Maclean Bus 2,Mixed Domestic,4280,0.313481,0.334823,0.353651,128,32536.0,3205.747719,0.142718,0.031382,2578.8922,"Flagstone, North Maclean, Riverbend, South Maclean, Stockleigh",2
+North Springwood,North Springwood,Domestic,4112,0.051033,0.121204,0.584043,21,8590.0,783.007893,0.036,0.114285,1701.3502,Kuraby,2
+North Springwood,North Springwood,Domestic,4113,0.03395,0.010139,0.042292,12,5525.0,520.902207,0.318312,0.0,191.0765,Eight Mile Plains,4
+North Springwood,North Springwood,Domestic,4114,0.028879,0.009279,0.038716,13,4475.0,443.095432,0.797832,0.0,267.0,Woodridge,5
+North Springwood,North Springwood,Domestic,4119,0.334293,0.245807,1.0,85,44510.0,5129.098694,0.755818,0.0,2325.0,Underwood,1
+North Springwood,North Springwood,Domestic,4123,0.165276,0.37848,0.280869,69,23970.0,2535.851716,0.139941,0.041999,4628.0094,"Rochedale, Rochedale South",3
+North Springwood,North Springwood,Domestic,4127,0.386569,0.235091,0.437662,114,49643.0,5931.185373,0.62613,0.061511,3940.2607,"Daisy Hill, Priestdale, Springwood",4
+Nth Ipswich,Nth Ipswich,Domestic,4305,0.917163,0.931979,0.204868,135,50350.0,6812.148977,0.526129,0.026712,6595.2129,"Brassall, Coalfalls, East Ipswich, Ipswich, Moores Pocket, North Ipswich, Sadliers Crossing, Tivoli, Woodend",9
+Nth Ipswich,Nth Ipswich,Domestic,4306,0.082837,0.068021,0.024389,55,3914.0,615.261473,0.565909,0.311392,227.0008,"Chuwar, Kholo, Muirlea, Pine Mountain",15
+Nudgee,Nudgee,Industrial,4013,0.338302,0.063321,0.670777,40,26495.0,3813.809241,0.963762,0.004693,250.0,Northgate,3
+Nudgee,Nudgee,Industrial,4014,0.661698,0.936679,0.514155,100,58073.0,7459.568588,0.80347,0.034178,2276.218,"Banyo, Nudgee, Nudgee Beach",4
+Nundah,Nundah,Mixed Industrial,4011,0.006376,0.0,0.009687,1,500.0,50.127541,1.0,0.0,0.0,,4
+Nundah,Nundah,Mixed Industrial,4012,0.595808,0.619838,0.669198,95,44030.0,4683.861095,0.330405,0.03259,8054.4078,"Nundah, Wavell Heights",4
+Nundah,Nundah,Mixed Industrial,4013,0.225355,0.277381,0.31159,37,14695.0,1771.592614,0.696686,0.0,1938.0,Northgate,3
+Nundah,Nundah,Mixed Industrial,4014,0.117108,0.102781,0.063455,11,6945.0,920.631067,0.79989,0.0,442.0,Virginia,4
+Nundah,Nundah,Mixed Industrial,4034,0.055353,0.0,0.016841,3,2750.0,435.146115,1.0,0.0,0.0,,7
+Oxley,Oxley,Industrial,4073,0.011269,0.090796,0.023786,4,1245.0,111.410117,0.0,0.240964,298.0,Seventeen Mile Rocks,3
+Oxley,Oxley,Industrial,4075,0.470415,0.68702,0.456602,81,37373.0,4650.775314,0.568401,0.047182,3191.1192,"Corinda, Oxley",5
+Oxley,Oxley,Industrial,4076,0.049782,0.0,0.014363,7,5500.0,492.173208,1.0,0.0,0.0,,5
+Oxley,Oxley,Industrial,4077,0.076213,0.21925,0.048076,14,7090.0,753.485338,0.184838,0.118763,1194.9149,"Durack, Inala",6
+Oxley,Oxley,Industrial,4106,0.344213,0.001521,0.212543,23,16460.0,3403.06984,1.0,0.0,1.6814,Rocklea,5
+Oxley,Oxley,Industrial,4108,0.048108,0.001414,0.039812,8,5315.0,475.618291,0.0,1.0,3.9783,Archerfield,8
+Palm Beach,Palm Beach,Domestic,4221,0.89611,0.78528,0.643868,108,48365.0,5486.882532,0.34497,0.039583,8134.4,"Elanora, Palm Beach",3
+Palm Beach,Palm Beach,Domestic,4223,0.10389,0.21472,0.107309,23,6620.0,636.119888,0.031521,0.044313,1484.0,Currumbin Waters,3
+Palmwoods Central,Palmwoods Central,Domestic,4552,0.002801,0.001552,0.004635,5,224.0,22.457138,0.0,1.0,15.0,North Maleny,6
+Palmwoods Central,Palmwoods Central,Domestic,4553,0.074032,0.141241,0.135713,45,6207.0,593.476099,0.0,0.137339,762.9523,"Diamond Valley, Mooloolah Valley",5
+Palmwoods Central,Palmwoods Central,Domestic,4554,0.065582,0.078652,0.873563,83,5244.0,525.737647,0.0,0.939931,639.6201,"Eudlo, Ilkley",3
+Palmwoods Central,Palmwoods Central,Domestic,4555,0.42862,0.407687,0.880859,220,32800.0,3436.050608,0.191629,0.457682,2914.1448,"Chevallum, Hunchy, Landers Shoot, Palmwoods",2
+Palmwoods Central,Palmwoods Central,Domestic,4556,0.000313,0.000365,0.000117,1,25.0,2.506377,0.0,1.0,3.4861,Tanawha,4
+Palmwoods Central,Palmwoods Central,Domestic,4559,0.255527,0.211724,0.702936,100,19394.0,2048.438807,0.338518,0.220835,1800.7978,"West Woombye, Woombye",4
+Palmwoods Central,Palmwoods Central,Domestic,4560,0.173126,0.15878,0.077981,109,14106.0,1387.867868,0.096075,0.497497,1621.8141,"Burnside, Coes Creek, Dulong, Flaxton, Montville, Perwillowen, Towen Mountain",9
+Parkwood,Parkwood,Mixed Industrial,4214,0.191053,0.664897,0.037177,7,4500.0,909.043479,0.704681,0.0,770.0,Parkwood,9
+Parkwood,Parkwood,Mixed Industrial,4215,0.808947,0.335103,0.100497,24,22565.0,3849.025329,0.761698,0.011625,1172.1481,Southport,6
+Peregian,Peregian,Domestic,4562,0.00065,0.000329,0.000723,1,25.0,2.506377,0.0,1.0,1.1156,Doonan,8
+Peregian,Peregian,Domestic,4573,0.99935,0.999671,0.288974,102,38948.0,3853.353079,0.179608,0.158943,5336.5,"Marcus Beach, Peregian Beach, Peregian Springs",3
+Pimpama East,Pimpama East,Domestic,4207,0.04883,0.0264,0.012414,30,5104.0,684.607881,0.406869,0.4792,321.9788,"Steiglitz, Woongoolba",10
+Pimpama East,Pimpama East,Domestic,4208,0.110094,0.127773,0.113733,60,16539.0,1543.536169,0.0,0.358554,1310.7101,"Gilberton, Jacobs Well, Norwell, Ormeau",3
+Pimpama East,Pimpama East,Domestic,4209,0.841076,0.845827,0.420481,250,112714.0,11792.022631,0.270073,0.151721,11866.3853,"Coomera, Pimpama",5
+Postmans Ridge,Postmans Ridge,Mixed Industrial,4344,0.047405,0.002369,0.041776,25,1321.0,132.436963,0.0,0.601817,75.5662,"Helidon Spa, Lockyer",5
+Postmans Ridge,Postmans Ridge,Mixed Industrial,4350,0.013457,0.602342,0.809935,5,375.0,37.595656,0.0,0.733333,220.0,"Blue Mountain Heights, Mount Kynoch, Rangeville, Redwood",2
+Postmans Ridge,Postmans Ridge,Mixed Industrial,4352,0.939138,0.395289,0.960182,296,22001.0,2623.707928,0.272233,0.156246,1699.8807,"Ballard, Blanchview, Cabarlah, Fifteen Mile, Hampton, Highfields, Murphys Creek, Postmans Ridge, Silver Ridge, Upper Lockyer, White Mountain, Withcott",2
+Queensport,Queensport,Industrial,4170,0.824185,0.77689,0.501331,100,58945.0,7074.568847,0.731685,0.013951,3870.5,"Cannon Hill, Morningside, Norman Park",7
+Queensport,Queensport,Industrial,4171,0.011037,0.052587,0.024105,3,945.0,94.741052,0.0,0.0,283.0,Hawthorne,2
+Queensport,Queensport,Industrial,4172,0.164778,0.170524,0.110029,11,7290.0,1414.406543,0.811838,0.0,454.0712,Murarrie,5
+Raby Bay,Raby Bay,Domestic,4160,0.303442,0.447926,0.615116,79,30635.0,3091.8384,0.27144,0.023154,4236.0,"Ormiston, Wellington Point",2
+Raby Bay,Raby Bay,Domestic,4161,0.097115,0.123927,0.23354,25,8735.0,989.523256,0.211121,0.151975,1369.4711,Alexandra Hills,4
+Raby Bay,Raby Bay,Domestic,4163,0.599444,0.428147,0.596942,111,51535.0,6107.868842,0.505219,0.081297,5075.8544,Cleveland,2
+Redbank,Redbank,Mixed Industrial,4300,0.206789,0.392468,0.05413,17,9295.0,1946.272125,0.901738,0.022989,498.5714,Goodna,7
+Redbank,Redbank,Mixed Industrial,4301,0.734665,0.331225,0.42324,52,34573.0,6914.568999,0.887275,0.061216,525.0,"Collingwood Park, Redbank",4
+Redbank,Redbank,Mixed Industrial,4303,0.058546,0.276307,0.116082,20,5550.0,551.03118,0.075505,0.0,845.6643,Riverview,4
+Redbank Plains,Redbank Plains,,4300,0.075571,0.133505,0.018158,23,6929.0,652.88357,0.068531,0.162531,1196.0,"Augustine Heights, Bellbird Park",7
+Redbank Plains,Redbank Plains,,4301,0.862777,0.866205,0.456248,179,72961.0,7453.829,0.272725,0.094441,9682.0606,"Collingwood Park, Redbank Plains",4
+Redbank Plains,Redbank Plains,,4306,0.061652,0.00029,0.021113,13,5830.0,532.63418,0.275052,0.724948,2.0499,White Rock,15
+Redcliffe,Redcliffe,Mixed Domestic,4019,0.159327,0.326835,0.175782,28,11915.0,1277.642641,0.188229,0.118298,2671.0,"Margate, Woody Point",2
+Redcliffe,Redcliffe,Mixed Domestic,4020,0.697893,0.606677,0.51312,77,45305.0,5596.38604,0.503685,0.071942,4087.0,Redcliffe,3
+Redcliffe,Redcliffe,Mixed Domestic,4021,0.14278,0.066488,0.225011,15,7795.0,1144.950259,0.809438,0.0,473.0,Kippa-Ring,4
+Redland Bay,Redland Bay,Domestic,4130,0.01697,0.004036,0.031146,9,896.0,89.828553,0.0,1.0,24.9827,Carbrook,4
+Redland Bay,Redland Bay,Domestic,4165,0.98303,0.995964,0.405544,224,55419.0,5203.511718,0.0,0.351006,6905.497,"Mount Cotton, Redland Bay, Victoria Point",4
+Robina,Robina,Mixed Industrial,4211,0.004477,0.004052,0.003131,4,793.0,76.110031,0.0,1.0,38.5973,Gilston,8
+Robina,Robina,Mixed Industrial,4213,0.165105,0.361085,0.296403,94,26341.0,2806.756566,0.233172,0.055228,2651.4667,"Mudgeeraba, Tallai, Worongary",3
+Robina,Robina,Mixed Industrial,4226,0.81521,0.604713,0.63337,161,105855.0,13858.455055,0.646975,0.021025,7496.3254,"Merrimac, Robina",5
+Robina,Robina,Mixed Industrial,4227,0.015209,0.03015,0.033644,7,2740.0,258.545358,0.46826,0.038777,374.0,Reedy Creek,4
+Rocklea,Rocklea,Industrial,4105,0.208509,0.340608,0.1794,33,13090.0,1640.22045,0.455324,0.019254,2778.0,Moorooka,4
+Rocklea,Rocklea,Industrial,4106,0.291063,0.500196,0.143002,32,15265.0,2289.624747,0.872086,0.008757,694.0,Rocklea,5
+Rocklea,Rocklea,Industrial,4107,0.340114,0.117524,0.324357,26,14970.0,2675.48419,0.900908,0.0,476.8679,Salisbury,4
+Rocklea,Rocklea,Industrial,4108,0.152285,0.028282,0.100276,23,10675.0,1197.941178,0.96265,0.0,99.8946,Archerfield,8
+Rocklea,Rocklea,Industrial,4121,0.008029,0.01339,0.011814,2,630.0,63.160701,0.0,0.0,87.0,Tarragindi,6
+Roderick St,Roderick St,Mixed Industrial,4305,1.0,1.0,0.356762,114,65798.0,11862.827168,0.84832,0.013542,2973.0603,"Coalfalls, East Ipswich, Eastern Heights, Ipswich, Leichhardt, Sadliers Crossing, West Ipswich, Woodend, Wulkuraka",9
+Rosewood,Rosewood,Domestic,4306,0.09382,0.067422,0.012868,24,1958.0,324.632778,0.643525,0.199193,87.9636,"Thagoona, Walloon, Willowbank",15
+Rosewood,Rosewood,Domestic,4307,0.001014,0.000743,0.001625,2,35.0,3.508928,0.0,1.0,1.0947,Coleyville,3
+Rosewood,Rosewood,Domestic,4340,0.905166,0.931835,0.798857,491,31790.0,3132.025382,0.026385,0.664265,1999.6368,"Ashwell, Calvert, Ebenezer, Lanefield, Lower Mount Walker, Merryvale, Moorang, Mount Forbes, Mount Mort, Mount Walker, Mount Walker West, Rosevale, Rosewood, Tallegalla, The Bluff",7
+Runcorn,Runcorn,Domestic,4109,0.22101,0.248942,0.129652,42,16265.0,1709.864166,0.21633,0.070805,2429.8058,"Sunnybank, Sunnybank Hills",8
+Runcorn,Runcorn,Domestic,4112,0.072081,0.120266,0.415957,21,5810.0,557.659378,0.05663,0.05663,1017.6498,Kuraby,2
+Runcorn,Runcorn,Domestic,4113,0.610981,0.523159,0.383775,91,39358.0,4726.918087,0.427153,0.06927,5943.0,"Eight Mile Plains, Runcorn",4
+Runcorn,Runcorn,Domestic,4116,0.03478,0.065047,0.040467,8,2945.0,269.082439,0.0,0.074516,603.0,Stretton,3
+Runcorn,Runcorn,Domestic,4117,0.061149,0.042586,0.087891,7,3580.0,473.085228,0.630743,0.27468,98.0,Karawatha,5
+Russell Island,Russell Island,Domestic,4184,1.0,1.0,0.894611,135,26210.0,2616.916642,0.012068,0.063158,4555.0335,"Karragarra Island, Lamb Island, Macleay Island, Russell Island",3
+Salisbury,Salisbury,Industrial,4105,0.007117,0.036697,0.004386,2,400.0,40.102033,0.0,0.0,171.0,Moorooka,4
+Salisbury,Salisbury,Industrial,4107,0.875023,0.712672,0.59775,69,32750.0,4930.586145,0.847996,0.005717,1652.1321,Salisbury,4
+Salisbury,Salisbury,Industrial,4108,0.011911,0.0,0.005618,1,750.0,67.114528,1.0,0.0,0.0,,8
+Salisbury,Salisbury,Industrial,4111,0.053439,0.077953,0.153021,6,3365.0,301.120517,0.609212,0.0,344.0,Nathan,4
+Salisbury,Salisbury,Industrial,4121,0.05251,0.172678,0.055345,10,3005.0,295.881998,0.0,0.0,641.0,Tarragindi,6
+Samford,Samford,Domestic,4055,0.030252,0.022487,0.023319,13,1466.0,146.973949,0.0,0.305593,143.3723,"Bunya, Ferny Hills, Upper Kedron",4
+Samford,Samford,Domestic,4500,0.019817,0.010683,0.003449,7,1028.0,96.277726,0.0,0.322806,59.1352,"Cashmere, Clear Mountain",4
+Samford,Samford,Domestic,4520,0.94993,0.96683,0.861301,418,47485.0,4615.015074,0.036266,0.174495,4195.3959,"Camp Mountain, Cedar Creek, Closeburn, Draper, Enoggera Reservoir, Highvale, Jollys Lookout, Kobble Creek, Mount Glorious, Mount Nebo, Mount Samson, Samford Valley, Samford Village, Samsonvale, Wights Mountain, Yugar",5
+Sandgate,Sandgate,Domestic,4017,0.577284,0.58562,0.560217,140,54810.0,5627.866467,0.257082,0.08896,7915.0,"Bracken Ridge, Brighton, Deagon, Sandgate, Shorncliffe",3
+Sandgate,Sandgate,Domestic,4018,0.279994,0.242717,0.783015,56,27185.0,2729.62082,0.179295,0.068757,4370.0,"Fitzgibbon, Taigum",3
+Sandgate,Sandgate,Domestic,4034,0.12022,0.126004,0.045359,29,10900.0,1172.006878,0.205195,0.046957,1850.2337,Boondall,7
+Sandgate,Sandgate,Domestic,4036,0.022503,0.045659,0.098164,9,2403.0,219.374874,0.0,0.133799,484.0,Bald Hills,2
+Scarborough,Scarborough,Domestic,4020,0.769058,0.958645,0.426862,107,46920.0,4655.60192,0.180336,0.009611,7705.0,"Newport, Redcliffe, Scarborough",3
+Scarborough,Scarborough,Domestic,4021,0.230942,0.041355,0.27475,15,8380.0,1398.043514,0.949802,0.0,351.0,Kippa-Ring,4
+Scrub Road,Scrub Road,Mixed Domestic,4152,0.951241,0.964974,0.495167,105,47021.0,6496.028222,0.512925,0.086718,6744.682,"Carina, Carina Heights, Carindale",6
+Scrub Road,Scrub Road,Mixed Domestic,4153,0.034886,0.03361,0.282949,11,2430.0,238.235326,0.0,0.342971,168.2626,Belmont,3
+Scrub Road,Scrub Road,Mixed Domestic,4155,0.009249,0.001416,0.085227,2,630.0,63.160701,0.0,0.0,2.8745,Chandler,3
+Scrub Road,Scrub Road,Mixed Domestic,4170,0.004624,0.0,0.002238,1,315.0,31.580351,0.0,1.0,0.0,,7
+Sherwood,Sherwood,Domestic,4068,0.118721,0.097017,0.103738,27,9955.0,1029.988389,0.146291,0.074101,1420.0,"Chelmer, Indooroopilly",4
+Sherwood,Sherwood,Domestic,4069,0.103056,0.154846,0.071885,27,8825.0,894.078876,0.129158,0.056066,986.3305,Fig Tree Pocket,5
+Sherwood,Sherwood,Domestic,4075,0.60901,0.748137,0.518729,114,47865.0,5283.578843,0.326017,0.037359,6789.4,"Corinda, Graceville, Oxley, Sherwood",5
+Sherwood,Sherwood,Domestic,4106,0.169213,0.0,0.091689,7,5415.0,1468.041134,1.0,0.0,0.0,,5
+Somerset Dam,Somerset Dam,Domestic,4311,0.06866,0.0,0.001684,2,163.0,16.341578,0.0,1.0,0.0,,10
+Somerset Dam,Somerset Dam,Domestic,4312,0.93134,1.0,0.109214,63,2211.0,221.663985,0.0,0.819086,201.4921,"Bryden, Crossdale, Mount Byron, Somerset Dam",7
+Southport,Southport,Mixed Industrial,4214,0.021663,0.046049,0.029932,12,6450.0,731.90243,0.839812,0.0,344.0,Ashmore,9
+Southport,Southport,Mixed Industrial,4215,0.861318,0.869553,0.759794,321,189463.0,29099.91294,0.71089,0.020067,19620.3177,"Labrador, Southport",6
+Southport,Southport,Mixed Industrial,4217,0.117019,0.084399,0.079314,37,25060.0,3953.508682,0.63762,0.045269,2083.3955,Main Beach,6
+Spring Creek,Spring Creek,Mixed Industrial,4311,0.446703,0.187686,0.09207,66,7132.0,893.309708,0.311813,0.452507,88.9953,"Atkinsons Dam, Buaraba, Churchable, Coominya",10
+Spring Creek,Spring Creek,Mixed Industrial,4343,0.553297,0.812314,0.080543,108,9872.0,1106.474771,0.188806,0.617597,348.7922,"Adare, Lake Clarendon, Morton Vale, Spring Creek",9
+Springfield,Springfield,Domestic,4300,1.0,1.0,0.104153,78,38680.0,3744.909212,0.252075,0.157112,4505.6101,"Augustine Heights, Bellbird Park, Brookwater, Springfield",7
+Springfield Central,Springfield Central,Mixed Industrial,4300,1.0,1.0,0.208443,116,63550.0,7494.70813,0.453929,0.119518,7449.0,"Spring Mountain, Springfield Central, Springfield Lakes",7
+St Lucia,St Lucia,Industrial,4067,1.0,1.0,0.78963,37,20495.0,2866.711394,0.647773,0.009833,3103.0,St Lucia,2
+Stafford,Stafford,Domestic,4031,0.007423,0.009009,0.008729,2,630.0,63.160701,0.0,0.0,107.0,Kedron,4
+Stafford,Stafford,Domestic,4032,0.135917,0.108496,0.092047,33,12341.0,1156.533979,0.10468,0.010922,1833.3636,Chermside West,3
+Stafford,Stafford,Domestic,4034,0.086969,0.102354,0.02864,13,6095.0,740.022969,0.376401,0.114877,931.0,Aspley,7
+Stafford,Stafford,Domestic,4035,0.008571,0.024905,0.009353,2,815.0,72.931121,0.0,0.0,147.0,Bridgeman Downs,6
+Stafford,Stafford,Domestic,4053,0.76112,0.755235,0.382922,128,57743.0,6476.440863,0.44589,0.049663,7832.9197,"Everton Park, McDowall, Stafford, Stafford Heights",7
+Stapylton,Stapylton,Mixed Industrial,4207,0.786326,0.859337,0.073868,64,29730.0,4073.661529,0.636476,0.355501,125.5818,"Alberton, Stapylton, Steiglitz, Woongoolba",10
+Stapylton,Stapylton,Mixed Industrial,4208,0.213674,0.140663,0.081565,16,7443.0,1106.968209,0.833756,0.166244,17.2899,"Gilberton, Ormeau",3
+Stradbroke Is,Stradbroke Is,Domestic,4183,1.0,1.0,1.0,71,17671.0,2388.893953,0.43621,0.146815,1993.0,"Amity, Dunwich, North Stradbroke Island, Point Lookout",1
+Strathpine,Strathpine,Mixed Industrial,4500,1.0,1.0,0.443526,173,94163.0,12379.746251,0.895127,0.007313,3230.8515,"Bray Park, Brendale, Strathpine",4
+Sumner,Sumner,Mixed Industrial,4073,0.25429,0.314765,0.730544,62,32900.0,3421.812098,0.571032,0.155079,2642.0,"Seventeen Mile Rocks, Sinnamon Park",3
+Sumner,Sumner,Mixed Industrial,4074,0.56653,0.65876,0.691558,122,61750.0,7623.412985,0.617634,0.024146,5929.5322,"Jamboree Heights, Jindalee, Middle Park, Mount Ommaney, Riverhills, Sumner, Westlake",4
+Sumner,Sumner,Mixed Industrial,4076,0.17918,0.026475,0.070363,30,18825.0,2411.10137,0.935685,0.011691,57.0,Darra,5
+Sunnybank,Sunnybank,Industrial,4107,0.05277,0.088357,0.068399,6,2960.0,564.190742,0.740562,0.0,370.0,Salisbury,4
+Sunnybank,Sunnybank,Industrial,4108,0.355854,0.350933,0.318475,33,18935.0,3804.650065,0.873956,0.01176,1279.2257,Coopers Plains,8
+Sunnybank,Sunnybank,Industrial,4109,0.505561,0.54687,0.40986,66,35020.0,5405.254117,0.708137,0.02212,2941.5951,"Macgregor, Robertson, Sunnybank",8
+Sunnybank,Sunnybank,Industrial,4111,0.081187,0.00138,0.441102,6,3815.0,868.019618,0.948454,0.051546,11.0,Nathan,4
+Sunnybank,Sunnybank,Industrial,4113,0.004628,0.012459,0.004017,2,515.0,49.477558,0.0,0.0,78.0,Eight Mile Plains,4
+Surfers Paradise,Surfers Paradise,Mixed Industrial,4214,0.024276,0.033236,0.032138,4,3500.0,785.84991,0.943064,0.0,189.0,Ashmore,9
+Surfers Paradise,Surfers Paradise,Mixed Industrial,4215,0.014338,0.061656,0.012119,12,4925.0,464.141406,0.0,0.132841,1059.0,Southport,6
+Surfers Paradise,Surfers Paradise,Mixed Industrial,4217,0.961386,0.905107,0.624352,201,149960.0,31121.557874,0.823775,0.008799,17007.6045,"Benowa, Main Beach, Surfers Paradise",6
+Tamborine Village,Tamborine Village,Domestic,4207,0.20688,0.045977,0.008392,17,2945.0,462.772639,0.645234,0.08319,72.9361,Cedar Creek,10
+Tamborine Village,Tamborine Village,Domestic,4270,0.53147,0.755852,0.778591,118,11480.0,1188.854207,0.070289,0.392637,1059.1558,Tamborine,3
+Tamborine Village,Tamborine Village,Domestic,4275,0.127733,0.040249,0.115257,32,2850.0,285.726982,0.0,1.0,56.29,Boyland,4
+Tamborine Village,Tamborine Village,Domestic,4285,0.133917,0.157923,0.017136,64,2988.0,299.562183,0.0,0.539491,233.5008,"Birnam, Mundoolun, Tabragalba",6
+Tanah Merah,Tanah Merah,Domestic,4127,0.377845,0.205504,0.16177,32,13615.0,2192.306839,0.617921,0.009146,1447.6289,"Daisy Hill, Slacks Creek",4
+Tanah Merah,Tanah Merah,Domestic,4128,0.553825,0.741019,0.460973,76,26405.0,3213.368452,0.455335,0.016848,3856.0,"Shailer Park, Tanah Merah",3
+Tanah Merah,Tanah Merah,Domestic,4131,0.068331,0.053477,0.057782,8,2805.0,396.464444,0.533252,0.0,433.0,Meadowbrook,3
+Tarampa,Tarampa,Domestic,4306,0.003256,0.004502,0.000489,4,123.0,12.331375,0.0,1.0,8.4708,Glamorgan Vale,15
+Tarampa,Tarampa,Domestic,4311,0.996744,0.995498,0.389071,386,36703.0,3774.977242,0.108116,0.663636,2373.1313,"Brightview, Clarendon, Coolana, Coominya, Lowood, Minden, Mount Tarampa, Patrick Estate, Prenzlau, Rifle Range, Tarampa",10
+Taringa,Taringa,Domestic,4066,0.297386,0.106768,0.098667,15,10630.0,1476.696295,0.655073,0.0,885.0,Toowong,6
+Taringa,Taringa,Domestic,4067,0.153806,0.189052,0.21037,21,7865.0,763.737416,0.065635,0.135085,1573.0,St Lucia,2
+Taringa,Taringa,Domestic,4068,0.548808,0.704179,0.274471,53,24345.0,2725.15714,0.360204,0.084688,3937.0,"Indooroopilly, Taringa",4
+Tennyson,Tennyson,Mixed Industrial,4075,0.00786,0.17844,0.0031,1,315.0,31.580351,0.0,0.0,77.0,Graceville,5
+Tennyson,Tennyson,Mixed Industrial,4105,0.518098,0.82156,0.227695,21,13340.0,2081.772435,0.908918,0.046294,496.0,Tennyson,4
+Tennyson,Tennyson,Mixed Industrial,4106,0.474042,0.0,0.118964,11,11250.0,1904.750603,1.0,0.0,0.0,,5
+Tenthill,Tenthill,Domestic,4341,0.014304,0.015083,0.004976,13,416.0,41.706114,0.0,1.0,15.9234,Blenheim,6
+Tenthill,Tenthill,Domestic,4342,0.003026,0.002373,0.003098,2,88.0,8.822447,0.0,1.0,2.6916,Glen Cairn,5
+Tenthill,Tenthill,Domestic,4343,0.730728,0.360936,0.155087,245,21466.0,2130.537492,0.0,0.926357,369.6093,"Caffey, Fordsdale, Ingoldsby, Lower Tenthill, Rockside, Ropeley, Upper Tenthill, Woodlands",9
+Tenthill,Tenthill,Domestic,4344,0.002579,0.005355,0.002372,3,75.0,7.519131,0.0,1.0,7.0,Egypt,5
+Tenthill,Tenthill,Domestic,4347,0.215493,0.20762,0.284708,103,6267.0,628.298596,0.0,0.677038,201.369,"Grantham, Ma Ma Creek, Mount Whitestone, Veradilla, Winwill",5
+Tenthill,Tenthill,Domestic,4359,0.03387,0.408634,0.813377,22,985.0,98.751255,0.0,1.0,86.2966,"Budgee, Hirstglen, West Haldon",2
+Tewantin,Tewantin,Domestic,4562,0.125439,0.228418,0.338139,106,11851.0,1172.561703,0.0,0.13227,1524.415,"Doonan, Eumundi, Weyba Downs",8
+Tewantin,Tewantin,Domestic,4563,0.036176,0.048964,0.064506,44,3373.0,338.16039,0.0,0.380966,374.3204,Tinbeerwah,4
+Tewantin,Tewantin,Domestic,4565,0.39846,0.609675,0.828966,175,39549.0,3724.677009,0.113856,0.171575,6085.125,"Cooroibah, Noosa North Shore, Ringtail Creek, Tewantin",4
+Tewantin,Tewantin,Domestic,4566,0.439925,0.112942,0.558901,64,34628.0,4112.274272,0.825841,0.003974,987.7297,Noosaville,2
+The Gap,The Gap,Domestic,4061,0.744286,1.0,0.935913,106,39226.0,3939.484517,0.222445,0.05392,5958.0,The Gap,2
+The Gap,The Gap,Domestic,4066,0.243781,0.0,0.086214,7,4900.0,1290.326289,0.971425,0.028575,0.0,,6
+The Gap,The Gap,Domestic,4520,0.011933,0.0,0.011788,2,630.0,63.160701,0.0,1.0,0.0,,5
+Tin Can Bay,Tin Can Bay,Domestic,4570,0.014821,0.016559,0.001842,5,538.0,53.937234,0.0,0.0,46.0,Wallu,9
+Tin Can Bay,Tin Can Bay,Domestic,4580,0.672978,0.794105,1.0,88,23167.0,2449.10084,0.219576,0.066152,3024.0,"Cooloola, Cooloola Cove, Tin Can Bay",1
+Tin Can Bay,Tin Can Bay,Domestic,4581,0.3122,0.189336,1.0,35,12018.0,1136.159071,0.054268,0.20385,1150.0,"Inskip, Rainbow Beach",1
+Tingalpa,Tingalpa,Domestic,4152,0.008292,0.019807,0.004935,3,678.0,64.742232,0.0,0.585343,199.0,Carindale,6
+Tingalpa,Tingalpa,Domestic,4153,0.075871,0.184335,0.703596,19,6510.0,592.407781,0.0,0.0,1326.4857,Belmont,3
+Tingalpa,Tingalpa,Domestic,4154,0.251531,0.303966,0.624064,37,18475.0,1963.981806,0.513593,0.028705,1763.0,"Gumdale, Wakerley",3
+Tingalpa,Tingalpa,Domestic,4173,0.507321,0.380029,0.783882,71,36088.0,3961.219204,0.606728,0.075116,3263.0,Tingalpa,3
+Tingalpa,Tingalpa,Domestic,4178,0.094458,0.080826,0.028304,12,5995.0,737.535792,0.603593,0.042819,696.3099,"Hemmant, Wynnum West",7
+Tingalpa,Tingalpa,Domestic,4179,0.062527,0.031036,0.111168,9,5380.0,488.219381,0.458227,0.0,302.6901,Manly West,3
+Toogoolawah,Toogoolawah,Domestic,4311,0.019129,0.0,0.008132,9,787.0,78.900749,0.0,1.0,0.0,,10
+Toogoolawah,Toogoolawah,Domestic,4312,0.016868,0.013075,0.034281,24,694.0,69.577027,0.0,1.0,31.1326,"Caboonbah, Coal Creek, Eskdale, Somerset Dam",7
+Toogoolawah,Toogoolawah,Domestic,4313,0.594009,0.402686,0.924179,410,22682.0,2450.122416,0.126576,0.743672,1090.3851,"Biarra, Braemore, Cooeeimbardi, Cressbrook, Fulham, Gregors Creek, Ivory Creek, Lower Cressbrook, Mount Beppo, Ottaba, Scrub Creek, Toogoolawah, Yimbun",2
+Toogoolawah,Toogoolawah,Domestic,4314,0.357938,0.572667,0.99574,222,12948.0,1476.393262,0.188666,0.671584,421.3654,"Avoca Vale, Colinton, Harlin, Linville, Moore, Mount Stanley",2
+Toogoolawah,Toogoolawah,Domestic,4515,0.012056,0.011573,0.01325,18,496.0,49.72652,0.0,1.0,23.9325,"Monsildale, Woolmar",3
+Toorbul Point,Toorbul Point,Domestic,4510,0.041115,0.0,0.003284,1,1000.0,89.486038,1.0,0.0,0.0,,6
+Toorbul Point,Toorbul Point,Domestic,4511,0.958885,1.0,0.58787,69,22631.0,2086.983603,0.148261,0.082956,3578.6527,"Godwin Beach, Ningi, Sandstone Point",3
+Toowong,Toowong,Mixed Industrial,4064,0.004501,0.01945,0.006394,2,630.0,59.768453,0.0,0.0,141.0,Paddington,4
+Toowong,Toowong,Mixed Industrial,4065,0.079131,0.314146,0.485311,28,11010.0,1050.717062,0.119481,0.093619,1784.0,Bardon,2
+Toowong,Toowong,Mixed Industrial,4066,0.843755,0.517271,0.748571,115,65660.0,11203.514412,0.698037,0.019128,7117.0,"Auchenflower, Toowong",6
+Toowong,Toowong,Mixed Industrial,4068,0.072613,0.149134,0.097108,20,8720.0,964.165999,0.216673,0.0,1384.0,"Indooroopilly, Taringa",4
+Upper Mt Gravatt,Upper Mt Gravatt,Mixed Domestic,4107,0.008589,0.025921,0.009494,2,815.0,78.315643,0.0,0.0,110.0,Salisbury,4
+Upper Mt Gravatt,Upper Mt Gravatt,Mixed Domestic,4108,0.052829,0.244931,0.04032,15,5035.0,481.684737,0.130044,0.05852,904.7743,Coopers Plains,8
+Upper Mt Gravatt,Upper Mt Gravatt,Mixed Domestic,4109,0.124663,0.215102,0.086189,21,9225.0,1136.666717,0.470728,0.039363,1172.5083,"Macgregor, Robertson",8
+Upper Mt Gravatt,Upper Mt Gravatt,Mixed Domestic,4111,0.019629,0.0,0.090948,2,2000.0,178.972076,0.0,1.0,0.0,,4
+Upper Mt Gravatt,Upper Mt Gravatt,Mixed Domestic,4122,0.79429,0.514046,0.354912,75,39330.0,7242.24544,0.760677,0.004361,3823.8366,"Upper Mount Gravatt, Wishart",5
+Varsity Lakes,Varsity Lakes,Domestic,4220,0.063371,0.031118,0.033953,6,4750.0,708.647946,0.684307,0.0,333.0,Burleigh Waters,3
+Varsity Lakes,Varsity Lakes,Domestic,4226,0.458323,0.496919,0.234237,82,46170.0,5125.209705,0.378127,0.042114,5509.2996,"Clear Island Waters, Robina",5
+Varsity Lakes,Varsity Lakes,Domestic,4227,0.478306,0.471963,0.69602,76,48566.0,5348.675018,0.359962,0.043007,5236.0,"Reedy Creek, Varsity Lakes",4
+Victoria Park,Victoria Park,Industrial,4000,0.109518,0.202145,0.030995,15,12630.0,2774.314281,0.844691,0.032255,829.8667,Spring Hill,7
+Victoria Park,Victoria Park,Industrial,4006,0.890482,0.797855,0.342756,113,97720.0,22557.770199,0.920976,0.009334,4378.6903,"Bowen Hills, Fortitude Valley, Herston",7
+Victoria Point,Victoria Point,Domestic,4164,0.201919,0.22436,0.329107,44,15575.0,1437.575047,0.046686,0.129546,1943.5694,Thornlands,3
+Victoria Point,Victoria Point,Domestic,4165,0.771889,0.72399,0.428302,120,45667.0,5495.514436,0.464243,0.057084,6253.8838,"Mount Cotton, Victoria Point",4
+Victoria Point,Victoria Point,Domestic,4184,0.026192,0.05165,0.063748,7,1860.0,186.474452,0.0,0.0,593.0,Coochiemudlo Island,3
+Wacol,Wacol,Industrial,4070,0.008884,0.135216,0.039074,4,1515.0,135.571347,0.0,0.0,251.0,"Bellbowrie, Moggill",2
+Wacol,Wacol,Industrial,4074,0.004108,0.078894,0.005687,3,693.0,62.692274,0.0,0.0,175.7853,"Riverhills, Sumner",4
+Wacol,Wacol,Industrial,4076,0.880728,0.783105,0.392236,121,76461.0,13440.671313,0.864606,0.036393,417.3513,"Darra, Wacol",5
+Wacol,Wacol,Industrial,4077,0.10628,0.002785,0.103486,19,14880.0,1621.926007,0.257606,0.027586,9.6083,Richlands,6
+Wacol South,Wacol South,Industrial,4076,0.848153,0.030842,0.287741,69,54340.0,9859.956046,0.978646,0.0,16.6487,Wacol,5
+Wacol South,Wacol South,Industrial,4077,0.037564,0.130516,0.027863,8,4880.0,436.691865,0.0,0.0,456.0899,Richlands,6
+Wacol South,Wacol South,Industrial,4078,0.114282,0.838642,0.234325,37,14443.0,1328.555448,0.140511,0.203074,2352.0392,"Ellen Grove, Forest Lake",4
+Wamuran,Wamuran,Domestic,4312,0.001019,0.0,0.001235,1,25.0,2.506377,0.0,1.0,0.0,,7
+Wamuran,Wamuran,Domestic,4510,0.062798,0.036869,0.005666,17,1540.0,154.392825,0.0,1.0,72.8423,"Bellmere, Rocksberg",6
+Wamuran,Wamuran,Domestic,4512,0.708376,0.66737,0.618856,215,17647.0,1741.578826,0.0,0.849382,881.6662,"Bracalba, Wamuran, Wamuran Basin",3
+Wamuran,Wamuran,Domestic,4521,0.227806,0.295761,0.233159,111,5688.0,560.074157,0.0,0.698829,473.968,"Campbells Pocket, Mount Mee, Mount Pleasant, Ocean View",4
+Wellington Rd,Wellington Rd,Industrial,4101,0.18411,0.067254,0.099459,20,17250.0,3832.498469,0.871579,0.0,1088.2112,South Brisbane,4
+Wellington Rd,Wellington Rd,Industrial,4102,0.294263,0.163343,0.425655,46,35125.0,6125.484517,0.864225,0.011687,1636.5,Woolloongabba,4
+Wellington Rd,Wellington Rd,Industrial,4120,0.037262,0.040123,0.168082,11,8630.0,775.656756,0.115368,0.040714,366.5563,"Greenslopes, Stones Corner",4
+Wellington Rd,Wellington Rd,Industrial,4151,0.013152,0.000787,0.045102,6,2865.0,273.769504,1.0,0.0,6.0,Coorparoo,5
+Wellington Rd,Wellington Rd,Industrial,4169,0.451111,0.537511,0.943312,118,72740.0,9390.485107,0.464727,0.030971,8769.0,"East Brisbane, Kangaroo Point",2
+Wellington Rd,Wellington Rd,Industrial,4170,0.020102,0.190981,0.029653,12,4335.0,418.452213,0.0,0.075469,841.0,Norman Park,7
+West End,West End,Industrial,4101,1.0,1.0,0.856235,209,178115.0,32993.538173,0.795399,0.009493,15435.7,"Highgate Hill, South Brisbane, West End",4
+West Maroochydore,West Maroochydore,Mixed Domestic,4556,0.519008,0.450338,0.326193,183,66969.0,6974.220894,0.553797,0.067098,4582.8178,"Buderim, Forest Glen, Kunda Park, Mons, Tanawha",4
+West Maroochydore,West Maroochydore,Mixed Domestic,4558,0.173035,0.162639,0.125241,57,22395.0,2325.181649,0.281971,0.094298,3067.0,"Kuluin, Maroochydore",2
+West Maroochydore,West Maroochydore,Mixed Domestic,4559,0.031949,0.058939,0.147325,32,4336.0,429.321511,0.11676,0.554143,533.6631,"Diddillibah, Kiels Mountain, Woombye",4
+West Maroochydore,West Maroochydore,Mixed Domestic,4560,0.068196,0.12926,0.05149,32,9806.0,916.387104,0.0,0.16709,1405.5365,"Bli Bli, Rosemount",9
+West Maroochydore,West Maroochydore,Mixed Domestic,4564,0.207812,0.198826,0.591731,53,23135.0,2792.489799,0.394401,0.117576,2746.8221,"Marcoola, Mudjimba, Twin Waters",3
+Whinstanes,Whinstanes,Industrial,4009,1.0,1.0,0.161263,7,7350.0,2071.564339,1.0,0.0,0.0,,4
+Whiteside,Whiteside,Mixed Domestic,4503,0.392687,0.114695,0.089332,54,8379.0,1419.481346,0.637749,0.180172,418.4903,"Kurwongbah, Whiteside",5
+Whiteside,Whiteside,Mixed Domestic,4520,0.138193,0.212194,0.093229,131,5038.0,499.539043,0.0,0.883694,388.2057,"Armstrong Creek, Kobble Creek, Samsonvale",5
+Whiteside,Whiteside,Mixed Domestic,4521,0.46912,0.673111,0.705948,220,17428.0,1695.769532,0.0,0.480383,1446.6639,"Dayboro, King Scrub, Laceys Creek, Mount Pleasant, Ocean View, Rush Creek",4
+Wivenhoe,Wivenhoe,Domestic,4306,0.975128,0.99315,0.107317,203,22202.0,2707.320264,0.308658,0.381404,1600.5725,"Banks Creek, Dundas, England Creek, Fairney View, Fernvale, Split Yard Creek, Vernor, Wivenhoe Pocket",15
+Wivenhoe,Wivenhoe,Domestic,4311,0.012847,0.0,0.003676,3,388.0,35.668259,0.0,1.0,0.0,,10
+Wivenhoe,Wivenhoe,Domestic,4312,0.012025,0.00685,0.016449,10,333.0,33.384942,0.0,1.0,16.7169,Bryden,7
+Woodford,Woodford,Domestic,4512,0.108166,0.012468,0.214303,11,3348.0,603.089714,0.692796,0.307204,31.4185,Bracalba,3
+Woodford,Woodford,Domestic,4514,0.847511,0.93834,0.872786,396,43029.0,4725.387908,0.192222,0.429179,2434.0495,"Cedarton, Commissioners Flat, D'Aguilar, Delaneys Creek, Mount Delaney, Stanmore, Stony Creek, Woodford",3
+Woodford,Woodford,Domestic,4519,0.021595,0.020117,0.020365,16,1201.0,120.406353,0.0,1.0,66.7658,Peachester,4
+Woodford,Woodford,Domestic,4521,0.022368,0.02836,0.05192,30,1244.0,124.717321,0.0,0.919614,86.6875,Mount Mee,4
+Woodford,Woodford,Domestic,4552,0.00036,0.000715,0.000414,2,20.0,2.005102,0.0,1.0,2.8164,Booroobin,6
+Woodridge,Woodridge,Domestic,4114,0.478677,0.49607,0.54547,122,52165.0,6242.762598,0.518335,0.017044,7526.5,"Kingston, Logan Central, Woodridge",5
+Woodridge,Woodridge,Domestic,4117,0.135921,0.001076,0.329324,22,16625.0,1772.640776,0.828865,0.00707,2.1649,Berrinba,5
+Woodridge,Woodridge,Domestic,4127,0.385402,0.502854,0.37089,101,41215.0,5026.296868,0.618102,0.027751,4443.7975,"Daisy Hill, Slacks Creek, Springwood",4
+Wynnum,Wynnum,Domestic,4174,0.081111,0.070524,0.050664,12,4525.0,564.595567,0.693199,0.0,309.0,Hemmant,4
+Wynnum,Wynnum,Domestic,4178,0.914352,0.909543,0.244249,151,61160.0,6364.615893,0.336879,0.046833,9673.6901,"Wynnum, Wynnum West",7
+Wynnum,Wynnum,Domestic,4179,0.004537,0.019933,0.007191,1,315.0,31.580351,0.0,0.0,240.0,Manly,3
+Yamanto,Yamanto,Domestic,4305,0.538174,0.353607,0.071209,39,17915.0,2367.79149,0.649583,0.032351,1787.1595,"Flinders View, Yamanto",9
+Yamanto,Yamanto,Domestic,4306,0.461826,0.646393,0.080543,115,22169.0,2031.888984,0.033031,0.39306,1540.6399,"Deebing Heights, Goolman, Purga, Ripley",15
+Yandina,Yandina,Mixed Industrial,4560,0.15138,0.179301,0.036915,33,7166.0,656.99052,0.204309,0.224846,910.0383,"Bli Bli, Cooloolabin, Maroochy River",9
+Yandina,Yandina,Mixed Industrial,4561,0.84862,0.820699,0.593043,179,33739.0,3683.011809,0.476133,0.174989,2177.726,"Bridges, Maroochy River, Ninderry, North Arm, Valdora, Yandina",4
+Yatala,Yatala Bus 2 + Yatala Bus 3,Mixed Industrial,4207,0.616784,0.123913,0.318918,224,131787.0,17587.596415,0.786848,0.181127,1157.7925,"Luscombe, Windaroo, Yatala",10
+Yatala,Yatala Bus 2 + Yatala Bus 3,Mixed Industrial,4208,0.382994,0.876072,0.804702,212,90286.0,10921.077578,0.6058,0.10177,6885.0,"Kingsholme, Ormeau, Ormeau Hills",3
+Yatala,Yatala Bus 2 + Yatala Bus 3,Mixed Industrial,4209,0.000221,1.5e-05,0.000225,1,63.0,6.31607,0.0,1.0,0.1584,,5
+Zillmere,Zillmere,Domestic,4018,0.029979,0.051805,0.114305,9,4415.0,398.473106,0.0,0.0,881.0,"Fitzgibbon, Taigum",3
+Zillmere,Zillmere,Domestic,4032,0.009513,0.005488,0.010064,4,1315.0,126.45091,0.353837,0.158568,141.4146,"Chermside, Chermside West",3
+Zillmere,Zillmere,Domestic,4034,0.882206,0.809973,0.45382,207,101210.0,11726.10437,0.594092,0.035285,11234.0874,"Aspley, Carseldine, Geebung, Zillmere",7
+Zillmere,Zillmere,Domestic,4035,0.078302,0.132734,0.133477,32,11145.0,1040.774983,0.0,0.051588,1194.6164,Bridgeman Downs,6

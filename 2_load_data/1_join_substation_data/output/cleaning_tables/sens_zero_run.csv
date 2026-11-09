@@ -1,0 +1,10 @@
+MIN_HOURS,RUNS_OR_DAYS,SITES,HALF_HOURS_REMOVED,PCT_OF_ALL_HALF_HOURS,SITE_DAYS_REMOVED,PCT_OF_ALL_SITE_DAYS,FORWARD_MWh_REMOVED,REVERSE_MWh_REMOVED,P_ZERO_RUN_LASTS,P_SMALL_READING_LASTS,PCT_LIKELY_FAULTS,TOP_5_SITES_PCT_OF_SITE_DAYS
+1.0,230,47,5102,0.124,287,0.336,0.0,0.0,13.31,9.568,28.114,Maleny (16.2%); Somerset Dam (15.1%); Murrumba (10.1%); Holland Park East (6.3%); Holland Park (3.8%)
+1.5,116,38,4874,0.119,183,0.214,0.0,0.0,6.713,3.66,45.479,Maleny (16.2%); Somerset Dam (4.1%); Holland Park (3.8%); Murrumba (3.8%); Holland Park East (2.5%)
+2.0,86,35,4784,0.117,157,0.184,0.0,0.0,4.977,1.94,61.025,Maleny (16.2%); Holland Park (3.8%); Yandina (2.2%); Murrumba (1.9%); Imbil (1.9%)
+3.0,57,29,4660,0.114,134,0.157,0.0,0.0,3.299,0.771,76.622,Maleny (16.2%); Holland Park (3.8%); Yandina (2.2%); Imbil (1.9%); Ningi (1.4%)
+4.0,49,27,4608,0.112,128,0.15,0.0,0.0,2.836,0.368,87.03,Maleny (16.2%); Holland Park (3.8%); Yandina (1.9%); Imbil (1.6%); Ningi (1.4%)
+6.0,32,22,4450,0.109,113,0.132,0.0,0.0,1.852,0.077,95.836,Maleny (16.2%); Holland Park (3.8%); Yandina (1.9%); Imbil (1.4%); Ningi (1.4%)
+12.0,14,11,4184,0.102,96,0.112,0.0,0.0,0.81,0.0,100.0,Maleny (16.2%); Holland Park (3.8%); Yandina (1.9%); Ningi (1.4%); Eumundi (0.8%)
+24.0,8,6,3987,0.097,90,0.105,0.0,0.0,0.463,0.0,100.0,Maleny (16.2%); Holland Park (3.8%); Yandina (1.9%); Ningi (1.4%); Eumundi (0.8%)
+48.0,5,4,3780,0.092,83,0.097,0.0,0.0,0.289,0.0,100.0,Maleny (16.2%); Holland Park (3.8%); Yandina (1.9%); Eumundi (0.8%)

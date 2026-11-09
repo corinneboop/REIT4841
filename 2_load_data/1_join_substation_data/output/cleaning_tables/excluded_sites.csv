@@ -1,0 +1,3 @@
+SUBSTATION,HALF_HOURS,MEDIAN_MW,MAX_MW,PCT_EXACTLY_ZERO,PCT_ZERO_09_1430,FORWARD_MWh_YEAR,REVERSE_MWh_YEAR,REASON
+Nth Pine Dam,17520,0.0,1.34,56.581,56.872,409.635,0.045,"Dam pumping station with no residential load: 0 MW for 57% of the year (median 0.00 MW, maximum 1.3 MW)"
+Amberley,17520,0.47,2.07,19.138,37.055,3989.305,363.63,"Small flows recorded as zero: 37% of 09:00-14:30 readings exactly 0.00 MW vs ~1.4% per adjacent 0.01 MW step, so reverse flow cannot be measured"

@@ -1,0 +1,7 @@
+MIN_HOURS,RUNS_OR_DAYS,SITES,HALF_HOURS_REMOVED,PCT_OF_ALL_HALF_HOURS,SITE_DAYS_REMOVED,PCT_OF_ALL_SITE_DAYS,FORWARD_MWh_REMOVED,REVERSE_MWh_REMOVED,PCT_ABOVE_BATTERY_CAPACITY,PCT_ABOVE_NCC,TOP_5_SITES_PCT_OF_SITE_DAYS
+0.5,31,13,1488,0.036,31,0.036,3802.11,12274.07,77.419,9.677,Annerley (3.6%); West End (1.6%); Surfers Paradise (0.5%); Bald Hills (0.3%); Camp Hill (0.3%)
+1.0,18,10,864,0.021,18,0.021,2147.185,12212.45,88.889,16.667,West End (1.6%); Annerley (0.8%); Surfers Paradise (0.5%); Bald Hills (0.3%); Camp Hill (0.3%)
+1.5,14,8,672,0.016,14,0.016,1717.655,12203.51,92.857,21.429,West End (1.6%); Surfers Paradise (0.5%); Annerley (0.3%); Bald Hills (0.3%); Maleny (0.3%)
+2.0,12,6,576,0.014,12,0.014,1291.025,12014.605,100.0,16.667,West End (1.6%); Surfers Paradise (0.5%); Bald Hills (0.3%); Annerley (0.3%); Mt Cotton (0.3%)
+3.0,10,4,480,0.012,10,0.012,1154.65,11765.515,100.0,10.0,West End (1.6%); Surfers Paradise (0.5%); Bald Hills (0.3%); Annerley (0.3%)
+4.0,9,3,432,0.011,9,0.011,1053.185,11738.745,100.0,11.111,West End (1.6%); Surfers Paradise (0.5%); Bald Hills (0.3%)

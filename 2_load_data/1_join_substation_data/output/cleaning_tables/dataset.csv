@@ -1,0 +1,9 @@
+ITEM,VALUE
+Bus files,242
+Zone substations,236
+Substations left out,2
+Substations analysed,234
+Site half-hours analysed,4099680
+Site-days analysed,85410
+"Forward energy, analysed sites (MWh, raw)",18943530
+"Reverse energy, analysed sites (MWh, raw)",262497

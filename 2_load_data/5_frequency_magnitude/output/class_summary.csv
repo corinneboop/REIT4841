@@ -1,0 +1,10 @@
+FREQ_CLASS,MAG_CLASS,POSTCODES,REVERSE_GWh,LIST,PCT_OF_REVERSE_ENERGY
+rare,low,13,0.12,"4171, 4129, 4104, 4228, 4102, 4030, 4183, 4106, 4224, 4108",0.05
+rare,approaching,0,0.0,,0.0
+rare,above,0,0.0,,0.0
+occasional,low,46,6.15,"4019, 4074, 4118, 4170, 4518, 4075, 4132, 4054, 4073, 4564",2.53
+occasional,approaching,0,0.0,,0.0
+occasional,above,0,0.0,,0.0
+frequent,low,85,132.77,"4551, 4165, 4209, 4505, 4510, 4017, 4520, 4511, 4212, 4504",54.7
+frequent,approaching,30,71.2,"4300, 4507, 4306, 4035, 4341, 4213, 4556, 4116, 4311, 4115",29.33
+frequent,above,6,32.48,"4280, 4124, 4207, 4125, 4563, 4352",13.38

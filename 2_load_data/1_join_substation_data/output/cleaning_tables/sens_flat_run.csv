@@ -1,0 +1,10 @@
+MIN_HOURS,RUNS_OR_DAYS,SITES,HALF_HOURS_REMOVED,PCT_OF_ALL_HALF_HOURS,SITE_DAYS_REMOVED,PCT_OF_ALL_SITE_DAYS,FORWARD_MWh_REMOVED,REVERSE_MWh_REMOVED,EXPECTED_BY_CHANCE,PCT_LIKELY_FAULTS,TOP_5_SITES_PCT_OF_SITE_DAYS
+1.0,52815,234,115929,2.828,12498,14.633,256909.19,3424.91,56636.804,0.0,Murrumba (100.0%); Somerset Dam (97.5%); Gibson Island (94.8%); Mt Sylvia (81.1%); Ibis (76.7%)
+1.5,5505,209,21309,0.52,1193,1.397,15671.11,1010.51,4598.086,16.474,Murrumba (93.4%); Somerset Dam (48.2%); Gibson Island (43.8%); Mt Sylvia (17.0%); Ibis (14.8%)
+2.0,1808,129,10218,0.249,516,0.604,7507.435,628.115,1195.874,33.857,Murrumba (59.7%); Somerset Dam (17.0%); Gibson Island (10.4%); Maleny (6.6%); Mt Sylvia (5.2%)
+3.0,428,65,4288,0.105,158,0.185,5490.82,317.39,159.048,62.839,Murrumba (14.5%); Maleny (6.6%); Somerset Dam (2.5%); Gibson Island (0.8%); Gympie (0.8%)
+4.0,153,40,2537,0.062,87,0.102,4224.36,290.965,26.177,82.891,Maleny (6.6%); Murrumba (6.3%); Somerset Dam (1.4%); Postmans Ridge (0.5%); Stradbroke Is (0.5%)
+6.0,30,12,1448,0.035,41,0.048,3066.14,204.0,0.814,97.287,Maleny (6.6%); Murrumba (1.9%); Stradbroke Is (0.5%); Darra (0.3%); Carpendale (0.3%)
+12.0,2,1,1071,0.026,23,0.027,2597.8,0.0,0.0,99.999,Maleny (6.3%)
+24.0,1,1,1024,0.025,22,0.026,2539.52,0.0,0.0,100.0,Maleny (6.0%)
+48.0,1,1,1024,0.025,22,0.026,2539.52,0.0,0.0,100.0,Maleny (6.0%)
