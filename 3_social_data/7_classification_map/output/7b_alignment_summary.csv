@@ -1,0 +1,5 @@
+alignment,postcodes,constrained,solar_sites,people,median_need_kWh,median_storage_kWh,median_coverage,total_gap_MWh,median_agreement,share_of_solar_sites,share_of_total_gap
+under-aligned (above capacity),16,16,96347.667,377624,4.595,1.14,0.239,330.535,0.833,0.125,0.273
+under-aligned (below capacity),68,12,303658.0,1239706,3.385,0.938,0.294,787.165,0.5,0.395,0.65
+aligned,41,1,215553.667,955576,1.296,0.979,0.725,92.533,0.5,0.281,0.076
+over-aligned,61,4,152629.0,951941,0.004,0.898,8.891,0.0,1.0,0.199,0.0

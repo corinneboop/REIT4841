@@ -1,0 +1,27 @@
+variable,description,theme
+log_income,Income: household (log median),Income
+pct_age_20_29,Age: % 20-29,Age (persons)
+pct_over_65,Age: % 65+,Age (persons)
+pct_families_children,Family: % families with children under 15,Family (families)
+pct_owned_outright,Tenure: % owned outright,Tenure (dwellings)
+pct_owned_mortgage,Tenure: % owned with mortgage,Tenure (dwellings)
+pct_rented,Tenure: % rented,Tenure (dwellings)
+pct_house,Dwelling: % separate house,Dwelling type (dwellings)
+pct_apartment,Dwelling: % apartment,Dwelling type (dwellings)
+pct_married,Relationship: % married,Relationship (persons 15+)
+pct_bachelor_or_higher,Education: % bachelor or higher,Education (persons 15+)
+pct_trades_workers,Occupation: % technicians and trades workers,Occupation (employed)
+pct_fulltime_15plus,Employment: % full time,Employment (persons 15+)
+pct_unemployed_15plus,Employment: % unemployed,Employment (persons 15+)
+pct_not_in_labour_force,Employment: % not in labour force,Employment (persons 15+)
+business_share_pct,Load: % business consumption,Load composition
+res_kWh_per_customer_day,Load: residential kWh per customer per day,Load composition
+log_bus_customers_per_1000_dw,"Load: business customers per 1,000 dwellings (log)",Load composition
+industrial_substation_pct,Load: % energy from industrial substations,Load composition
+log_dwelling_density,Built form: dwellings per km2 residential land (log),Built form / network
+res_tr_kVA_per_dwelling,Network: residential transformer kVA per dwelling,Built form / network
+log_ceg_per_solar_kVA,Network: substation CEG per kVA of solar (log),Built form / network
+dist_coast_km,Location: distance to coast (km),Location
+pv_kVA_per_dwelling,Solar: kVA per dwelling,Technical
+avg_solar_kVA_per_site,Solar: kVA per solar site,Technical
+major_city,Location: major city (1/0),Location

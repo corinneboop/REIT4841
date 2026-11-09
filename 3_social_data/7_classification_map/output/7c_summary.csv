@@ -1,0 +1,3 @@
+test,chi2,p_perm,cramers_V
+alignment (4 categories) x group (main),63.3728,0.0001,0.337
+"alignment x group, postcodes with P90 need > 0 (groups with >= 5 such postcodes)",35.766,0.0002,0.2747

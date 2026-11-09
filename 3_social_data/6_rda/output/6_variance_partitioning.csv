@@ -1,0 +1,4 @@
+response_block,census_adjR2,solar_load_location_adjR2,both_adjR2,[a] census only,[b] shared,"[c] solar, load & location only",[d] unexplained
+all six,0.2446,0.3181,0.4302,0.1121,0.1325,0.1856,0.5698
+need,0.3592,0.403,0.4954,0.0924,0.2668,0.1362,0.5046
+storage,0.13,0.2332,0.365,0.1318,-0.0018,0.2351,0.635

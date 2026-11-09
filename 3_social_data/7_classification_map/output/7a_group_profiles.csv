@@ -1,0 +1,9 @@
+,G1 Higher-income families,"G2 Older, not in labour force",G3 Lower-income families,G4 Young inner-urban
+Income: household (log median),0.663,-1.109,-0.479,0.34
+Age: % 20-29,-0.299,-0.713,0.444,1.669
+Family: % families with children under 15,0.406,-0.861,0.905,-0.766
+Dwelling: % separate house,0.323,0.38,0.206,-1.873
+Occupation: % technicians and trades workers,-0.009,0.649,0.266,-1.365
+Employment: % unemployed,-0.307,-0.633,1.525,0.395
+Employment: % not in labour force,-0.395,1.199,0.058,-0.876
+postcodes,84.0,46.0,29.0,27.0

@@ -1,0 +1,7 @@
+response,R2_on_census,adj_R2
+P90 daily excess (main),0.4244,0.4018
+% days with excess,0.4503,0.4287
+capacity-weighted P90,0.2757,0.2472
+battery kWh per solar home (main),0.2217,0.1911
+battery uptake,0.1247,0.0903
+kWh per battery,0.1423,0.1086

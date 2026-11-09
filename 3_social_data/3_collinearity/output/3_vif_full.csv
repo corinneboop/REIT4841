@@ -1,0 +1,15 @@
+variable,description,VIF
+pct_rented,Tenure: % rented,18.94
+pct_owned_outright,Tenure: % owned outright,15.4
+pct_apartment,Dwelling: % apartment,15.12
+pct_over_65,Age: % 65+,14.48
+pct_house,Dwelling: % separate house,12.41
+pct_fulltime_15plus,Employment: % full time,11.56
+log_income,Income: household (log median),11.54
+pct_families_children,Family: % families with children under 15,10.43
+pct_not_in_labour_force,Employment: % not in labour force,9.81
+pct_age_20_29,Age: % 20-29,9.24
+pct_married,Relationship: % married,8.66
+pct_bachelor_or_higher,Education: % bachelor or higher,8.27
+pct_trades_workers,Occupation: % technicians and trades workers,6.13
+pct_unemployed_15plus,Employment: % unemployed,3.99

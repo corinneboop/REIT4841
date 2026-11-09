@@ -1,0 +1,8 @@
+variable,description,VIF,also_represents
+log_income,Income: household (log median),4.438,
+pct_age_20_29,Age: % 20-29,3.405,"pct_rented (+0.80), pct_owned_outright (-0.78), pct_married (-0.69)"
+pct_families_children,Family: % families with children under 15,2.908,
+pct_house,Dwelling: % separate house,3.162,pct_apartment (-0.87)
+pct_trades_workers,Occupation: % technicians and trades workers,2.223,pct_bachelor_or_higher (-0.76)
+pct_unemployed_15plus,Employment: % unemployed,2.605,
+pct_not_in_labour_force,Employment: % not in labour force,4.423,"pct_over_65 (+0.77), pct_fulltime_15plus (-0.91)"

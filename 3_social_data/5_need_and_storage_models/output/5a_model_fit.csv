@@ -1,0 +1,2 @@
+model,n,k,R2,adj_R2,AIC,max_VIF
+Main model,186,15,0.572,0.5342,265.0743,5.4898

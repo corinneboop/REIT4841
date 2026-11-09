@@ -1,0 +1,15 @@
+variable_1,variable_2,spearman_rho,description_1,description_2
+pct_fulltime_15plus,pct_not_in_labour_force,-0.91,Employment: % full time,Employment: % not in labour force
+pct_house,pct_apartment,-0.87,Dwelling: % separate house,Dwelling: % apartment
+pct_rented,pct_married,-0.858,Tenure: % rented,Relationship: % married
+log_income,pct_fulltime_15plus,0.839,Income: household (log median),Employment: % full time
+pct_over_65,pct_owned_outright,0.812,Age: % 65+,Tenure: % owned outright
+log_income,pct_not_in_labour_force,-0.803,Income: household (log median),Employment: % not in labour force
+pct_age_20_29,pct_rented,0.802,Age: % 20-29,Tenure: % rented
+pct_age_20_29,pct_owned_outright,-0.78,Age: % 20-29,Tenure: % owned outright
+pct_rented,pct_house,-0.779,Tenure: % rented,Dwelling: % separate house
+pct_over_65,pct_not_in_labour_force,0.772,Age: % 65+,Employment: % not in labour force
+pct_bachelor_or_higher,pct_trades_workers,-0.763,Education: % bachelor or higher,Occupation: % technicians and trades workers
+pct_owned_mortgage,pct_married,0.728,Tenure: % owned with mortgage,Relationship: % married
+pct_owned_outright,pct_rented,-0.706,Tenure: % owned outright,Tenure: % rented
+pct_over_65,pct_fulltime_15plus,-0.705,Age: % 65+,Employment: % full time

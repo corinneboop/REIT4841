@@ -1,0 +1,8 @@
+step,removed,description,VIF_when_removed,max_VIF_after,variables_left,most_correlated_kept_variable,rho_with_it
+1,pct_rented,Tenure: % rented,18.936,15.099,13,pct_age_20_29,0.802
+2,pct_apartment,Dwelling: % apartment,15.099,12.903,12,pct_house,-0.87
+3,pct_over_65,Age: % 65+,12.903,11.076,11,pct_not_in_labour_force,0.772
+4,pct_fulltime_15plus,Employment: % full time,11.076,8.079,10,pct_not_in_labour_force,-0.91
+5,pct_owned_outright,Tenure: % owned outright,8.059,7.976,9,pct_age_20_29,-0.78
+6,pct_bachelor_or_higher,Education: % bachelor or higher,7.588,7.436,8,pct_trades_workers,-0.763
+7,pct_married,Relationship: % married,7.436,4.438,7,pct_age_20_29,-0.686

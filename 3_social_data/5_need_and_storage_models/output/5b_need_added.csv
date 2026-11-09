@@ -1,0 +1,2 @@
+need_measure,n,unadjusted_pct_per_SD,unadjusted_p,adjusted_pct_per_SD,adjusted_p,R2_main,R2_main_plus_need
+log(1 + P90 daily excess per solar site),186,4.59,0.0264,1.5682,0.4532,0.5776,0.5795

@@ -1,0 +1,16 @@
+cluster,size,variable,description
+1,11,log_income,Income: household (log median)
+1,11,pct_age_20_29,Age: % 20-29
+1,11,pct_over_65,Age: % 65+
+1,11,pct_owned_outright,Tenure: % owned outright
+1,11,pct_owned_mortgage,Tenure: % owned with mortgage
+1,11,pct_rented,Tenure: % rented
+1,11,pct_house,Dwelling: % separate house
+1,11,pct_apartment,Dwelling: % apartment
+1,11,pct_married,Relationship: % married
+1,11,pct_fulltime_15plus,Employment: % full time
+1,11,pct_not_in_labour_force,Employment: % not in labour force
+2,2,pct_bachelor_or_higher,Education: % bachelor or higher
+2,2,pct_trades_workers,Occupation: % technicians and trades workers
+3,1,pct_families_children,Family: % families with children under 15
+4,1,pct_unemployed_15plus,Employment: % unemployed

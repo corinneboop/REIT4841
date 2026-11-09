@@ -1,0 +1,16 @@
+model,variable,description,coef_per_SD,pct_per_SD,se,ci_low,ci_high,p,sig
+Main model,avg_solar_kVA_per_site,Capital: solar system size (kVA per site),0.1652,17.9645,0.0543,0.0588,0.2717,0.0024,***
+Main model,log_income,Capital: household income (log median),0.1503,16.2236,0.0963,-0.0385,0.3392,0.1186,
+Main model,pct_age_20_29,Age: % 20-29,-0.1392,-12.9945,0.0818,-0.2995,0.0211,0.0887,*
+Main model,pct_families_children,Family: % families with children under 15,0.0264,2.6715,0.0721,-0.115,0.1677,0.7148,
+Main model,pct_house,Dwelling: % separate house,-0.0781,-7.5091,0.0858,-0.2462,0.0901,0.3629,
+Main model,pct_trades_workers,Occupation: % technicians and trades workers,0.317,37.2982,0.0658,0.1879,0.446,0.0,***
+Main model,pct_unemployed_15plus,Employment: % unemployed,0.1186,12.595,0.0722,-0.0229,0.2602,0.1005,
+Main model,pct_not_in_labour_force,Employment: % not in labour force,0.1313,14.0264,0.1065,-0.0775,0.34,0.2177,
+Main model,business_share_pct,Load: % business consumption,-0.2621,-23.0547,0.0494,-0.3588,-0.1653,0.0,***
+Main model,region_Gold Coast,Region: Gold Coast (vs Brisbane),-0.7041,-50.543,0.1971,-1.0904,-0.3177,0.0004,***
+Main model,region_Ipswich,Region: Ipswich (vs Brisbane),-0.2053,-18.5603,0.1577,-0.5144,0.1038,0.193,
+Main model,region_Logan - Beaudesert,Region: Logan - Beaudesert (vs Brisbane),-0.4426,-35.7667,0.1541,-0.7447,-0.1406,0.0041,***
+Main model,region_Moreton Bay,Region: Moreton Bay (vs Brisbane),-0.0888,-8.4947,0.1118,-0.3078,0.1303,0.427,
+Main model,region_Other SEQ,Region: Other SEQ (vs Brisbane),0.1224,13.0233,0.2267,-0.3218,0.5667,0.5891,
+Main model,region_Sunshine Coast,Region: Sunshine Coast (vs Brisbane),-0.3643,-30.5314,0.1419,-0.6425,-0.0861,0.0103,**

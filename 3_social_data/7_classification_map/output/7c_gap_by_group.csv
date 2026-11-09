@@ -1,0 +1,5 @@
+group,postcodes,solar_sites,gap_MWh,under_aligned,robust_under_aligned,median_gap_kWh,under_aligned_above_capacity,share_solar_sites,share_of_gap,gap_share_ratio
+G1 Higher-income families,84,405065.0,669.109,41,13,1.055,6,0.527,0.553,1.049
+"G2 Older, not in labour force",46,137927.333,275.406,29,12,1.336,6,0.18,0.228,1.267
+G3 Lower-income families,29,160462.0,265.719,14,4,1.173,4,0.209,0.22,1.051
+G4 Young inner-urban,27,64734.0,0.0,0,0,0.0,0,0.084,0.0,0.0

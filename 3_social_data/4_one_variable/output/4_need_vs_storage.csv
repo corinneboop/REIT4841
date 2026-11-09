@@ -1,0 +1,13 @@
+need,storage,rho,p,q_BH
+P90 daily excess per solar site,Battery kWh per solar home,0.1759,0.0163,0.0426
+P90 daily excess per solar site,Battery uptake (% of solar homes),0.1585,0.0308,0.0615
+P90 daily excess per solar site,kWh per battery,0.0161,0.8272,0.8272
+Annual excess per solar site,Battery kWh per solar home,0.2054,0.0049,0.0426
+Annual excess per solar site,Battery uptake (% of solar homes),0.1737,0.0177,0.0426
+Annual excess per solar site,kWh per battery,0.0373,0.6134,0.6692
+% of days with excess,Battery kWh per solar home,0.1915,0.0088,0.0426
+% of days with excess,Battery uptake (% of solar homes),0.147,0.0452,0.0776
+% of days with excess,kWh per battery,0.0647,0.3806,0.4609
+Capacity-weighted P90 excess,Battery kWh per solar home,0.1804,0.0137,0.0426
+Capacity-weighted P90 excess,Battery uptake (% of solar homes),0.1427,0.052,0.078
+Capacity-weighted P90 excess,kWh per battery,0.0642,0.3841,0.4609

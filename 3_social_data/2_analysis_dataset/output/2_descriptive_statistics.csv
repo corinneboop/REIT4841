@@ -1,0 +1,44 @@
+,description,mean,std,min,25%,50%,75%,max,skew,count
+annual_excess_MWh,Annual excess (MWh),1311.42,2151.671,0.0,53.181,549.218,1591.953,13678.377,2.994,
+excess_kWh_per_site,Annual excess per solar site (kWh),274.276,312.624,0.0,27.303,192.56,401.616,1733.8,1.783,
+log_excess,log(1 + excess per site),4.533,1.977,0.0,3.343,5.266,5.998,7.459,-0.914,
+log_income,Income: household (log median),7.467,0.258,6.635,7.271,7.491,7.652,8.13,-0.321,
+pct_age_20_29,Age: % 20-29,12.753,5.441,4.103,9.324,11.846,14.543,37.226,1.811,
+pct_over_65,Age: % 65+,17.287,6.873,5.416,12.606,16.94,19.92,47.174,1.368,
+pct_families_children,Family: % families with children under 15,37.059,7.332,14.939,33.887,37.96,41.449,63.866,-0.289,
+pct_owned_outright,Tenure: % owned outright,29.857,9.262,8.075,23.034,29.837,35.682,56.668,0.243,
+pct_owned_mortgage,Tenure: % owned with mortgage,37.147,9.88,13.787,29.647,37.153,44.143,63.001,0.016,
+pct_rented,Tenure: % rented,29.857,13.35,7.049,19.988,27.555,38.631,75.729,0.702,
+pct_house,Dwelling: % separate house,76.724,21.34,4.29,68.419,84.209,92.682,99.844,-1.278,
+pct_apartment,Dwelling: % apartment,11.855,19.555,0.0,0.629,2.531,12.556,92.818,2.191,
+pct_married,Relationship: % married,58.942,5.971,41.701,55.099,59.787,63.475,70.984,-0.654,
+pct_bachelor_or_higher,Education: % bachelor or higher,24.136,12.102,6.499,14.15,21.648,32.329,55.746,0.736,
+pct_trades_workers,Occupation: % technicians and trades workers,13.545,3.214,4.869,11.495,13.923,15.973,20.515,-0.496,
+pct_fulltime_15plus,Employment: % full time,34.108,7.1,10.817,29.223,35.176,38.802,48.726,-0.481,
+pct_unemployed_15plus,Employment: % unemployed,3.195,0.92,1.124,2.593,2.958,3.66,6.775,1.063,
+pct_not_in_labour_force,Employment: % not in labour force,32.354,8.02,15.735,27.688,31.071,35.65,64.444,1.336,
+business_share_pct,Load: % business consumption,49.178,20.813,4.51,35.745,48.28,63.35,96.98,0.197,
+res_kWh_per_customer_day,Load: residential kWh per customer per day,17.123,2.828,10.679,15.453,17.037,18.443,34.233,1.41,
+log_bus_customers_per_1000_dw,"Load: business customers per 1,000 dwellings (log)",4.463,0.79,2.635,3.958,4.391,4.954,6.984,0.234,
+industrial_substation_pct,Load: % energy from industrial substations,24.312,35.222,0.0,0.0,0.0,44.483,100.0,1.121,
+log_dwelling_density,Built form: dwellings per km2 residential land (log),6.244,1.2,2.28,5.471,6.538,7.073,9.019,-0.639,
+res_tr_kVA_per_dwelling,Network: residential transformer kVA per dwelling,6.037,2.272,0.513,4.923,5.597,6.754,19.971,2.325,
+log_ceg_per_solar_kVA,Network: substation CEG per kVA of solar (log),0.137,0.815,-1.561,-0.419,0.058,0.53,4.011,1.219,
+pv_kVA_per_dwelling,Solar: kVA per dwelling,4.104,2.156,0.772,2.92,3.971,4.835,18.567,3.067,
+avg_solar_kVA_per_site,Solar: kVA per solar site,5.272,0.686,3.218,4.896,5.254,5.762,7.007,-0.227,
+major_city,Location: major city (1/0),0.672,0.471,0.0,0.0,1.0,1.0,1.0,-0.739,
+dist_coast_km,Location: distance to coast (km),19.12,20.12,0.279,5.425,14.399,23.102,103.731,2.125,
+uptake_pct,uptake_pct,5.536,1.271,2.235,4.697,5.407,6.274,10.767,,186.0
+battery_kWh_per_solar_site,battery_kWh_per_solar_site,1.012,0.262,0.478,0.86,0.981,1.153,2.943,,186.0
+uptake_all_pct,uptake_all_pct,5.325,1.292,1.941,4.469,5.262,5.999,10.861,,186.0
+battery_kWh_per_solar_site_all,battery_kWh_per_solar_site_all,1.002,0.289,0.497,0.828,0.962,1.116,2.878,,186.0
+new_uptake_pp,new_uptake_pp,5.468,1.22,2.318,4.634,5.451,6.244,9.205,,186.0
+need_p90_kWh_per_site,need_p90_kWh_per_site,2.102,2.1,0.0,0.135,1.713,3.556,10.347,,186.0
+need_p75_kWh_per_site,need_p75_kWh_per_site,1.038,1.31,0.0,0.0,0.595,1.621,6.903,,186.0
+need_median_kWh_per_site,need_median_kWh_per_site,0.402,0.716,0.0,0.0,0.08,0.405,4.329,,186.0
+pct_days_with_excess,pct_days_with_excess,57.879,32.814,0.0,23.727,74.76,84.921,96.409,,186.0
+coverage_p90,coverage_p90,10.1,47.657,0.088,0.279,0.465,1.233,448.424,,158.0
+coverage_p75,coverage_p75,10.274,51.172,0.133,0.533,1.01,2.136,533.997,,138.0
+coverage_median,coverage_median,39.482,158.758,0.247,1.329,3.147,8.313,1091.47,,118.0
+above_ceg_kWh_per_site,above_ceg_kWh_per_site,10.302,77.553,0.0,0.0,0.0,0.0,805.608,,186.0
+pct_reverse_above_ceg,pct_reverse_above_ceg,0.906,5.865,0.0,0.0,0.0,0.0,54.427,,178.0
